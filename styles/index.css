@@ -1,0 +1,18 @@
+article {
+    width: 300px;
+}
+
+#covers_container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#covers_container div {
+    width: 120px;
+    text-align: center;
+}
+
+#covers_container div img {
+    width: 100px;
+}
