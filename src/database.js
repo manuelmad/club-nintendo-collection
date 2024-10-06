@@ -1466,6 +1466,14 @@ const inventory = [
     {
         "YEAR EDIT": 15,
         "YEAR DATE": 2006,
+        "MONTH": "APRIL",
+        "YEAR NUMBER": "SPECIAL2",
+        "OVERALL NUMBER": "SPECIAL2",
+        "OWNED": "NO"
+    },
+    {
+        "YEAR EDIT": 15,
+        "YEAR DATE": 2006,
         "MONTH": "MAY",
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 174,

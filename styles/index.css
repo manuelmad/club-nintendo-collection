@@ -1,18 +1,139 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-family: "Bai Jamjuree", sans-serif;
+	font-size: 62.5%;
+}
+
+:root {
+	--very-light-gray:#efefef;
+	--text-input-field: #F7F7F7;
+	--hospital-green: #ACD982;
+	--very-light-blue:#e9f1f8;
+	--dark-blue: #252C5A;
+	--light-blue: rgb(195, 244, 254);
+	--white: #FFFFFF;
+	--black: #000000;
+	--medium-blue: #048ba3;
+	--kind-pink: #f7e8e3;
+	--dark-pink:  #f8879a;
+	--background: #fcf9f9;
+
+	--rojo-granate: #AB2A3E;
+    --dark-red: rgb(154, 2, 2);
+	--green: green;
+	--verde-planta: #7eab2a;
+	--verde-azulado: #2aab97;
+	--morado-brillante: #562aab;
+	--azul-brillante: #2a3eab;
+	--granate-oscuro: #401017;
+
+	--dark-orange: rgb(131, 86, 3);
+	--light-orange: rgb(252, 231, 192);
+	--dark-yellow: rgb(221, 221, 3);
+	--light-yellow: rgb(252, 252, 176);
+
+	--dark-grey: rgb(36, 36, 36);
+	--light-grey: rgb(159, 157, 157);
+
+	--granate-claro: #b73d4b;
+
+	--ss: 1.2rem;
+	--sm: 1.4rem;
+	--md: 1.5rem;
+	--lg: 2rem;
+	--xlg: 2.4rem;
+	--xxlg: 3.5rem;
+	--xxxlg: 5.5rem;
+}
+
+main {
+	width: 100%;
+	font-size: var(--md);
+    padding: 0 0 4rem;
+    background-color: var(--very-light-gray);
+}
+
+h1, h2 {
+    text-align: center;
+    align-content: center;
+}
+
+h1 {
+    background-color: var(--dark-red);
+    color: var(--white);
+}
+
+h2 {
+    margin-top: 4rem;
+    width: 30rem;
+    margin: 0 auto;
+    padding: 1rem;
+    border-bottom: 0.1rem solid var(--dark-red);
+}
+
 article {
-    width: 300px;
+    width: 30rem;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    padding-bottom: 1rem;
+}
+
+ul {
+    width: 20rem;
+    margin: 0 auto;
+    list-style: none;
+}
+
+ul li {
+    width: 13rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+    text-decoration: underline;
+}
+
+.section1 {
+    background-color: var(--very-light-gray);
+    padding: 2rem 0;
+}
+
+.section2 {
+    display: none;
+    padding: 2rem 0;
+    background-color: var(--white);
 }
 
 #covers_container {
     margin: 0 auto;
+    margin-top: 2rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 1rem;
 }
 
 #covers_container div {
-    width: 120px;
+    width: 13rem;
+    height: 28rem;
     text-align: center;
+    align-content: top;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: var(--very-light-gray);
 }
 
 #covers_container div img {
-    width: 100px;
+    width: 10rem;
+    height: 13.3rem;
+    border-radius: 0.5rem;
+}
+
+#covers_container div p {
+    width: 10rem;
+    font-size: var(--sm);
+    text-align: start;
 }
