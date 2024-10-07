@@ -94,6 +94,11 @@ ul li {
     margin: 0 auto;
     margin-top: 1rem;
     text-decoration: underline;
+    cursor: pointer;
+}
+
+ul li:active {
+    color: var(--dark-red);
 }
 
 .section1 {
