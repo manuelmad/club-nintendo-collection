@@ -7,16 +7,12 @@ for(let i = 1; i<=24; i++) {
     year_editions.push(i);
 }
 
-console.log(year_editions);
-
 // Defining years active
 let year_dates = [];
 
 for(let i = 1991; i<=2015; i++) {
     year_dates.push(i);
 }
-
-console.log(year_dates);
 
 // Accesing years container and adding first year
 const years_container = document.getElementById('years_container');
@@ -107,7 +103,7 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                     }
                     p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
                 }
-                //console.log(img.src);
+                
                 const p2 = document.createElement('p');
                 p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
                 p2.style.fontWeight = 'bold';
@@ -141,3 +137,86 @@ for(let i=1; i<=year_editions.length - 1; i++) {
 
 years_container.appendChild(ul);
 
+// Accessing search input
+const search_input = document.getElementById("search_input");
+
+// Make a search everytime something is written in the search input
+search_input.addEventListener('input', ()=> {
+    // If nothing in search input, clean container, hide section and stop the function
+    if(search_input.value == "") {
+        section2.style.display = 'none';
+        covers_container.innerHTML = '';
+        return;
+    }
+    
+    // Show section and clean container
+    section2.style.display = 'block';
+	covers_container.innerHTML = '';
+
+    // Update h2 with the keyword of the search
+    const h2 = document.getElementById('year');
+    h2.innerHTML = `SEARCH BY "${(search_input.value).toUpperCase()}"`;
+
+    // Show every magazine wich cover contains the keyword
+	inventory.forEach(magazine => {
+        // Get all keywords of the magazine cover
+        let search_guide = magazine['COVER'];
+
+        // If a keyword is a number, make it a string
+        if(typeof search_guide == "number") {
+            search_guide = search_guide.toString();
+        }
+
+        // Make the searh input uppercase
+        const search_word = (search_input.value).toUpperCase();
+
+        // Logic to check if the search input is included in the keywords of the magazine
+        const check = search_guide.includes(search_word);
+
+		if(check) {
+            const div = document.createElement('div');
+            const img = document.createElement('img');
+            const p = document.createElement('p');
+            if(magazine['YEAR NUMBER'] == 'SPECIAL') {
+                img.src= `../imgs/${magazine['YEAR EDIT']}/SPECIAL.jpg`;
+                p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
+            } else if (magazine['YEAR NUMBER'] == 'SPECIAL2'){
+                img.src= `../imgs/${magazine['YEAR EDIT']}/SPECIAL2.jpg`;
+                p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
+            } else {
+                // This conditional was only needed because I didn't want to covert the .webp files of the first 7 years into .jpg
+                if(magazine['YEAR EDIT'] <= 7) {
+                    img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.webp`;
+                } else {
+                   img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.jpg`
+                }
+                p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
+            }
+            
+            const p2 = document.createElement('p');
+            p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
+            p2.style.fontWeight = 'bold';
+
+            if(p2.innerText == 'Owned') {
+                p2.style.color = '#00913f';
+            } else {
+                p2.style.color = '#FF0000';
+            }
+
+            const p3 = document.createElement('p');
+            p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
+            p3.style.fontWeight = 'bold';
+
+            const p4 = document.createElement('p');
+            p4.innerHTML = `Year ${magazine['YEAR EDIT']} No. ${magazine['YEAR NUMBER']}`;
+            p4.style.fontWeight = 'bold';
+            
+            div.appendChild(img);
+            div.appendChild(p3);
+            div.appendChild(p4);
+            div.appendChild(p);
+            div.appendChild(p2);
+            covers_container.appendChild(div);
+		}
+	});
+});

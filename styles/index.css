@@ -87,6 +87,7 @@ ul {
     width: 20rem;
     margin: 0 auto;
     list-style: none;
+    margin-top: 2rem;
 }
 
 ul li {
@@ -104,6 +105,35 @@ ul li:active {
 .section1 {
     background-color: var(--very-light-gray);
     padding: 2rem 0;
+}
+
+.section1>p {
+    width: 25rem;
+    margin: 0 auto;
+    text-align: center;
+    font-size: var(--lg);
+}
+
+.filter-container {
+    margin-top: 2rem;
+}
+
+.filter-container div {
+    width: 25rem;
+    margin: 0 auto;
+}
+
+.filter-container div p:first-child {
+    font-size: var(--lg);
+}
+
+#search_input {
+    width: 100%;
+    height: 5rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    font-size: var(--md);
+    margin-top: 1rem;
 }
 
 .section2 {
