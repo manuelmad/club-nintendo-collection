@@ -40,11 +40,19 @@ first_li.addEventListener('click', ()=> {
                 img.src= `../imgs/1/${magazine['YEAR NUMBER']}.webp`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
+
             const p2 = document.createElement('p');
-            p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
+            if(magazine.OWNED == 'YES') {
+                p2.innerHTML = 'Owned';
+            } else if(magazine.OWNED == 'YES-POOR') {
+                p2.innerHTML = 'Owned (poor)';
+            } else if(magazine.OWNED == 'NO') {
+                p2.innerHTML = 'Pending';
+            }
+            //p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
             p2.style.fontWeight = 'bold';
 
-            if(p2.innerText == 'Owned') {
+            if(p2.innerText == 'Owned' || p2.innerText == 'Owned (poor)') {
                 p2.style.color = '#00913f';
             } else {
                 p2.style.color = '#FF0000';
@@ -105,10 +113,17 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                 }
                 
                 const p2 = document.createElement('p');
-                p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
+                if(magazine.OWNED == 'YES') {
+                    p2.innerHTML = 'Owned';
+                } else if(magazine.OWNED == 'YES-POOR') {
+                    p2.innerHTML = 'Owned (poor)';
+                } else if(magazine.OWNED == 'NO') {
+                    p2.innerHTML = 'Pending';
+                }
+                //p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
                 p2.style.fontWeight = 'bold';
 
-                if(p2.innerText == 'Owned') {
+                if(p2.innerText == 'Owned' || p2.innerText == 'Owned (poor)') {
                     p2.style.color = '#00913f';
                 } else {
                     p2.style.color = '#FF0000';
@@ -194,10 +209,17 @@ search_input.addEventListener('input', ()=> {
             }
             
             const p2 = document.createElement('p');
-            p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
+            if(magazine.OWNED == 'YES') {
+                p2.innerHTML = 'Owned';
+            } else if(magazine.OWNED == 'YES-POOR') {
+                p2.innerHTML = 'Owned (poor)';
+            } else if(magazine.OWNED == 'NO') {
+                p2.innerHTML = 'Pending';
+            }
+            //p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
             p2.style.fontWeight = 'bold';
 
-            if(p2.innerText == 'Owned') {
+            if(p2.innerText == 'Owned' || p2.innerText == 'Owned (poor)') {
                 p2.style.color = '#00913f';
             } else {
                 p2.style.color = '#FF0000';
