@@ -14,6 +14,11 @@ for(let i = 1991; i<=2015; i++) {
     year_dates.push(i);
 }
 
+const  total_magazines = inventory.length;
+console.log(total_magazines);
+
+let total_owned_magazines = 0;
+
 // Accesing years container and adding first year
 const years_container = document.getElementById('years_container');
 const covers_container = document.getElementById('covers_container');
@@ -21,7 +26,24 @@ const section2 = document.querySelector('.section2');
 
 const ul = document.createElement('ul');
 const first_li = document.createElement('li');
-first_li.innerHTML = `Year ${year_editions[0]} : ${year_dates[0]} - ${year_dates[1]}`;
+
+// Counting the total and owned magazines in year 1
+let magazines_number_1 = 0;
+let owned_magazines_number_1 = 0;
+
+inventory.forEach(magazine => {
+    if(magazine['YEAR EDIT']==1) {
+        magazines_number_1++;
+        if(magazine.OWNED == 'YES' || magazine.OWNED == 'YES-POOR') {
+            owned_magazines_number_1++;
+            total_owned_magazines++;
+        }
+    }
+});
+
+first_li.innerHTML = `Year ${year_editions[0]} : ${year_dates[0]} - ${year_dates[1]} (${owned_magazines_number_1}/${magazines_number_1})`;
+
+// Adding event so first li shows its magazines
 first_li.addEventListener('click', ()=> {
     covers_container.innerHTML = '';
 
@@ -49,7 +71,7 @@ first_li.addEventListener('click', ()=> {
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
             }
-            //p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
+
             p2.style.fontWeight = 'bold';
 
             if(p2.innerText == 'Owned' || p2.innerText == 'Owned (poor)') {
@@ -80,10 +102,26 @@ ul.appendChild(first_li);
 
 
 let year_dates_control = 2;
-// Adding rest of years
+// Adding rest of years as li
 for(let i=1; i<=year_editions.length - 1; i++) {
     const li = document.createElement('li');
-    li.innerHTML = `Year ${year_editions[i]} : ${year_dates[year_dates_control]}`;
+
+    // Counting the total and owned magazines in current year
+    let magazines_number = 0;
+    let owned_magazines_number = 0;
+
+    inventory.forEach(magazine => {
+        if(magazine['YEAR EDIT'] == year_editions[i]) {
+            magazines_number++;
+            if(magazine.OWNED == 'YES' || magazine.OWNED == 'YES-POOR') {
+                owned_magazines_number++;
+                total_owned_magazines++;
+            }
+        }
+    });
+
+    li.innerHTML = `Year ${year_editions[i]} : ${year_dates[year_dates_control]} (${owned_magazines_number}/${magazines_number})`;
+
     year_dates_control++;
     li.addEventListener('click', () => {
         covers_container.innerHTML = '';
@@ -242,3 +280,7 @@ search_input.addEventListener('input', ()=> {
 		}
 	});
 });
+
+// show the total count
+const total_count = document.getElementById('total_count');
+total_count.innerHTML =  `Total count: ${total_owned_magazines}/ ${total_magazines} magazines.`;

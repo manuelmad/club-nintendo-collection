@@ -91,7 +91,7 @@ ul {
 }
 
 ul li {
-    width: 13rem;
+    width: 18rem;
     margin: 0 auto;
     margin-top: 1rem;
     text-decoration: underline;
@@ -112,6 +112,14 @@ ul li:active {
     margin: 0 auto;
     text-align: center;
     font-size: var(--lg);
+}
+
+#total_count_container {
+    margin-top: 4rem;
+}
+
+#total_count {
+    text-align: center;
 }
 
 .filter-container {
