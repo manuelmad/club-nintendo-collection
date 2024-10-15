@@ -924,7 +924,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 98,
         "COVER": "MARIO PARTY 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 9,
@@ -933,7 +933,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 99,
         "COVER": "RR 64",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 9,
@@ -951,7 +951,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 101,
         "COVER": "POKEMON TRADING CARD GAME",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 9,
@@ -960,7 +960,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 102,
         "COVER": "PERFECT DARK",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 9,
@@ -969,7 +969,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 103,
         "COVER": "EXCITEBIKE 64",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 9,
@@ -1041,7 +1041,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 111,
         "COVER": "MEGA MAN 64",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1077,7 +1077,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 114,
         "COVER": "MARIO PARTY 3",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1086,7 +1086,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 115,
         "COVER": "GAMEBOY ADVANCE",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1095,7 +1095,7 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 116,
         "COVER": "CASTLEVANIA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1113,7 +1113,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 118,
         "COVER": "SUPER STREET FIGHTER II",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1149,7 +1149,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 122,
         "COVER": "ETERNAL DARKNESS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 11,
@@ -1167,7 +1167,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 124,
         "COVER": "SUPER MARIO WORLD - YOSHI - SUPER MARIO ADVANCE 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 11,
@@ -1176,7 +1176,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 125,
         "COVER": "SONIC ADVENTURE 2 BATTLE",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 11,
@@ -1203,7 +1203,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 127,
         "COVER": "2002 FIFA WORLD CUP",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 11,
@@ -1221,7 +1221,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 129,
         "COVER": "SUPER MARIO SUNSHINE",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 11,
@@ -1239,7 +1239,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 131,
         "COVER": "MARIO PARTY 4",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 11,
@@ -1275,7 +1275,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 135,
         "COVER": "ZELDA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1509,7 +1509,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 159,
         "COVER": "MORTAL KOMBAT DECEPTION",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1518,7 +1518,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 160,
         "COVER": "SPLINTER CELL",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1536,7 +1536,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 162,
         "COVER": "STAR WARS EPISODE III",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1545,7 +1545,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 163,
         "COVER": "KILLER 7",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1554,7 +1554,7 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 164,
         "COVER": "E3 - ZELDA - MIYAMOTO",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1563,7 +1563,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 165,
         "COVER": "GEIST",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1572,7 +1572,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 166,
         "COVER": "MARIO SUPERSTAR BASEBALL",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1581,7 +1581,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 167,
         "COVER": "MARIO KART DS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1590,7 +1590,7 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 168,
         "COVER": "SUPER MARIO STRIKERS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
@@ -1599,7 +1599,7 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 169,
         "COVER": "PRINCE OF PERSIA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1608,7 +1608,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 170,
         "COVER": "ESTRELLAS DEL 2006 - MARIO - LUIGI - KIRBY - METROID - PEACH - ZELDA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1617,7 +1617,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 171,
         "COVER": "SUPER PRINCESS PEACH",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1626,7 +1626,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 172,
         "COVER": "METROID PRIME HUNTERS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1635,7 +1635,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 173,
         "COVER": "NARUTO CLASH OF NINJA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1662,7 +1662,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 174,
         "COVER": "NEW SUPER MARIO BROS.",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1671,7 +1671,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 175,
         "COVER": "WII",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1680,7 +1680,7 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 176,
         "COVER": "E3 - REDSTEEL",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1689,7 +1689,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 177,
         "COVER": "STARFOX COMMAND",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1707,7 +1707,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 179,
         "COVER": "FIFA 07",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1716,7 +1716,7 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 180,
         "COVER": "ZELDA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1725,7 +1725,7 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 181,
         "COVER": "XV AÑOS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1734,7 +1734,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 182,
         "COVER": "WARIOWARE SMOOTH MOVES",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1743,7 +1743,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 183,
         "COVER": "DIDDY KONG RACING DS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1752,7 +1752,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 184,
         "COVER": "PRINCE OF PERSIA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1761,7 +1761,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 185,
         "COVER": "TMNT - TEENAGE MUTANT NINJA TURTLES",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1779,7 +1779,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 186,
         "COVER": "SPIDER MAN 3",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1788,7 +1788,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 187,
         "COVER": "HARRY POTTER PHOENIX",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1797,7 +1797,7 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 188,
         "COVER": "MARIO STRIKERS CHARGED",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1806,7 +1806,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 189,
         "COVER": "METROID PRIME 3 CORRUPTION",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1824,7 +1824,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 191,
         "COVER": "FIFA 08",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1833,7 +1833,7 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 192,
         "COVER": "SUPER MARIO GALAXY",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1842,7 +1842,7 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 193,
         "COVER": "MARIO PARTY DS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 17,
@@ -2031,7 +2031,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 213,
         "COVER": "MARIO - YOSHI - MÁS DE 60",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 18,
