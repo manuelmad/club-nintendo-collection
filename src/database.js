@@ -1293,7 +1293,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 137,
         "COVER": "GOLDEN SUN",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1302,7 +1302,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 138,
         "COVER": "WARIO WORLD",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1311,7 +1311,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 139,
         "COVER": "ADVANCE WARS 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1320,7 +1320,7 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 140,
         "COVER": "F-ZERO GX",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1328,8 +1328,8 @@ const inventory = [
         "MONTH": "AUGUST",
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 141,
-        "COVER": "ZELDA",
-        "OWNED": "NO"
+        "COVER": "ZELDA - SOUL CALIBUR II",
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1337,8 +1337,8 @@ const inventory = [
         "MONTH": "SEPTEMBER",
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 142,
-        "COVER": "WVIEWTIFUL JOE",
-        "OWNED": "NO"
+        "COVER": "VIEWTIFUL JOE",
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1347,7 +1347,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 143,
         "COVER": "STAR WARS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1374,7 +1374,7 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 145,
         "COVER": "MARIO & LUIGI",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 13,
@@ -1527,7 +1527,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 161,
         "COVER": "GAMECUBE - NINTENDO DS - GAMEBOY ADVANCE - REVOLUTION",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
