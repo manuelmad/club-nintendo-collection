@@ -1815,7 +1815,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 190,
         "COVER": "ZELDA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 16,
@@ -1869,7 +1869,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 196,
         "COVER": "NO MORE HEROES",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 17,
@@ -1995,7 +1995,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 209,
         "COVER": "POKEMON PLATINUM",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 18,
