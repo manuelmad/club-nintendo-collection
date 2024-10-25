@@ -1122,7 +1122,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 119,
         "COVER": "GAMECUBE",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1698,7 +1698,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 178,
         "COVER": "MARIO VS. DONKEY KONG 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 15,
@@ -1896,7 +1896,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 198,
         "COVER": "MARIO KART WII",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 17,
@@ -1923,7 +1923,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 201,
         "COVER": "FINAL FANTASY IV",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 17,
@@ -1932,7 +1932,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 202,
         "COVER": "E3 - WARIO",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 17,
