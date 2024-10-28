@@ -978,7 +978,7 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 104,
         "COVER": "KIRBY 64",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 9,
