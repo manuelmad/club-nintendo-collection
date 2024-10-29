@@ -8,11 +8,11 @@ let link_to_chilean;
 if(window.location.pathname == '/index.html') {
     link_to_mexican = '#';
     link_to_caribbean = '../caribbean_collection/caribbean.html';
-    link_to_chilean = '#';
+    link_to_chilean = '../chilean_collection/chilean.html';
 } else if(window.location.pathname == '/caribbean_collection/caribbean.html') {
     link_to_mexican = '../index.html';
     link_to_caribbean = '#';
-    link_to_chilean = '#';
+    link_to_chilean = '../chilean_collection/chilean.html';
 } else if(window.location.pathname == '/chilean_collection/chilean.html') {
     link_to_mexican = '../index.html';
     link_to_caribbean = '../caribbean_collection/caribbean.html';

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Web App to control the inventory of physical verions of the Club Nintendo Magazine.">
+	<meta name= "robots" content= "index, follow">
+    <title>Club Nintendo Magazine Caribbean Inventory</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../styles/index.css">
+    <link rel="stylesheet" href="../components/menu.css">
+    <link href="../styles/tablets.css" media="screen and (min-width: 700px)" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <main>
+        <h1>PHYSICAL CARIBBEAN EDITIONS CLUB NINTENDO MAGAZINE</h1>
+        <section id="editions_menu">
+            <!-- <div><a href="">Caribbean</a></div>
+            <div><a href="">Mexican</a></div>
+            <div><a href="">Chilean</a></div> -->
+        </section>
+        <section class="section1">
+            <p>Click on a Year Edition:</p>
+            <article id="years_container">
+    
+            </article>
+            <article id="total_count_container">
+                <p id="total_count">
+
+                </p>
+            </article>
+            <article class="filter-container">
+                <div>
+                    <p>Or write a keyword to filter:</p>
+                    <p>
+                        <input type="text" id="search_input" name="">
+                    </p>
+                </div>
+                <div class="btn-container">
+                    <p>Or click the button to see only the missing ones:</p>
+                    <p class="btn-p">
+                        <button id="missing_magazines_btn">Show missing magazines</button>
+                    </p>
+                </div>
+            </article>
+        </section>
+        <section class="section2">
+            <h2 id="year"></h2>
+            <article id="covers_container">
+    
+            </article>
+        </section>
+        <section class="section3">
+            <article>
+                <p class="covers-comment">* From November 1999 (Year 8) Chilean edition has the same cover as <a href="../index.html">Mexican original edition</a> and they won't be listed here.</p>
+            </article>
+        </section>
+    </main>
+    <script src="../components/menu.js"></script>
+    <script type="module" src="./src/chilean.js"></script>
+</body>
+</html>
