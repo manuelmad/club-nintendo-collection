@@ -1,0 +1,9 @@
+#editions_menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+
+#editions_menu div {
+    text-align: center;
+}
