@@ -7,3 +7,9 @@
 #editions_menu div {
     text-align: center;
 }
+
+@media screen and (min-width: 700px) {
+    #editions_menu div {
+        padding: 1rem;
+    }
+}

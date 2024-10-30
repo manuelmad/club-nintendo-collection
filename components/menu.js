@@ -4,7 +4,7 @@ let link_to_mexican;
 let link_to_caribbean;
 let link_to_chilean;
 
-// Creating an href depending on the pathname the user is at
+// Creating an href depending on the pathname the user is at (this links only work on localhost)
 // if(window.location.pathname == '/index.html') {
 //     link_to_mexican = '#';
 //     link_to_caribbean = './caribbean_collection/caribbean.html';
@@ -19,6 +19,7 @@ let link_to_chilean;
 //     link_to_chilean = '#';
 // }
 
+// Creating an href depending on the pathname the user is at
 if(window.location.pathname == '/') {
     link_to_mexican = '#';
     link_to_caribbean = './caribbean_collection/caribbean';
@@ -41,6 +42,6 @@ const menu = `
 
 editions_menu.innerHTML = menu;
 
-console.log(location.href);
-console.log(window.location);
-console.log(window.location.pathname);
+// console.log(location.href);
+// console.log(window.location);
+// console.log(window.location.pathname);
