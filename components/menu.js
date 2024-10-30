@@ -7,8 +7,8 @@ let link_to_chilean;
 // Creating an href depending on the pathname the user is at
 if(window.location.pathname == '/index.html') {
     link_to_mexican = '#';
-    link_to_caribbean = '../caribbean_collection/caribbean.html';
-    link_to_chilean = '../chilean_collection/chilean.html';
+    link_to_caribbean = './caribbean_collection/caribbean.html';
+    link_to_chilean = './chilean_collection/chilean.html';
 } else if(window.location.pathname == '/caribbean_collection/caribbean.html') {
     link_to_mexican = '../index.html';
     link_to_caribbean = '#';
@@ -29,4 +29,4 @@ editions_menu.innerHTML = menu;
 
 // console.log(location.href);
 // console.log(window.location);
-// console.log(window.location.pathname);
+console.log(window.location.pathname);

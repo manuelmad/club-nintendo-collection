@@ -1266,7 +1266,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 134,
         "COVER": "POKEMON",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
@@ -1284,7 +1284,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 136,
         "COVER": "POKEMON",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 12,
