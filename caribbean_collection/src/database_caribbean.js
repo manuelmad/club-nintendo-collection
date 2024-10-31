@@ -483,7 +483,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 54,
         "COVER": "TUROK",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 6,
