@@ -56,6 +56,7 @@ function missingMagazines(inventory) {
             covers_container.appendChild(div);
         }
     });
+    const section2 = document.querySelector('.section2');
     section2.style.display = 'block';
 }
 
