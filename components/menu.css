@@ -1,7 +1,7 @@
 #editions_menu {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    
+    margin: 0 auto;
 }
 
 #editions_menu div {
@@ -9,6 +9,9 @@
 }
 
 @media screen and (min-width: 700px) {
+    #editions_menu  {
+        width: 60rem;
+    }
     #editions_menu div {
         padding: 1rem;
     }
