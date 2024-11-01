@@ -1,4 +1,5 @@
 import inventory_caribbean from "./database_caribbean.js";
+import missingMagazines from "../../functions/missingMagazines.js";
 
 // Defining quantity of active years
 let year_editions = [];
@@ -203,7 +204,7 @@ total_count.innerHTML =  `Total count: ${total_owned_magazines}/ ${total_magazin
 
 // Function to show only missing magazines
 const missing_magazines_btn = document.getElementById('missing_magazines_btn');
-missing_magazines_btn.addEventListener('click', () => {
+missing_magazines_btn.addEventListener('click', missingMagazines(inventory_caribbean) /*() => {
     covers_container.innerHTML = '';
 
     const h2 = document.getElementById('year');
@@ -262,4 +263,4 @@ missing_magazines_btn.addEventListener('click', () => {
         }
     });
     section2.style.display = 'block';
-});
+}*/);

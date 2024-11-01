@@ -42,6 +42,6 @@ const menu = `
 
 editions_menu.innerHTML = menu;
 
-// console.log(location.href);
-// console.log(window.location);
-// console.log(window.location.pathname);
+console.log(location.href);
+console.log(window.location);
+console.log(window.location.pathname);
