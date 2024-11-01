@@ -1,4 +1,5 @@
 import inventory_chilean from "./database_chilean.js";
+import missingMagazines from "../../functions/missingMagazines.js";
 
 // Defining quantity of active years
 let year_editions = [];
@@ -203,8 +204,10 @@ total_count.innerHTML =  `Total count: ${total_owned_magazines}/ ${total_magazin
 
 // Function to show only missing magazines
 const missing_magazines_btn = document.getElementById('missing_magazines_btn');
-missing_magazines_btn.addEventListener('click', () => {
-    covers_container.innerHTML = '';
+missing_magazines_btn.addEventListener('click', (e) => {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    missingMagazines(inventory_chilean);
+    /*covers_container.innerHTML = '';
 
     const h2 = document.getElementById('year');
     h2.innerHTML = "Missing Magazines";
@@ -261,5 +264,5 @@ missing_magazines_btn.addEventListener('click', () => {
             covers_container.appendChild(div);
         }
     });
-    section2.style.display = 'block';
+    section2.style.display = 'block';*/
 });

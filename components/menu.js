@@ -5,7 +5,7 @@ let link_to_caribbean;
 let link_to_chilean;
 
 // Creating an href depending on the pathname the user is at (this links only work on localhost)
-// if(window.location.pathname == '/index.html') {
+// if(window.location.pathname == '/' || window.location.pathname == '/index.html') {
 //     link_to_mexican = '#';
 //     link_to_caribbean = './caribbean_collection/caribbean.html';
 //     link_to_chilean = './chilean_collection/chilean.html';

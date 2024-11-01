@@ -204,7 +204,10 @@ total_count.innerHTML =  `Total count: ${total_owned_magazines}/ ${total_magazin
 
 // Function to show only missing magazines
 const missing_magazines_btn = document.getElementById('missing_magazines_btn');
-missing_magazines_btn.addEventListener('click', missingMagazines(inventory_caribbean) /*() => {
+missing_magazines_btn.addEventListener('click', (e) => {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    missingMagazines(inventory_caribbean);
+}/*() => {
     covers_container.innerHTML = '';
 
     const h2 = document.getElementById('year');
