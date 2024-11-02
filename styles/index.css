@@ -109,6 +109,7 @@ ul li:active {
 
 .flag-container img {
     width: 5rem;
+    margin: 0 1rem;
 }
 
 .section1 {
