@@ -2,17 +2,19 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 0 auto;
+    position: sticky;
+    top: 0;
+    background-color: var(--light-grey);
+    font-weight: bold;
 }
 
 #editions_menu div {
     text-align: center;
+    padding: 1rem;
 }
 
 @media screen and (min-width: 700px) {
     #editions_menu  {
-        width: 60rem;
-    }
-    #editions_menu div {
-        padding: 1rem;
+        width: 64rem;
     }
 }
