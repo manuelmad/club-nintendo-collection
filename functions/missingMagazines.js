@@ -1,5 +1,5 @@
 function missingMagazines(inventory) {
-    console.log('activating function')
+
     covers_container.innerHTML = '';
 
     const h2 = document.getElementById('year');
