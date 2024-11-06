@@ -906,7 +906,7 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 97,
         "COVER": "DONKEY KONG 64",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 8,
@@ -1104,7 +1104,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 117,
         "COVER": "MARIO KART SUPER CIRCUIT",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
