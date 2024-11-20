@@ -1500,7 +1500,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 158,
         "COVER": "RESIDENT EVIL 4",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 14,
