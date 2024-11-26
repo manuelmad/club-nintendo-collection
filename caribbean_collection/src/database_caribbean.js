@@ -321,7 +321,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 36,
         "COVER": "POWER RANGERS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 4,
@@ -447,7 +447,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 50,
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 5,
@@ -456,7 +456,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 51,
         "COVER": "MORTAL KOMBAT TRILOGY",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 6,
@@ -591,7 +591,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 66,
         "COVER": "YOSHI'S STORY",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 7,
@@ -645,7 +645,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 72,
         "COVER": "F-1 WORLD GRAND PRIX",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 7,

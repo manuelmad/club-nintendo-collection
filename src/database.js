@@ -2472,7 +2472,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 262,
         "COVER": "PIKMIN 3",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 22,
@@ -2481,7 +2481,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 263,
         "COVER": "ZELDA WINDWAKER HD",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 22,
@@ -2517,7 +2517,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 267,
         "COVER": "ZELDA - PAREJAS LEGENDARIAS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2526,7 +2526,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 268,
         "COVER": "DONKEY KONG COUNTRY TROPICAL FREEZE",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2535,7 +2535,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 269,
         "COVER": "YOSHI'S NEW ISLAND - BEBÉ MARIO",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2544,7 +2544,7 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "EL MUNDO DE SUPER MARIO - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2553,7 +2553,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 270,
         "COVER": "MARIO KART 8",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2562,7 +2562,7 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 271,
         "COVER": "KIRBY TRIPLE DELUXE",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2571,7 +2571,7 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 272,
         "COVER": "SUPER SMASH BROS. FOR NINTENDO 3DS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2580,7 +2580,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 273,
         "COVER": "DISNEY INFINITY 2.0 - SPIDER MAN",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2589,7 +2589,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 274,
         "COVER": "ZELDA - HYRULE WARRIORS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2598,7 +2598,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 275,
         "COVER": "BAYONETTA 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2607,7 +2607,7 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 276,
         "COVER": "EL MUNDO DE BOWSER - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 23,
@@ -2616,7 +2616,7 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 277,
         "COVER": "SUPER SMASH BROS. FOR WII U",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 24,
@@ -2625,7 +2625,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 278,
         "COVER": "LA JUNGLA DE DONKEY KONG - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 24,
@@ -2634,7 +2634,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 279,
         "COVER": "ZELDA MAJORA'S MASK",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 24,
@@ -2643,7 +2643,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 280,
         "COVER": "MARIO PARTY 10",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 24,
@@ -2652,7 +2652,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 281,
         "COVER": "SUPER MARIO MAKER",
-        "OWNED": "NO"
+        "OWNED": "YES"
     }
 ]
 
