@@ -78,7 +78,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 9,
         "COVER": "DEATH VALLEY RALLY - COYOTE - CORRECAMINOS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 2,
@@ -132,7 +132,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 15,
         "COVER": "STREET FIGHTER II TURBO",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 3,
@@ -177,7 +177,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 20,
         "COVER": "NBA JAM",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 3,
@@ -492,7 +492,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 55,
         "COVER": "THE KING OF FIGHTERS 95",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 6,
@@ -510,7 +510,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 57,
         "COVER": "BLAST CORPS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 6,
@@ -519,7 +519,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 58,
         "COVER": "STARFOX 64",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 6,
@@ -528,7 +528,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 59,
         "COVER": "CLAYFIGHTER 63 1/3",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 6,
@@ -537,7 +537,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 60,
         "COVER": "BANJO - KAZOOIE",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 6,
@@ -546,7 +546,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 61,
         "COVER": "GOLDENEYE 007",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 6,
@@ -555,7 +555,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 62,
         "COVER": "SAN FRANCISCO RUSH EXTREME RACING",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 6,
@@ -564,7 +564,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 63,
         "COVER": "DIDDY KONG RACING",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 7,
@@ -672,7 +672,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 75,
         "COVER": "ZELDA OCARINA",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 8,
@@ -726,7 +726,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 81,
         "COVER": "RAYMAN 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 8,
@@ -744,7 +744,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 83,
         "COVER": "SHADOW MAN",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 8,
