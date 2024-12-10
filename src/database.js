@@ -690,7 +690,7 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 74,
         "COVER": "ZELDA OCARINE",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 7,
