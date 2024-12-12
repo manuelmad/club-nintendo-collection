@@ -1,5 +1,7 @@
 import inventory from './database.js';
 
+import poorConditionMagazines from '../functions/poorConditionMagazines.js';
+
 // Defining quantity of active years
 let year_editions = [];
 
@@ -59,15 +61,27 @@ first_li.addEventListener('click', ()=> {
                 img.src= `../imgs/1/SPECIAL.jpg`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             } else {
-                img.src= `../imgs/1/${magazine['YEAR NUMBER']}.webp`;
+                img.src= `../imgs/1/${magazine['YEAR NUMBER']}.jpg`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
+
+            const p5 = document.createElement('p');
 
             const p2 = document.createElement('p');
             if(magazine.OWNED == 'YES') {
                 p2.innerHTML = 'Owned';
             } else if(magazine.OWNED == 'YES-POOR') {
                 p2.innerHTML = 'Owned (poor)';
+                p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
+                p5.style.display = 'none';
+    
+                p2.addEventListener('click', ()=> {
+                    if(p5.style.display == 'none') {
+                        p5.style.display = 'block';
+                    } else if(p5.style.display == 'block') {
+                        p5.style.display = 'none';
+                    }
+                });
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
             }
@@ -93,6 +107,9 @@ first_li.addEventListener('click', ()=> {
             div.appendChild(p4);
             div.appendChild(p);
             div.appendChild(p2);
+            if(p5.innerHTML !== '') {
+                div.appendChild(p5);
+            }
             covers_container.appendChild(div);
         }
     });
@@ -141,20 +158,27 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                     img.src= `../imgs/${year_editions[i]}/SPECIAL2.jpg`;
                     p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
                 } else {
-                    // This conditional was only needed because I didn't want to covert the .webp files of the first 7 years into .jpg
-                    if(year_editions[i] <= 7) {
-                        img.src= `../imgs/${year_editions[i]}/${magazine['YEAR NUMBER']}.webp`;
-                    } else {
-                       img.src= `../imgs/${year_editions[i]}/${magazine['YEAR NUMBER']}.jpg`
-                    }
+                    img.src= `../imgs/${year_editions[i]}/${magazine['YEAR NUMBER']}.jpg`
                     p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
                 }
+
+                const p5 = document.createElement('p');
                 
                 const p2 = document.createElement('p');
                 if(magazine.OWNED == 'YES') {
                     p2.innerHTML = 'Owned';
                 } else if(magazine.OWNED == 'YES-POOR') {
                     p2.innerHTML = 'Owned (poor)';
+                    p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
+                    p5.style.display = 'none';
+        
+                    p2.addEventListener('click', ()=> {
+                        if(p5.style.display == 'none') {
+                            p5.style.display = 'block';
+                        } else if(p5.style.display == 'block') {
+                            p5.style.display = 'none';
+                        }
+                    });
                 } else if(magazine.OWNED == 'NO') {
                     p2.innerHTML = 'Pending';
                 }
@@ -180,6 +204,9 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                 div.appendChild(p4);
                 div.appendChild(p);
                 div.appendChild(p2);
+                if(p5.innerHTML !== '') {
+                    div.appendChild(p5);
+                }
                 covers_container.appendChild(div);
             }
         });
@@ -237,20 +264,27 @@ search_input.addEventListener('input', ()=> {
                 img.src= `../imgs/${magazine['YEAR EDIT']}/SPECIAL2.jpg`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             } else {
-                // This conditional was only needed because I didn't want to covert the .webp files of the first 7 years into .jpg
-                if(magazine['YEAR EDIT'] <= 7) {
-                    img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.webp`;
-                } else {
-                   img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.jpg`
-                }
+                img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.jpg`
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
+
+            const p5 = document.createElement('p');
             
             const p2 = document.createElement('p');
             if(magazine.OWNED == 'YES') {
                 p2.innerHTML = 'Owned';
             } else if(magazine.OWNED == 'YES-POOR') {
                 p2.innerHTML = 'Owned (poor)';
+                p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
+                p5.style.display = 'none';
+    
+                p2.addEventListener('click', ()=> {
+                    if(p5.style.display == 'none') {
+                        p5.style.display = 'block';
+                    } else if(p5.style.display == 'block') {
+                        p5.style.display = 'none';
+                    }
+                });
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
             }
@@ -276,6 +310,9 @@ search_input.addEventListener('input', ()=> {
             div.appendChild(p4);
             div.appendChild(p);
             div.appendChild(p2);
+            if(p5.innerHTML !== '') {
+                div.appendChild(p5);
+            }
             covers_container.appendChild(div);
 		}
 	});
@@ -305,12 +342,7 @@ missing_magazines_btn.addEventListener('click', () => {
                 img.src= `../imgs/${magazine['YEAR EDIT']}/SPECIAL2.jpg`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             } else {
-                // This conditional was only needed because I didn't want to covert the .webp files of the first 7 years into .jpg
-                if(magazine['YEAR EDIT'] <= 7) {
-                    img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.webp`;
-                } else {
-                    img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.jpg`
-                }
+                img.src= `../imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.jpg`
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
             
@@ -351,4 +383,12 @@ missing_magazines_btn.addEventListener('click', () => {
         }
     });
     section2.style.display = 'block';
+});
+
+// Function to show only poor condition magazines
+const poor_magazines_btn = document.getElementById('poor_magazines_btn');
+poor_magazines_btn.addEventListener('click', (e) => {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    let ext = 'jpg';
+    poorConditionMagazines(inventory, ext);
 });
