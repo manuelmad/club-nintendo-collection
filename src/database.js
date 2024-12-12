@@ -1932,7 +1932,7 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 202,
         "COVER": "E3 - WARIO",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 17,

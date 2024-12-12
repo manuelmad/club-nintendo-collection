@@ -519,7 +519,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 58,
         "COVER": "STARFOX 64",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 6,
@@ -600,7 +600,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 67,
         "COVER": "NINJA GOEMON",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR"
     },
     {
         "YEAR EDIT": 7,
