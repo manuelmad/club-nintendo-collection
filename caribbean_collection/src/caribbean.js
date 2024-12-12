@@ -16,7 +16,8 @@ const search_input = document.getElementById("search_input");
 // Make a search everytime something is written in the search input
 search_input.addEventListener('input', (e)=> {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
-    searchedMagazines(inventory_caribbean);
+    let ext = 'png';
+    searchedMagazines(inventory_caribbean, ext);
 });
 
 // Function to show only missing magazines

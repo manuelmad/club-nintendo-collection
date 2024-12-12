@@ -1,4 +1,4 @@
-function searchedMagazines(inventory) {
+function searchedMagazines(inventory, img_ext) {
     // If nothing in search input, clean container, hide section and stop the function
     const section2 = document.querySelector('.section2');
     if(search_input.value == "") {
@@ -36,21 +36,33 @@ function searchedMagazines(inventory) {
             const img = document.createElement('img');
             const p = document.createElement('p');
             if(magazine['YEAR NUMBER'] == 'SPECIAL') {
-                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL.png`;
+                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL.${img_ext}`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             } else if (magazine['YEAR NUMBER'] == 'SPECIAL2'){
-                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL2.png`;
+                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL2.${img_ext}`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             } else {
-                img.src= `./imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.png`;
+                img.src= `./imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.${img_ext}`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
             
+            const p5 = document.createElement('p');
+
             const p2 = document.createElement('p');
             if(magazine.OWNED == 'YES') {
                 p2.innerHTML = 'Owned';
             } else if(magazine.OWNED == 'YES-POOR') {
                 p2.innerHTML = 'Owned (poor)';
+                p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
+                p5.style.display = 'none';
+    
+                p2.addEventListener('click', ()=> {
+                    if(p5.style.display == 'none') {
+                        p5.style.display = 'block';
+                    } else if(p5.style.display == 'block') {
+                        p5.style.display = 'none';
+                    }
+                });
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
             }
@@ -76,6 +88,9 @@ function searchedMagazines(inventory) {
             div.appendChild(p4);
             div.appendChild(p);
             div.appendChild(p2);
+            if(p5.innerHTML !== '') {
+                div.appendChild(p5);
+            }
             covers_container.appendChild(div);
         }
     });
