@@ -1,4 +1,4 @@
-function missingMagazines(inventory) {
+function missingMagazines(inventory, img_ext) {
 
     covers_container.innerHTML = '';
 
@@ -11,13 +11,13 @@ function missingMagazines(inventory) {
             const img = document.createElement('img');
             const p = document.createElement('p');
             if(magazine['YEAR NUMBER'] == 'SPECIAL') {
-                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL.png`;
+                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL.${img_ext}`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             } else if (magazine['YEAR NUMBER'] == 'SPECIAL2'){
-                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL2.png`;
+                img.src= `./imgs/${magazine['YEAR EDIT']}/SPECIAL2.${img_ext}`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             } else {
-                img.src= `./imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.png`;
+                img.src= `./imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.${img_ext}`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
             

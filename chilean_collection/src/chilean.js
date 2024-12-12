@@ -23,12 +23,14 @@ search_input.addEventListener('input', (e)=> {
 const missing_magazines_btn = document.getElementById('missing_magazines_btn');
 missing_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
-    missingMagazines(inventory_chilean);
+    let ext = 'png';
+    missingMagazines(inventory_chilean, ext);
 });
 
 // Function to show only poor condition magazines
 const poor_magazines_btn = document.getElementById('poor_magazines_btn');
 poor_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
-    poorConditionMagazines(inventory_chilean);
+    let ext = 'png';
+    poorConditionMagazines(inventory_chilean, ext);
 });
