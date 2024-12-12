@@ -78,7 +78,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 9,
         "COVER": "DEATH VALLEY RALLY - COYOTE - CORRECAMINOS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 31-34",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -132,7 +134,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 15,
         "COVER": "STREET FIGHTER II TURBO",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 25-32",
+        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA"
     },
     {
         "YEAR EDIT": 3,
@@ -177,7 +181,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 20,
         "COVER": "NBA JAM",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -186,7 +192,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 21,
         "COVER": "JURASSIC PARK",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -384,7 +392,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 43,
         "COVER": "DRAGON BALL",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -393,7 +403,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 44,
         "COVER": "KILLER INSTINCT 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -447,7 +459,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 50,
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "MISSING PAGES: 25, 26, 29-36, 39, 40"
     },
     {
         "YEAR EDIT": 5,
@@ -483,7 +497,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 54,
         "COVER": "TUROK",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "MISSING PAGES: 51-58"
     },
     {
         "YEAR EDIT": 6,
@@ -492,7 +508,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 55,
         "COVER": "THE KING OF FIGHTERS 95",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -510,7 +528,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 57,
         "COVER": "BLAST CORPS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -519,7 +539,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 58,
         "COVER": "STARFOX 64",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "PÁGINA CENTRAL SUELTA"
     },
     {
         "YEAR EDIT": 6,
@@ -528,7 +550,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 59,
         "COVER": "CLAYFIGHTER 63 1/3",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -537,7 +561,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 60,
         "COVER": "BANJO - KAZOOIE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -546,7 +572,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 61,
         "COVER": "GOLDENEYE 007",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA"
     },
     {
         "YEAR EDIT": 6,
@@ -555,7 +583,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 62,
         "COVER": "SAN FRANCISCO RUSH EXTREME RACING",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -564,7 +594,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 63,
         "COVER": "DIDDY KONG RACING",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 29-36",
+        "OBSERVATION": "CONTRAPORTADA PRESENTA TROZO TRIANGULAR CORTADO"
     },
     {
         "YEAR EDIT": 7,
@@ -600,7 +632,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 67,
         "COVER": "NINJA GOEMON",
-        "OWNED": "YES-POOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "MISSING PAGES: 40-41"
     },
     {
         "YEAR EDIT": 7,
@@ -618,7 +652,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 69,
         "COVER": "WORLD CUP 98",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -672,7 +708,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 75,
         "COVER": "ZELDA OCARINA",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 31-34",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -681,7 +719,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 76,
         "COVER": "TUROK 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -699,7 +739,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 78,
         "COVER": "MARIO PARTY",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -708,7 +750,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 79,
         "COVER": "NBA IN THE ZONE 99",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -726,7 +770,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 81,
         "COVER": "RAYMAN 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -744,7 +790,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 83,
         "COVER": "SHADOW MAN",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "INCLUDED",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -755,6 +803,6 @@ const inventory_caribbean = [
         "COVER": "POKEMON SNAP",
         "OWNED": "NO"
     }
-]
+];
 
 export default inventory_caribbean;

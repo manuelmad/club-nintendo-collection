@@ -47,12 +47,25 @@ function poorConditionMagazines(inventory) {
             const p4 = document.createElement('p');
             p4.innerHTML = `Year ${magazine['YEAR EDIT']} No. ${magazine['YEAR NUMBER']}`;
             p4.style.fontWeight = 'bold';
+
+            const p5 = document.createElement('p');
+            p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
+            p5.style.display = 'none';
+
+            p2.addEventListener('click', ()=> {
+                if(p5.style.display == 'none') {
+                    p5.style.display = 'block';
+                } else if(p5.style.display == 'block') {
+                    p5.style.display = 'none';
+                }
+            });
             
             div.appendChild(img);
             div.appendChild(p3);
             div.appendChild(p4);
             div.appendChild(p);
             div.appendChild(p2);
+            div.appendChild(p5);
             covers_container.appendChild(div);
         }
     });

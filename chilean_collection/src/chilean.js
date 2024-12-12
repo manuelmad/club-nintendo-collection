@@ -2,6 +2,7 @@ import inventory_chilean from "./database_chilean.js";
 import missingMagazines from "../../functions/missingMagazines.js";
 import searchedMagazines from "../../functions/searchedMagazines.js";
 import createEditionsList from "../../functions/createEditionsList.js";
+import poorConditionMagazines from "../../functions/poorConditionMagazines.js";
 
 // Accesing years container and adding first year
 // const years_container = document.getElementById('years_container');
@@ -23,4 +24,11 @@ const missing_magazines_btn = document.getElementById('missing_magazines_btn');
 missing_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
     missingMagazines(inventory_chilean);
+});
+
+// Function to show only poor condition magazines
+const poor_magazines_btn = document.getElementById('poor_magazines_btn');
+poor_magazines_btn.addEventListener('click', (e) => {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    poorConditionMagazines(inventory_chilean);
 });

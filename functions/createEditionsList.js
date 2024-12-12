@@ -63,12 +63,24 @@ function createEditionsList(inventory) {
                         img.src= `./imgs/${year_editions[i]}/${magazine['YEAR NUMBER']}.png`;
                         p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
                     }
+
+                    const p5 = document.createElement('p');
                     
                     const p2 = document.createElement('p');
                     if(magazine.OWNED == 'YES') {
                         p2.innerHTML = 'Owned';
                     } else if(magazine.OWNED == 'YES-POOR') {
                         p2.innerHTML = 'Owned (poor)';
+                        p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
+                        p5.style.display = 'none';
+            
+                        p2.addEventListener('click', ()=> {
+                            if(p5.style.display == 'none') {
+                                p5.style.display = 'block';
+                            } else if(p5.style.display == 'block') {
+                                p5.style.display = 'none';
+                            }
+                        });
                     } else if(magazine.OWNED == 'NO') {
                         p2.innerHTML = 'Pending';
                     }
@@ -94,6 +106,9 @@ function createEditionsList(inventory) {
                     div.appendChild(p4);
                     div.appendChild(p);
                     div.appendChild(p2);
+                    if(p5.innerHTML !== '') {
+                        div.appendChild(p5);
+                    }
                     covers_container.appendChild(div);
                 }
             });
