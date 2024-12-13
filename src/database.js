@@ -901,7 +901,7 @@ const inventory = [
         "COVER": "STARCRAFT 64",
         "OWNED": "YES-POOR",
         "POSTER": "INCLUDED",
-        "OBSERVATION": "DAÑO EN EL LOMO - ALGUNAS PÁGINAS SUELTAS - PÁG. 87 RECORTADA."
+        "OBSERVATION": "DAÑO EN EL LOMO - ALGUNAS PÁGINAS SUELTAS - PÁG. 87 RECORTADA"
     },
     {
         "YEAR EDIT": 8,
@@ -930,7 +930,9 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 98,
         "COVER": "MARIO PARTY 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -938,8 +940,10 @@ const inventory = [
         "MONTH": "FEBRUARY",
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 99,
-        "COVER": "RR 64",
-        "OWNED": "YES"
+        "COVER": "RR64",
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -957,7 +961,9 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 101,
         "COVER": "POKEMON TRADING CARD GAME",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "PÁGINA 68 RECORTADA"
     },
     {
         "YEAR EDIT": 9,
@@ -966,7 +972,9 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 102,
         "COVER": "PERFECT DARK",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "POSTER": "INCLUDED",
+        "OBSERVATION": "PÁGINAS RECORTADAS: 21, 40, 53-54, 55-56, 57-58, 59-60, 79-80, 81-82. MISSING PAGES: 62-69"
     },
     {
         "YEAR EDIT": 9,
@@ -986,7 +994,9 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 104,
         "COVER": "KIRBY 64",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -995,7 +1005,9 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 105,
         "COVER": "TUROK 3",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -1004,7 +1016,9 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 106,
         "COVER": "MARIO TENNIS - PEACH - DAISY",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -1022,7 +1036,9 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 108,
         "COVER": "ZELDA",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -1031,7 +1047,9 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 109,
         "COVER": "BANJO-TOOIE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1040,7 +1058,9 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 110,
         "COVER": "PAPER MARIO",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1049,7 +1069,9 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 111,
         "COVER": "MEGA MAN 64",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "PÁGINAS RECORTADAS: 63-64"
     },
     {
         "YEAR EDIT": 10,
@@ -1085,7 +1107,9 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 114,
         "COVER": "MARIO PARTY 3",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "INCLUDED",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1094,7 +1118,9 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 115,
         "COVER": "GAMEBOY ADVANCE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1103,7 +1129,9 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 116,
         "COVER": "CASTLEVANIA",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1112,7 +1140,9 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 117,
         "COVER": "MARIO KART SUPER CIRCUIT",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1121,7 +1151,9 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 118,
         "COVER": "SUPER STREET FIGHTER II",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1130,7 +1162,9 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 119,
         "COVER": "GAMECUBE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1399,7 +1433,7 @@ const inventory = [
         "COVER": "MARIO KART DOUBLE DASH",
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 41-48",
-        "OBSERVATION": "MISSING PAGES: 7, 8, 21, 22, 79, 80 - PÁGINA SULETA: 19, 20"
+        "OBSERVATION": "MISSING PAGES: 7, 8, 21, 22, 79, 80 - PÁGINA SUELTA: 19, 20"
     },
     {
         "YEAR EDIT": 12,
@@ -1408,7 +1442,9 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 145,
         "COVER": "MARIO & LUIGI",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 13,
@@ -2090,7 +2126,7 @@ const inventory = [
         "COVER": "E3 - WARIO",
         "OWNED": "YES-POOR",
         "POSTER": "-",
-        "OBSERVATION": "FROM COVER TO PAGE 20 WITH A LITTLE DETAIL IN THE LOWER LEFT CORNER."
+        "OBSERVATION": "FROM COVER TO PAGE 20 WITH A LITTLE DETAIL IN THE LOWER LEFT CORNER"
     },
     {
         "YEAR EDIT": 17,
@@ -2264,7 +2300,9 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 218,
         "COVER": "ZELDA - TREN",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2273,7 +2311,9 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 219,
         "COVER": "NO MORE HEROES 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 19,
