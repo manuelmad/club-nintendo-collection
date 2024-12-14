@@ -1225,6 +1225,7 @@ const inventory = [
         "OVERALL NUMBER": 125,
         "COVER": "SONIC ADVENTURE 2 BATTLE",
         "OWNED": "YES-POOR",
+        "POSTER": "-",
         "OBSERVATION": "PÁGINA 94 MEDIO SUELTA"
     },
     {
