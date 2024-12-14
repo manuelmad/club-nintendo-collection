@@ -1191,7 +1191,9 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 122,
         "COVER": "ETERNAL DARKNESS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -1200,7 +1202,9 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 123,
         "COVER": "NBA COURTSIDE2002 - KOBE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -1209,7 +1213,9 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 124,
         "COVER": "SUPER MARIO WORLD - YOSHI - SUPER MARIO ADVANCE 2",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "PÁGINAS RECORTADAS: 9-10, 95-96"
     },
     {
         "YEAR EDIT": 11,
@@ -1218,7 +1224,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 125,
         "COVER": "SONIC ADVENTURE 2 BATTLE",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "OBSERVATION": "PÁGINA 94 MEDIO SUELTA"
     },
     {
         "YEAR EDIT": 11,
@@ -1245,7 +1252,9 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 127,
         "COVER": "2002 FIFA WORLD CUP",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -1254,7 +1263,9 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 128,
         "COVER": "E3 - SUPER MARIO SUNSHINE - ZELDA - METROID - STARFOX",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -1263,7 +1274,9 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 129,
         "COVER": "SUPER MARIO SUNSHINE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -1272,7 +1285,9 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 130,
         "COVER": "STARFOX ADVENTURES",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "INCLUDED",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -1292,7 +1307,9 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 132,
         "COVER": "METROID PRIME",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -1301,7 +1318,9 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 133,
         "COVER": "ZELDA",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 12,
