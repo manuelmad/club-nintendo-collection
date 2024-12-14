@@ -890,7 +890,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 95,
         "COVER": "JETFORCE GEMINI",
-        "OWNED": "YES"
+        "OWNED": "NO"
     },
     {
         "YEAR EDIT": 8,

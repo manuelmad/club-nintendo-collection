@@ -812,6 +812,17 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 84,
         "COVER": "POKEMON SNAP",
         "OWNED": "NO"
+    },
+    {
+        "YEAR EDIT": 8,
+        "YEAR DATE": 1999,
+        "MONTH": "OCTOBER",
+        "YEAR NUMBER": 10,
+        "OVERALL NUMBER": 95,
+        "COVER": "JETFORCE GEMINI",
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     }
 ];
 
