@@ -68,10 +68,12 @@ first_li.addEventListener('click', ()=> {
             }
 
             const p5 = document.createElement('p');
+            const p6 = document.createElement('p');
 
             const p2 = document.createElement('p');
             if(magazine.OWNED == 'YES') {
                 p2.innerHTML = 'Owned';
+                p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
             } else if(magazine.OWNED == 'YES-POOR') {
                 p2.innerHTML = 'Owned (poor)';
                 p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
@@ -84,6 +86,7 @@ first_li.addEventListener('click', ()=> {
                         p5.style.display = 'none';
                     }
                 });
+                p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
             }
@@ -108,6 +111,7 @@ first_li.addEventListener('click', ()=> {
             div.appendChild(p3);
             div.appendChild(p4);
             div.appendChild(p);
+            div.appendChild(p6);
             div.appendChild(p2);
             if(p5.innerHTML !== '') {
                 div.appendChild(p5);
@@ -165,10 +169,12 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                 }
 
                 const p5 = document.createElement('p');
+                const p6 = document.createElement('p');
                 
                 const p2 = document.createElement('p');
                 if(magazine.OWNED == 'YES') {
                     p2.innerHTML = 'Owned';
+                    p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
                 } else if(magazine.OWNED == 'YES-POOR') {
                     p2.innerHTML = 'Owned (poor)';
                     p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
@@ -181,6 +187,7 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                             p5.style.display = 'none';
                         }
                     });
+                    p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
                 } else if(magazine.OWNED == 'NO') {
                     p2.innerHTML = 'Pending';
                 }
@@ -205,6 +212,7 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                 div.appendChild(p3);
                 div.appendChild(p4);
                 div.appendChild(p);
+                div.appendChild(p6);
                 div.appendChild(p2);
                 if(p5.innerHTML !== '') {
                     div.appendChild(p5);

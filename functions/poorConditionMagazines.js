@@ -19,14 +19,17 @@ function poorConditionMagazines(inventory, img_ext) {
                 img.src= `./imgs/${magazine['YEAR EDIT']}/${magazine['YEAR NUMBER']}.${img_ext}`;
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
-            
 
+            const p6 = document.createElement('p');
+            
             // Not necessary
             const p2 = document.createElement('p');
             if(magazine.OWNED == 'YES') {
                 p2.innerHTML = 'Owned';
+                p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
             } else if(magazine.OWNED == 'YES-POOR') {
                 p2.innerHTML = 'Owned (poor)';
+                p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
             }
@@ -64,6 +67,7 @@ function poorConditionMagazines(inventory, img_ext) {
             div.appendChild(p3);
             div.appendChild(p4);
             div.appendChild(p);
+            div.appendChild(p6);
             div.appendChild(p2);
             div.appendChild(p5);
             covers_container.appendChild(div);

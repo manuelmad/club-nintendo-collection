@@ -65,10 +65,12 @@ function createEditionsList(inventory) {
                     }
 
                     const p5 = document.createElement('p');
+                    const p6 = document.createElement('p');
                     
                     const p2 = document.createElement('p');
                     if(magazine.OWNED == 'YES') {
                         p2.innerHTML = 'Owned';
+                        p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
                     } else if(magazine.OWNED == 'YES-POOR') {
                         p2.innerHTML = 'Owned (poor)';
                         p5.innerHTML = `<b>Observation</b>: ${magazine['OBSERVATION']}.`;
@@ -81,6 +83,7 @@ function createEditionsList(inventory) {
                                 p5.style.display = 'none';
                             }
                         });
+                        p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
                     } else if(magazine.OWNED == 'NO') {
                         p2.innerHTML = 'Pending';
                     }
@@ -105,6 +108,7 @@ function createEditionsList(inventory) {
                     div.appendChild(p3);
                     div.appendChild(p4);
                     div.appendChild(p);
+                    div.appendChild(p6);
                     div.appendChild(p2);
                     if(p5.innerHTML !== '') {
                         div.appendChild(p5);
