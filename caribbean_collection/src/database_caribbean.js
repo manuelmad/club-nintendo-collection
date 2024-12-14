@@ -329,7 +329,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 36,
         "COVER": "POWER RANGERS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -470,7 +472,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 51,
         "COVER": "MORTAL KOMBAT TRILOGY",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -623,7 +627,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 66,
         "COVER": "YOSHI'S STORY",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -681,7 +687,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 72,
         "COVER": "F-1 WORLD GRAND PRIX",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -781,7 +789,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 82,
         "COVER": "STAR WARS RACER",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 31-34",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 8,
