@@ -3,6 +3,7 @@ import missingMagazines from "../../functions/missingMagazines.js";
 import searchedMagazines from "../../functions/searchedMagazines.js";
 import createEditionsList from "../../functions/createEditionsList.js";
 import poorConditionMagazines from "../../functions/poorConditionMagazines.js";
+import posterNeededMagazines from "../../functions/posterNeededMagazines.js";
 
 // Accesing years container and adding first year
 // const years_container = document.getElementById('years_container');
@@ -34,4 +35,12 @@ poor_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
     let ext = 'png';
     poorConditionMagazines(inventory_chilean, ext);
+});
+
+// Function to show only poster needed magazines
+const poster_magazines_btn = document.getElementById('poster_magazines_btn');
+poster_magazines_btn.addEventListener('click', (e) => {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    let ext = 'png';
+    posterNeededMagazines(inventory_chilean, ext);
 });

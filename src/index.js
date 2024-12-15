@@ -3,6 +3,7 @@ import inventory from './database.js';
 import missingMagazines from '../functions/missingMagazines.js';
 import searchedMagazines from '../functions/searchedMagazines.js';
 import poorConditionMagazines from '../functions/poorConditionMagazines.js';
+import posterNeededMagazines from '../functions/posterNeededMagazines.js';
 
 // Defining quantity of active years
 let year_editions = [];
@@ -255,4 +256,12 @@ poor_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
     let ext = 'jpg';
     poorConditionMagazines(inventory, ext);
+});
+
+// Function to show only poster needed magazines
+const poster_magazines_btn = document.getElementById('poster_magazines_btn');
+poster_magazines_btn.addEventListener('click', (e) => {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    let ext = 'jpg';
+    posterNeededMagazines(inventory, ext);
 });
