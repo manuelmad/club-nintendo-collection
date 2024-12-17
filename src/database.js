@@ -1173,7 +1173,9 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 120,
         "COVER": "LUIGI'S MANSION",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 41-48",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1182,7 +1184,9 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 121,
         "COVER": "10 AÑOS - SUPER SMAH BROS. MELEE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
@@ -2369,7 +2373,9 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 223,
         "COVER": "IRON MAN 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2378,7 +2384,9 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 224,
         "COVER": "E3 - MARIO - LUIGI - BASKETBALL",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2387,7 +2395,9 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 225,
         "COVER": "ZELDA",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2396,7 +2406,9 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 226,
         "COVER": "METROID OTHER M",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2423,7 +2435,9 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 229,
         "COVER": "DONKEY KONG COUNTRY RETURNS",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: BETWEEN PAGES 72 AND 73",
+        "OBSERVATION": "DAÑO EN EL LOMO"
     },
     {
         "YEAR EDIT": 20,
@@ -2540,7 +2554,9 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 242,
         "COVER": "SUPER MARIO 3D LAND",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2549,7 +2565,9 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 243,
         "COVER": "TEKKEN 3D PRIME EDITION",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2567,7 +2585,9 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 245,
         "COVER": "BEBÉ MARIO - POKEPARK 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "MISSING: BETWEEN PAGES 72 AND 73",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2585,7 +2605,9 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 247,
         "COVER": "MARIO TENNIS OPEN",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "PORTADA DAÑADA EN ESQUINA SUPERIOR DERECHA. CONTRAPORTADA CON TROZO FALTANTE"
     },
     {
         "YEAR EDIT": 21,
@@ -2594,7 +2616,9 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 248,
         "COVER": "NEW SUPER MARIO BROS. U",
-        "OWNED": "YES"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "MISSING PAGES: 20-21"
     },
     {
         "YEAR EDIT": 21,
@@ -2603,7 +2627,9 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 249,
         "COVER": "RAYMAN",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2630,7 +2656,9 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 252,
         "COVER": "NINTENDO LAND - WII U",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2657,7 +2685,9 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 255,
         "COVER": "LUIGI'S MANSION",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 22,
