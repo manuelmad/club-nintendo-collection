@@ -983,9 +983,9 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 103,
         "COVER": "EXCITEBIKE 64",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
-        "OBSERVATION": "MISSING PAGES: 47, 48 - PÁGINA 62 RECORTADA - ALGUNAS PÁGINAS SUELTAS"
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -1455,9 +1455,9 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 144,
         "COVER": "MARIO KART DOUBLE DASH",
-        "OWNED": "YES-POOR",
-        "POSTER": "MISSING: PAGES 41-48",
-        "OBSERVATION": "MISSING PAGES: 7, 8, 21, 22, 79, 80 - PÁGINA SUELTA: 19, 20"
+        "OWNED": "YES",
+        "POSTER": "INCLUDED",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 12,
@@ -1775,7 +1775,7 @@ const inventory = [
         "OVERALL NUMBER": 172,
         "COVER": "METROID PRIME HUNTERS",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 41-48",
+        "POSTER": "INCLUDED",
         "OBSERVATION": "-"
     },
     {
@@ -1819,7 +1819,7 @@ const inventory = [
         "OVERALL NUMBER": 174,
         "COVER": "NEW SUPER MARIO BROS.",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 41-48",
+        "POSTER": "INCLUDED",
         "OBSERVATION": "-"
     },
     {
@@ -1918,7 +1918,7 @@ const inventory = [
         "OVERALL NUMBER": 183,
         "COVER": "DIDDY KONG RACING DS",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 57-64",
+        "POSTER": "INCLUDED",
         "OBSERVATION": "-"
     },
     {
@@ -1940,7 +1940,7 @@ const inventory = [
         "OVERALL NUMBER": 185,
         "COVER": "TMNT - TEENAGE MUTANT NINJA TURTLES",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 57-64",
+        "POSTER": "INCLUDED",
         "OBSERVATION": "-"
     },
     {
@@ -1962,7 +1962,7 @@ const inventory = [
         "OVERALL NUMBER": 186,
         "COVER": "SPIDER MAN 3",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 57-64",
+        "POSTER": "INCLUDED",
         "OBSERVATION": "-"
     },
     {
