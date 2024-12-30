@@ -1027,7 +1027,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 107,
         "COVER": "POKEMON",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 9,
@@ -1080,7 +1080,7 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 112,
         "COVER": "POKEMON STADIUM 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1089,7 +1089,7 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 113,
         "COVER": "KIRBY",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 10,
@@ -1248,7 +1248,7 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 126,
         "COVER": "RESIDENT EVIL",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 11,

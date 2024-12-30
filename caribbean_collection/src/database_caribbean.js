@@ -60,7 +60,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 7,
         "COVER": "STREET FIGHTER II",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 2,
@@ -89,7 +89,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 10,
         "COVER": "STARFOX",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 2,
@@ -98,7 +98,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 11,
         "COVER": "BATMAN",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 2,
@@ -107,7 +107,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 12,
         "COVER": "TINY TOONS",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 2,
@@ -203,7 +203,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 22,
         "COVER": "MEGA MAN SOCCER",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 3,
@@ -212,7 +212,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 23,
         "COVER": "STUNT RACE FX",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 3,
@@ -230,7 +230,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 25,
         "COVER": "ALIEN VS. PREDATOR - STUNT RACE FX - ITCHY & SCRATCHY",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 3,
@@ -275,7 +275,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 30,
         "COVER": "KILLER INSTINCT",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 4,
@@ -311,7 +311,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 34,
         "COVER": "CLAYFIGHTER 2",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 4,
@@ -376,7 +376,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 41,
         "COVER": "MARIO - NINTENDO 64 - ULTRA 64",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 5,
@@ -385,7 +385,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 42,
         "COVER": "SUPER MARIO RPG",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 5,
@@ -416,7 +416,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 45,
         "COVER": "TOY STORY",
-        "OWNED": "NO"
+        "OWNED": "YES"
     },
     {
         "YEAR EDIT": 5,
