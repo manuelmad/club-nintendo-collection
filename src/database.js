@@ -1665,7 +1665,7 @@ const inventory = [
         "OVERALL NUMBER": 162,
         "COVER": "STAR WARS EPISODE III",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 41-48",
+        "POSTER": "INCLUDED",
         "OBSERVATION": "-"
     },
     {
