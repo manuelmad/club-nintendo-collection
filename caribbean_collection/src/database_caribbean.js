@@ -461,9 +461,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 50,
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
-        "OWNED": "YES-POOR",
-        "POSTER": "-",
-        "OBSERVATION": "MISSING PAGES: 25, 26, 29-36, 39, 40"
+        "OWNED": "NO",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -501,9 +500,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 54,
         "COVER": "TUROK",
-        "OWNED": "YES-POOR",
-        "POSTER": "-",
-        "OBSERVATION": "MISSING PAGES: 51-58"
+        "OWNED": "NO",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -818,7 +816,7 @@ const inventory_caribbean = [
         "YEAR DATE": 1999,
         "MONTH": "OCTOBER",
         "YEAR NUMBER": 10,
-        "OVERALL NUMBER": 95,
+        "OVERALL NUMBER": 85,
         "COVER": "JETFORCE GEMINI",
         "OWNED": "YES",
         "POSTER": "-",

@@ -213,7 +213,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 24,
         "COVER": "SUPER METROID",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36"
     },
     {
         "YEAR EDIT": 3,
@@ -231,7 +232,9 @@ const inventory_chilean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 26,
         "COVER": "SUPER BOMBERMAN 2 - SUPER ADVENTURE ISLAND 2 - DONKEY KONG COUNTRY",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 29-36",
+        "OBSERVATION": "FROM ARGENTINA - PÁGINA CENTRAL SUELTA"
     },
     {
         "YEAR EDIT": 3,
@@ -240,7 +243,9 @@ const inventory_chilean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 27,
         "COVER": "DONKEY KONG COUNTRY",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 31-34",
+        "OBSERVATION": "FROM ARGENTINA"
     },
     {
         "YEAR EDIT": 3,
@@ -249,7 +254,9 @@ const inventory_chilean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 28,
         "COVER": "MORTAL KOMBAT II",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36",
+        "OBSERVATION": "FROM ARGENTINA"
     },
     {
         "YEAR EDIT": 4,
@@ -258,7 +265,9 @@ const inventory_chilean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 29,
         "COVER": "DONKEY KONG COUNTRY",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-37",
+        "OBSERVATION": "FROM ARGENTINA"
     },
     {
         "YEAR EDIT": 4,
@@ -276,7 +285,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 31,
         "COVER": "FATAL FURY - CRESTA AMARILLA",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 31-34"
     },
     {
         "YEAR EDIT": 4,
@@ -285,7 +295,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 32,
         "COVER": "SPIDER MAN",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36"
     },
     {
         "YEAR EDIT": 4,
@@ -312,7 +323,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 35,
         "COVER": "KILLER INSTINCT",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -330,7 +342,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 37,
         "COVER": "VIRTUAL BOY",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -339,7 +352,9 @@ const inventory_chilean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 38,
         "COVER": "YOSHI'S ISLAND - BEBÉ MARIO",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "PÁGINA CENTRAL SUELTA"
     },
     {
         "YEAR EDIT": 4,
@@ -438,7 +453,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 49,
         "COVER": "NINTENDO 64 - PILOTWINGS 64",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -447,7 +463,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 50,
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -483,7 +500,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 54,
         "COVER": "TUROK",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -501,7 +519,8 @@ const inventory_chilean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 56,
         "COVER": "MARIO - LUIGI - PEACH - BOWSER",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -609,7 +628,9 @@ const inventory_chilean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 68,
         "COVER": "1080 SNOWBOARDING",
-        "OWNED": "NO"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "OBSERVATION": "PÁGINAS 1-2 FALTA PEDAZO"
     },
     {
         "YEAR EDIT": 7,

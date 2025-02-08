@@ -2446,7 +2446,9 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 230,
         "COVER": "25TH ANNIVERSARY - SUPER MARIO ALL STARS",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "FROM CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2473,7 +2475,9 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 233,
         "COVER": "SUPER STREET FIGHTER IV 3D EDITION",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "FROM CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2509,7 +2513,9 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 237,
         "COVER": "METAL GEAR SOLID 3D",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "FROM CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2527,7 +2533,9 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 239,
         "COVER": "FIFA 12 - ROONEY - MARQUEZ",
-        "OWNED": "NO"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "OBSERVATION": "FROM CHILE"
     },
     {
         "YEAR EDIT": 20,
