@@ -5,11 +5,13 @@ import createEditionsList from "../../functions/createEditionsList.js";
 import poorConditionMagazines from "../../functions/poorConditionMagazines.js";
 import posterNeededMagazines from "../../functions/posterNeededMagazines.js";
 
+import inventory_chilean from "../../chilean_collection/src/database_chilean.js";
+
 // Accesing years container and adding first year
 // const years_container = document.getElementById('years_container');
 // const covers_container = document.getElementById('covers_container');
 
-createEditionsList(inventory_caribbean);
+createEditionsList(inventory_caribbean, inventory_chilean);
 
 // Accessing search input
 const search_input = document.getElementById("search_input");
