@@ -68,6 +68,7 @@ function searchedMagazines(inventory, img_ext) {
                 p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
+                p6.innerHTML = `<b>Poster</b>: Pending`;
             }
             
             p2.style.fontWeight = 'bold';
