@@ -6,7 +6,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 1,
         "COVER": "MARIO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -15,7 +16,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 2,
         "COVER": "SUPER MARIO WORLD - YOSHI",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -24,7 +26,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 3,
         "COVER": "MARIO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -33,7 +36,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 4,
         "COVER": "BART",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -42,7 +46,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 5,
         "COVER": "F-ZERO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "DOUBLE DRAGON III"
     },
     {
         "YEAR EDIT": 1,
@@ -51,7 +56,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 6,
         "COVER": "TINY TOONS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -60,7 +66,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 7,
         "COVER": "FLINTSTONES",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -69,7 +76,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 8,
         "COVER": "STREET FIGHTER II",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -78,7 +86,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "CONTROLES SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 1,
@@ -87,7 +96,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 9,
         "COVER": "MEGA MAN 4",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -96,7 +106,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 10,
         "COVER": "BART VS. THE WORLD",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "ADVENTURE ISLAND 3"
     },
     {
         "YEAR EDIT": 1,
@@ -105,7 +116,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 11,
         "COVER": "MARIO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "FELIX THE CAT / AXELAY"
     },
     {
         "YEAR EDIT": 1,
@@ -114,7 +126,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 12,
         "COVER": "COYOTE Y CORRECAMINOS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -123,7 +136,8 @@ const inventory = [
         "YEAR NUMBER": 13,
         "OVERALL NUMBER": 13,
         "COVER": "MICKEY MOUSE",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -132,7 +146,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 14,
         "COVER": "BATMAN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -141,7 +156,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 15,
         "COVER": "TINY TOONS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -150,7 +166,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 16,
         "COVER": "SUPER FX",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "CALENDARIO STREET FIGHTER II / WIDGET"
     },
     {
         "YEAR EDIT": 2,
@@ -159,7 +176,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 17,
         "COVER": "STARFOX",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "CYBERNATOR"
     },
     {
         "YEAR EDIT": 2,
@@ -168,7 +186,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 18,
         "COVER": "BUBSY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Kid Dracula / Batman Returns / Star Fox / Publicidad Juegos"
     },
     {
         "YEAR EDIT": 2,
@@ -177,7 +196,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 19,
         "COVER": "BATTLETOADS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "BATTLETOADS / RUN SABER"
     },
     {
         "YEAR EDIT": 2,
@@ -186,7 +206,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 20,
         "COVER": "STREET FIGHTER II TURBO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Calendario Street Fighter II  (Julio - Agosto) / Arte en Sobres"
     },
     {
         "YEAR EDIT": 2,
@@ -195,7 +216,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "STREET FIGHTER II SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 2,
@@ -204,7 +226,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 21,
         "COVER": "SUPER MARIO ALL STARS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Raging Figther / Arte en Sobres"
     },
     {
         "YEAR EDIT": 2,
@@ -213,7 +236,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 22,
         "COVER": "MORTAL KOMBAT",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Calendario Street Fighter II (Setiembre – Octubre) / Arte en sobres"
     },
     {
         "YEAR EDIT": 2,
@@ -222,7 +246,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 23,
         "COVER": "JURASSIC PARK",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Zombies Ate My Neighbors / Arte en Sobres"
     },
     {
         "YEAR EDIT": 2,
@@ -231,7 +256,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 24,
         "COVER": "TEENAGE MUTANT NINJA TURTLES",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Calendario Street Fighter II (Noviembre – Diciembre)  / Arte en Sobres"
     },
     {
         "YEAR EDIT": 2,
@@ -240,7 +266,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 25,
         "COVER": "JULIO CESAR CHAVEZ",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Volante del evento de presentación del videojuego de Chávez"
     },
     {
         "YEAR EDIT": 3,
@@ -249,7 +276,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 26,
         "COVER": "MEGA MAN X",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -258,7 +286,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 27,
         "COVER": "SUPER METROID",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Megaman X / Arte en Sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -267,7 +296,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 28,
         "COVER": "NBA JAM",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Lethal Enforces / Arte en Sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -276,7 +306,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 29,
         "COVER": "STREET FIGHTER II TURBO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Lista de Juegos de SNES / Arte en sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -285,7 +316,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 30,
         "COVER": "DONKEY KONG",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "King of Dragons / Arte en Sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -294,7 +326,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 31,
         "COVER": "STUNT RACE FX",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "SSF II Turbo / Arte sobre sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -303,7 +336,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 32,
         "COVER": "SUPER STREET FIGHTER II",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Speedy Gonzales / Arte en sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -312,7 +346,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 33,
         "COVER": "BEAUTY AND THE BEAST",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Aero the Acro-bat / Arte en sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -321,7 +356,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 34,
         "COVER": "MORTAL KOMBAT II",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Darkstalkers / Arte en sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -330,7 +366,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 35,
         "COVER": "SUPER ADVENTURE ISLAND II",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -339,7 +376,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 36,
         "COVER": "DONKEY KONG COUNTRY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Sparkster / Arte en Sobres"
     },
     {
         "YEAR EDIT": 3,
@@ -348,7 +386,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 37,
         "COVER": "SAMURAI SHODOWN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Maximum Carnage / Arte en Sobres"
     },
     {
         "YEAR EDIT": 4,
@@ -357,7 +396,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 38,
         "COVER": "MEGA MAN X",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Zero The Kamikaze Squirrel + Aero the Acro-bat / Arte en  Sobres"
     },
     {
         "YEAR EDIT": 4,
@@ -366,7 +406,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 39,
         "COVER": "KILLER INSTINCT",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "X-Men Mutant Apocalypse / Arte en sobres"
     },
     {
         "YEAR EDIT": 4,
@@ -375,7 +416,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 40,
         "COVER": "KIRBY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "FX Fighter / Arte Sobre Sobres"
     },
     {
         "YEAR EDIT": 4,
@@ -384,7 +426,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 41,
         "COVER": "SPIDER MAN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -393,7 +436,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 42,
         "COVER": "STREET FIGHTER II",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -402,7 +446,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 43,
         "COVER": "STREET FIGHTER II - NIGHT WARRIORS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -411,7 +456,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 44,
         "COVER": "VIRTUAL BOY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -420,7 +466,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 45,
         "COVER": "POWER RANGERS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -429,7 +476,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 46,
         "COVER": "KILLER INSTINCT",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -438,7 +486,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 47,
         "COVER": "YOSHI'S ISLAND - BEBÉ MARIO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -447,7 +496,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 48,
         "COVER": "MORTAL KOMBAT 3",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -456,7 +506,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 49,
         "COVER": "DIDDY KONG'S QUEST",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -465,7 +516,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 50,
         "COVER": "MARIO - NINTENDO 64 - #50",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -474,7 +526,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 51,
         "COVER": "SUPER MARIO RPG",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -483,7 +536,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 52,
         "COVER": "DRAGON BALL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -492,7 +546,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 53,
         "COVER": "KILLER INSTINCT 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -501,7 +556,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 54,
         "COVER": "TOY STORY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -510,7 +566,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 55,
         "COVER": "STREET FIGHTER ZERO 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -519,7 +576,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 56,
         "COVER": "SUPER MARIO 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -528,7 +586,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 57,
         "COVER": "KEN GRIIFEY JR'S WINNING RUN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -537,7 +596,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 58,
         "COVER": "NINTENDO 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -546,7 +606,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 59,
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -555,7 +616,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 60,
         "COVER": "MORTAL KOMBAT TRILOGY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Super Mario 64 / Arte en Sobres"
     },
     {
         "YEAR EDIT": 5,
@@ -564,7 +626,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 61,
         "COVER": "KILLER INSTINCT GOLD",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Street Fighter Alpha 2 / Arte en sobres"
     },
     {
         "YEAR EDIT": 6,
@@ -573,7 +636,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 62,
         "COVER": "MARIO KART 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Mortal Kombat Trilogy / Arte en Sobres"
     },
     {
         "YEAR EDIT": 6,
@@ -582,7 +646,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 63,
         "COVER": "TUROK",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Mario Kart 64 / Arte en sobres"
     },
     {
         "YEAR EDIT": 6,
@@ -591,7 +656,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 64,
         "COVER": "THE KING OF FIGHTERS 95",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Pilotwings 64 / Arte en sobres"
     },
     {
         "YEAR EDIT": 6,
@@ -600,7 +666,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 65,
         "COVER": "MARIO - LUIGI - PEACH - BOWSER",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -609,7 +676,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "MARIO - ARTE - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 6,
@@ -618,7 +686,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 66,
         "COVER": "BLAST CORPS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Kirby’s Star Stacker / Arte en sobres"
     },
     {
         "YEAR EDIT": 6,
@@ -627,7 +696,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 67,
         "COVER": "STARFOX 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -636,7 +706,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 68,
         "COVER": "CLAYFIGHTER 63 1/3",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -645,7 +716,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 69,
         "COVER": "BANJO - KAZOOIE",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -654,7 +726,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 70,
         "COVER": "GOLDENEYE 007",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Mortal Kombat Mytholgies / Arte en sobres"
     },
     {
         "YEAR EDIT": 6,
@@ -663,7 +736,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 71,
         "COVER": "RUSH EXTREME RACING",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Goldeneye 007 / Arte en sobres"
     },
     {
         "YEAR EDIT": 6,
@@ -672,7 +746,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 72,
         "COVER": "DIDDY KONG RACING",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -681,7 +756,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 73,
         "COVER": "BOMBERMAN 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -692,6 +768,7 @@ const inventory = [
         "COVER": "ZELDA OCARINE",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "SAN FRANCISO RUSH / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -701,7 +778,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 75,
         "COVER": "YOSHI'S STORY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -710,7 +788,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 76,
         "COVER": "NINJA GOEMON",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Yoshi’s Story / Arte en sobres"
     },
     {
         "YEAR EDIT": 7,
@@ -719,7 +798,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 77,
         "COVER": "1080 SNOWBOARDING",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -728,7 +808,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "ENCICLOPEDIA - CONSOLAS - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 7,
@@ -737,7 +818,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 78,
         "COVER": "WORLD CUP 98",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -746,7 +828,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 79,
         "COVER": "BANJO - KAZOOIE",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -755,7 +838,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 80,
         "COVER": "F-ZERO X",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Banjo Kazooie / Arte en Sobres"
     },
     {
         "YEAR EDIT": 7,
@@ -764,7 +848,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 81,
         "COVER": "F-1 WORLD GRAND PRIX",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -773,7 +858,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 82,
         "COVER": "NFL QUARTERBACK CLUB 99",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Deadly Arts / Arte en sobres"
     },
     {
         "YEAR EDIT": 7,
@@ -782,7 +868,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 83,
         "COVER": "POKEMON",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -791,7 +878,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 84,
         "COVER": "TUROK 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "50 Pokémon / Arte en sobres"
     },
     {
         "YEAR EDIT": 7,
@@ -800,7 +888,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 85,
         "COVER": "ZELDA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Yoshi’s Story (x2) "
     },
     {
         "YEAR EDIT": 8,
@@ -809,7 +898,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 86,
         "COVER": "CASTLEVANIA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Calendario TLOZ / Arte en sobres"
     },
     {
         "YEAR EDIT": 8,
@@ -818,7 +908,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 87,
         "COVER": "MARIO PARTY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -827,7 +918,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 88,
         "COVER": "NBA JAM 99",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Mario Party  / Arte en sobres"
     },
     {
         "YEAR EDIT": 8,
@@ -836,7 +928,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 89,
         "COVER": "SUPER SMASH BROTHERS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -845,7 +938,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 90,
         "COVER": "RAYMAN 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Calendario Super Smash Bros. / Arte en sobres"
     },
     {
         "YEAR EDIT": 8,
@@ -854,7 +948,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 91,
         "COVER": "STAR WARS RACER",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -863,7 +958,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 92,
         "COVER": "SHADOW MAN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Superman / Arte en sobres"
     },
     {
         "YEAR EDIT": 8,
@@ -872,7 +968,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 93,
         "COVER": "POKEMON SNAP",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -881,7 +978,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 94,
         "COVER": "HYBRID HEAVEN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Harrier 2001 / Arte en sobres"
     },
     {
         "YEAR EDIT": 8,
@@ -890,7 +988,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 95,
         "COVER": "JETFORCE GEMINI",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -901,6 +1000,7 @@ const inventory = [
         "COVER": "STARCRAFT 64",
         "OWNED": "YES-POOR",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "RE-VOLT",
         "OBSERVATION": "DAÑO EN EL LOMO - ALGUNAS PÁGINAS SUELTAS - PÁG. 87 RECORTADA"
     },
     {
@@ -912,6 +1012,7 @@ const inventory = [
         "COVER": "DONKEY KONG 64",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "PÁG. 7 RECORTADA"
     },
     {
@@ -921,7 +1022,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "POKEMON - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 9,
@@ -932,6 +1034,7 @@ const inventory = [
         "COVER": "MARIO PARTY 2",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "DONKEY KONG 64 / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -943,6 +1046,7 @@ const inventory = [
         "COVER": "RR64",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -952,7 +1056,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 100,
         "COVER": "POKEMON STADIUM",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "700 PORTADAS / ARTE SOBRES"
     },
     {
         "YEAR EDIT": 9,
@@ -963,6 +1068,7 @@ const inventory = [
         "COVER": "POKEMON TRADING CARD GAME",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "PÁGINA 68 RECORTADA"
     },
     {
@@ -974,6 +1080,7 @@ const inventory = [
         "COVER": "PERFECT DARK",
         "OWNED": "YES-POOR",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "POKEMON STADIUM (CALENDARIO MAYO-JUNIO) / ARTE SOBRES",
         "OBSERVATION": "PÁGINAS RECORTADAS: 21, 40, 53-54, 55-56, 57-58, 59-60, 79-80, 81-82. MISSING PAGES: 62-69"
     },
     {
@@ -985,6 +1092,7 @@ const inventory = [
         "COVER": "EXCITEBIKE 64",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -996,6 +1104,7 @@ const inventory = [
         "COVER": "KIRBY 64",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "PERFECT DARK / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1007,6 +1116,7 @@ const inventory = [
         "COVER": "TUROK 3",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1018,6 +1128,7 @@ const inventory = [
         "COVER": "MARIO TENNIS - PEACH - DAISY",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "BATMAN BEYOND / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1027,7 +1138,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 107,
         "COVER": "POKEMON",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 9,
@@ -1035,9 +1147,10 @@ const inventory = [
         "MONTH": "NOVEMBER",
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 108,
-        "COVER": "ZELDA",
+        "COVER": "ZELDA MAJORA'S",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "THE LEGEND OF ZELDA: MAJORA'S MASK / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1060,6 +1173,7 @@ const inventory = [
         "COVER": "PAPER MARIO",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "TUROK 3 / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1071,6 +1185,7 @@ const inventory = [
         "COVER": "MEGA MAN 64",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "PÁGINAS RECORTADAS: 63-64"
     },
     {
@@ -1080,7 +1195,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 112,
         "COVER": "POKEMON STADIUM 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "PAPER MARIO / ARTE SOBRES"
     },
     {
         "YEAR EDIT": 10,
@@ -1089,7 +1205,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 113,
         "COVER": "KIRBY",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1098,7 +1215,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "POKEMON - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 10,
@@ -1109,6 +1227,7 @@ const inventory = [
         "COVER": "MARIO PARTY 3",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "CONKER'S BAD FUR DAY / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1120,6 +1239,7 @@ const inventory = [
         "COVER": "GAMEBOY ADVANCE",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1131,6 +1251,7 @@ const inventory = [
         "COVER": "CASTLEVANIA",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "THE LEGEND OF ZELDA: ORACLE OF AGES-SEASONS / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1142,6 +1263,7 @@ const inventory = [
         "COVER": "MARIO KART SUPER CIRCUIT",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1153,6 +1275,7 @@ const inventory = [
         "COVER": "SUPER STREET FIGHTER II",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "SUPER STREET FIGHTER II / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1164,6 +1287,7 @@ const inventory = [
         "COVER": "GAMECUBE",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1175,6 +1299,7 @@ const inventory = [
         "COVER": "LUIGI'S MANSION",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "GAMECUBE / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1186,6 +1311,7 @@ const inventory = [
         "COVER": "10 AÑOS - SUPER SMAH BROS. MELEE",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1197,6 +1323,7 @@ const inventory = [
         "COVER": "ETERNAL DARKNESS",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "ETERNAL DARKNESS / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1208,6 +1335,7 @@ const inventory = [
         "COVER": "NBA COURTSIDE2002 - KOBE",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1219,6 +1347,7 @@ const inventory = [
         "COVER": "SUPER MARIO WORLD - YOSHI - SUPER MARIO ADVANCE 2",
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "MEGAMAN BATTLER NETWORK 2 / ARTE SOBRES",
         "OBSERVATION": "PÁGINAS RECORTADAS: 9-10, 95-96"
     },
     {
@@ -1230,6 +1359,7 @@ const inventory = [
         "COVER": "SONIC ADVENTURE 2 BATTLE",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "PÁGINA 94 MEDIO SUELTA"
     },
     {
@@ -1239,7 +1369,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "ZELDA - SPECIAL",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 11,
@@ -1248,7 +1379,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 126,
         "COVER": "RESIDENT EVIL",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "SONIC ADVENTURE 2 BATTLE / ARTE SOBRES"
     },
     {
         "YEAR EDIT": 11,
@@ -1259,6 +1391,7 @@ const inventory = [
         "COVER": "2002 FIFA WORLD CUP",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1270,6 +1403,7 @@ const inventory = [
         "COVER": "E3 - SUPER MARIO SUNSHINE - ZELDA - METROID - STARFOX",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1281,6 +1415,7 @@ const inventory = [
         "COVER": "SUPER MARIO SUNSHINE",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1292,6 +1427,7 @@ const inventory = [
         "COVER": "STARFOX ADVENTURES",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "MEGAMAN BATTLER NETWORK 2 / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1303,6 +1439,7 @@ const inventory = [
         "COVER": "MARIO PARTY 4",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "DAÑO EN EL LOMO - PORTADA UN POCO SUELTA"
     },
     {
@@ -1314,6 +1451,7 @@ const inventory = [
         "COVER": "METROID PRIME",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "MARIO PARY 4 / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1325,6 +1463,7 @@ const inventory = [
         "COVER": "ZELDA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1336,6 +1475,7 @@ const inventory = [
         "COVER": "POKEMON",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1347,6 +1487,7 @@ const inventory = [
         "COVER": "ZELDA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1358,6 +1499,7 @@ const inventory = [
         "COVER": "POKEMON",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "KIRBY NIGHTMARE IN DREAM LAND / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1369,6 +1511,7 @@ const inventory = [
         "COVER": "GOLDEN SUN",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1380,6 +1523,7 @@ const inventory = [
         "COVER": "WARIO WORLD",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "THE LEGEND OF ZELDA: THE WIND WAKER / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1391,6 +1535,7 @@ const inventory = [
         "COVER": "ADVANCE WARS 2",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1402,6 +1547,7 @@ const inventory = [
         "COVER": "F-ZERO GX",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1413,6 +1559,7 @@ const inventory = [
         "COVER": "ZELDA - SOUL CALIBUR II",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1424,6 +1571,7 @@ const inventory = [
         "COVER": "VIEWTIFUL JOE",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "SOUL CALIBUR II / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1435,6 +1583,7 @@ const inventory = [
         "COVER": "STAR WARS",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "VIEWTIFUL JOE / P.N.03",
         "OBSERVATION": "-"
     },
     {
@@ -1446,6 +1595,7 @@ const inventory = [
         "COVER": "NINTENDO - GAMECUBE - SPECIAL",
         "OWNED": "NO",
         "POSTER": "-",
+        "POSTER THEME": "?",
         "OBSERVATION": "-"
     },
     {
@@ -1457,6 +1607,7 @@ const inventory = [
         "COVER": "MARIO KART DOUBLE DASH",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "FINAL FANTASY TACTICS ADVANCE / MARIO KART DOUBLE DASH",
         "OBSERVATION": "-"
     },
     {
@@ -1468,6 +1619,7 @@ const inventory = [
         "COVER": "MARIO & LUIGI",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1479,6 +1631,7 @@ const inventory = [
         "COVER": "FINAL FANTASY",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "FIRE EMBLEM / SOUL OF MANA",
         "OBSERVATION": "-"
     },
     {
@@ -1490,6 +1643,7 @@ const inventory = [
         "COVER": "METAL GEAR SOLID",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1501,6 +1655,7 @@ const inventory = [
         "COVER": "POKEMON COLLOSEUM",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "FINAL FANTASY CRYSTAL CHRONICLES / METAL GEAR SOLID THE TWIN SNAKES",
         "OBSERVATION": "-"
     },
     {
@@ -1512,6 +1667,7 @@ const inventory = [
         "COVER": "BOMBERMAN JETTERS",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1523,6 +1679,7 @@ const inventory = [
         "COVER": "HARRY POTTER AZKABAN",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "THE LORD OF THE RINGS: THE RETURN OF THE KING",
         "OBSERVATION": "-"
     },
     {
@@ -1534,6 +1691,7 @@ const inventory = [
         "COVER": "TALES OF SIMPHONIA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1545,6 +1703,7 @@ const inventory = [
         "COVER": "E3 - ZELDA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1556,6 +1715,7 @@ const inventory = [
         "COVER": "DONKEY KONGA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1567,6 +1727,7 @@ const inventory = [
         "COVER": "SRS - STREET RACING SYNDICATE",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "KIRBY & THE AMAZING MIRROR / SRS",
         "OBSERVATION": "-"
     },
     {
@@ -1578,6 +1739,7 @@ const inventory = [
         "COVER": "METROID PRIME 2 ECHOES",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1589,6 +1751,7 @@ const inventory = [
         "COVER": "METROID PRIME 2 ECHOES - SPECIAL",
         "OWNED": "NO",
         "POSTER": "-",
+        "POSTER THEME": "?",
         "OBSERVATION": "-"
     },
     {
@@ -1600,6 +1763,7 @@ const inventory = [
         "COVER": "PRINCE OF PERSIA",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 33-48",
+        "POSTER THEME": "PRINCE OF PERSIA WARRIOR WITHIN",
         "OBSERVATION": "-"
     },
     {
@@ -1611,6 +1775,7 @@ const inventory = [
         "COVER": "NINTENDO DS - ANIVERSARIO XIII",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1622,6 +1787,7 @@ const inventory = [
         "COVER": "RESIDENT EVIL 4",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 73-88",
+        "POSTER THEME": "RESIDENT EVIL 4",
         "OBSERVATION": "-"
     },
     {
@@ -1633,6 +1799,7 @@ const inventory = [
         "COVER": "MORTAL KOMBAT DECEPTION",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1644,6 +1811,7 @@ const inventory = [
         "COVER": "SPLINTER CELL",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "SPLINTER CELL / THE LEGEND OF ZELDA: THE MINISH CAP",
         "OBSERVATION": "-"
     },
     {
@@ -1655,6 +1823,7 @@ const inventory = [
         "COVER": "GAMECUBE - NINTENDO DS - GAMEBOY ADVANCE - REVOLUTION",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1666,6 +1835,7 @@ const inventory = [
         "COVER": "STAR WARS EPISODE III",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "POKEMON EMERALD VERSION / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1677,6 +1847,7 @@ const inventory = [
         "COVER": "KILLER 7",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1688,6 +1859,7 @@ const inventory = [
         "COVER": "E3 - ZELDA - MIYAMOTO",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1699,6 +1871,7 @@ const inventory = [
         "COVER": "GEIST",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "GEIST / YOSHI TOPSY-TURVY",
         "OBSERVATION": "-"
     },
     {
@@ -1710,6 +1883,7 @@ const inventory = [
         "COVER": "MARIO SUPERSTAR BASEBALL",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "MEGAMAN BATTLER NETWORK 5 / ARTE SOBRES",
         "OBSERVATION": "-"
     },
     {
@@ -1721,6 +1895,7 @@ const inventory = [
         "COVER": "MARIO KART DS",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1732,6 +1907,7 @@ const inventory = [
         "COVER": "SUPER MARIO STRIKERS",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "RAINBOW SIX / CASTLEVANIA: DAWN OF SORROW",
         "OBSERVATION": "-"
     },
     {
@@ -1743,6 +1919,7 @@ const inventory = [
         "COVER": "PRINCE OF PERSIA",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 73-88",
+        "POSTER THEME": "MARIO STRIKERS",
         "OBSERVATION": "-"
     },
     {
@@ -1754,6 +1931,7 @@ const inventory = [
         "COVER": "ESTRELLAS DEL 2006 - MARIO - LUIGI - KIRBY - METROID - PEACH - ZELDA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1765,6 +1943,7 @@ const inventory = [
         "COVER": "SUPER PRINCESS PEACH",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "X-MEN LEGENDS II / PRINCE OF PERSIA THE TWO THRONES",
         "OBSERVATION": "-"
     },
     {
@@ -1776,6 +1955,7 @@ const inventory = [
         "COVER": "METROID PRIME HUNTERS",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "METROID PRIME HUNTERS / CHIBI-ROBO",
         "OBSERVATION": "-"
     },
     {
@@ -1787,6 +1967,7 @@ const inventory = [
         "COVER": "NARUTO CLASH OF NINJA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1797,7 +1978,7 @@ const inventory = [
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "RESIDENT EVIL - SPECIAL",
         "OWNED": "NO",
-        "POSTER": "-",
+        "POSTER THEME": "?",
         "OBSERVATION": "-"
     },
     {
@@ -1808,7 +1989,7 @@ const inventory = [
         "OVERALL NUMBER": "SPECIAL2",
         "COVER": "RESIDENT EVIL - SPECIAL",
         "OWNED": "NO",
-        "POSTER": "-",
+        "POSTER THEME": "?",
         "OBSERVATION": "-"
     },
     {
@@ -1820,6 +2001,7 @@ const inventory = [
         "COVER": "NEW SUPER MARIO BROS.",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "MARIO Y LUIGI",
         "OBSERVATION": "-"
     },
     {
@@ -1831,6 +2013,7 @@ const inventory = [
         "COVER": "WII",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1842,6 +2025,7 @@ const inventory = [
         "COVER": "E3 - REDSTEEL",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1853,6 +2037,7 @@ const inventory = [
         "COVER": "STARFOX COMMAND",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "SUPER MONKEY BALL ADVENTURE / CASTLEVANIA PORTRAIT OF RUIN",
         "OBSERVATION": "-"
     },
     {
@@ -1864,6 +2049,7 @@ const inventory = [
         "COVER": "MARIO VS. DONKEY KONG 2",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1875,6 +2061,7 @@ const inventory = [
         "COVER": "FIFA 07",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1886,6 +2073,7 @@ const inventory = [
         "COVER": "ZELDA",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "THE LEGEND OF ZELDA TWILIGHT PRINCESS",
         "OBSERVATION": "-"
     },
     {
@@ -1897,6 +2085,7 @@ const inventory = [
         "COVER": "XV AÑOS",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 57-64",
+        "POSTER THEME": "REDSTEEL / MARVEL ULTIMATE ALLIANCE",
         "OBSERVATION": "-"
     },
     {
@@ -1908,6 +2097,7 @@ const inventory = [
         "COVER": "WARIOWARE SMOOTH MOVES",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1919,6 +2109,7 @@ const inventory = [
         "COVER": "DIDDY KONG RACING DS",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "DIDDY KONG RAACING DS / THE LEGEND OF ZELDA TWILIGHT PRINCESS",
         "OBSERVATION": "-"
     },
     {
@@ -1930,6 +2121,7 @@ const inventory = [
         "COVER": "PRINCE OF PERSIA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1941,6 +2133,7 @@ const inventory = [
         "COVER": "TMNT - TEENAGE MUTANT NINJA TURTLES",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "PRINCE OF PERSIA RIVAL SWORDS / LUNAR KNIGHTS",
         "OBSERVATION": "-"
     },
     {
@@ -1951,7 +2144,7 @@ const inventory = [
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "ARTE EN LOS JUEGOS DE MARIO - SPECIAL",
         "OWNED": "NO",
-        "POSTER": "-",
+        "POSTER THEME": "?",
         "OBSERVATION": "-"
     },
     {
@@ -1963,6 +2156,7 @@ const inventory = [
         "COVER": "SPIDER MAN 3",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "TMNT / SPIDER-MAN 3 THE GAME",
         "OBSERVATION": "-"
     },
     {
@@ -1974,6 +2168,7 @@ const inventory = [
         "COVER": "HARRY POTTER PHOENIX",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1985,6 +2180,7 @@ const inventory = [
         "COVER": "MARIO STRIKERS CHARGED",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -1996,6 +2192,7 @@ const inventory = [
         "COVER": "METROID PRIME 3 CORRUPTION",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2007,6 +2204,7 @@ const inventory = [
         "COVER": "ZELDA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2018,6 +2216,7 @@ const inventory = [
         "COVER": "FIFA 08",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2029,6 +2228,7 @@ const inventory = [
         "COVER": "SUPER MARIO GALAXY",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2040,6 +2240,7 @@ const inventory = [
         "COVER": "MARIO PARTY DS",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2051,6 +2252,7 @@ const inventory = [
         "COVER": "2008 - MARIO KART WII",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2062,6 +2264,7 @@ const inventory = [
         "COVER": "SUPER SMASH BROS. BRAWL",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2073,6 +2276,7 @@ const inventory = [
         "COVER": "NO MORE HEROES",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2084,6 +2288,7 @@ const inventory = [
         "COVER": "OKAMI",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2094,7 +2299,7 @@ const inventory = [
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "SUPER SMASH BROS. - SPECIAL",
         "OWNED": "NO",
-        "POSTER": "-",
+        "POSTER THEME": "?",
         "OBSERVATION": "-"
     },
     {
@@ -2106,6 +2311,7 @@ const inventory = [
         "COVER": "MARIO KART WII",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2117,6 +2323,7 @@ const inventory = [
         "COVER": "GUITAR HERO",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2128,6 +2335,7 @@ const inventory = [
         "COVER": 200,
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2139,6 +2347,7 @@ const inventory = [
         "COVER": "FINAL FANTASY IV",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2150,6 +2359,7 @@ const inventory = [
         "COVER": "E3 - WARIO",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "FROM COVER TO PAGE 20 WITH A LITTLE DETAIL IN THE LOWER LEFT CORNER"
     },
     {
@@ -2161,6 +2371,7 @@ const inventory = [
         "COVER": "HARRY POTTER",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2172,6 +2383,7 @@ const inventory = [
         "COVER": "RAYMAN RAVING RABBIDS",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2183,6 +2395,7 @@ const inventory = [
         "COVER": "ANIMAL CROSSING",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2194,6 +2407,7 @@ const inventory = [
         "COVER": "PRINCE OF PERSIA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2205,6 +2419,7 @@ const inventory = [
         "COVER": "MEGA MAN",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2216,6 +2431,7 @@ const inventory = [
         "COVER": "DEADRISING - ZOMBIS",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2227,6 +2443,7 @@ const inventory = [
         "COVER": "POKEMON PLATINUM",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2238,6 +2455,7 @@ const inventory = [
         "COVER": "PUNCH OUT WII",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2249,6 +2467,7 @@ const inventory = [
         "COVER": "NEED FOR SPEED NITRO",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2260,6 +2479,7 @@ const inventory = [
         "COVER": "E3 - ZELDA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2271,6 +2491,7 @@ const inventory = [
         "COVER": "MARIO - YOSHI - MÁS DE 60",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2282,6 +2503,7 @@ const inventory = [
         "COVER": "METROID PRIME TRILOGY",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2293,6 +2515,7 @@ const inventory = [
         "COVER": "PES 2010 - MESSI",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2304,6 +2527,7 @@ const inventory = [
         "COVER": "TATSUNOKO VS. CAPCOM - RYU - CHUN LI",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2315,6 +2539,7 @@ const inventory = [
         "COVER": "TENEMOS ESTRELLA - MARIO",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2326,6 +2551,7 @@ const inventory = [
         "COVER": "ZELDA - TREN",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2337,6 +2563,7 @@ const inventory = [
         "COVER": "NO MORE HEROES 2",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2346,7 +2573,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 220,
         "COVER": "SONIC",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2355,7 +2583,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 221,
         "COVER": "WARIOWARE D.I.Y.",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2364,7 +2593,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 222,
         "COVER": "SUPER MARIO GALAXY 2 - YOSHI",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2375,6 +2605,7 @@ const inventory = [
         "COVER": "IRON MAN 2",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2386,6 +2617,7 @@ const inventory = [
         "COVER": "E3 - MARIO - LUIGI - BASKETBALL",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2397,6 +2629,7 @@ const inventory = [
         "COVER": "ZELDA",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2408,6 +2641,7 @@ const inventory = [
         "COVER": "METROID OTHER M",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2417,7 +2651,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 227,
         "COVER": "NBA JAM",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2426,7 +2661,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 228,
         "COVER": "PES 2011 - MESSI",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 19,
@@ -2436,8 +2672,9 @@ const inventory = [
         "OVERALL NUMBER": 229,
         "COVER": "DONKEY KONG COUNTRY RETURNS",
         "OWNED": "YES-POOR",
-        "POSTER": "MISSING: BETWEEN PAGES 72 AND 73",
-        "OBSERVATION": "DAÑO EN EL LOMO"
+        "POSTER": "MISSING: CHILEAN VERSION",
+        "POSTER THEME": "METROID OTHER M / DONKEY KONG COUNTRY RETURN",
+        "OBSERVATION": "DAÑO EN EL LOMO - FROM CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2448,6 +2685,7 @@ const inventory = [
         "COVER": "25TH ANNIVERSARY - SUPER MARIO ALL STARS",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "FROM CHILE"
     },
     {
@@ -2457,7 +2695,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 231,
         "COVER": "CONDUIT 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 20,
@@ -2466,7 +2705,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 232,
         "COVER": "KID ICARUS - NINTENDO 3DS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 20,
@@ -2477,6 +2717,7 @@ const inventory = [
         "COVER": "SUPER STREET FIGHTER IV 3D EDITION",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "FROM CHILE"
     },
     {
@@ -2486,7 +2727,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 234,
         "COVER": "SONIC",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 20,
@@ -2495,7 +2737,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 235,
         "COVER": "ZELDA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 20,
@@ -2504,7 +2747,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 236,
         "COVER": "E3 - MARIO - WII U",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 20,
@@ -2515,6 +2759,7 @@ const inventory = [
         "COVER": "METAL GEAR SOLID 3D",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "FROM CHILE"
     },
     {
@@ -2524,7 +2769,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 238,
         "COVER": "STARFOX 64 3D",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 20,
@@ -2535,6 +2781,7 @@ const inventory = [
         "COVER": "FIFA 12 - ROONEY - MARQUEZ",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "FROM CHILE"
     },
     {
@@ -2544,7 +2791,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 240,
         "COVER": "MARIO & SONIC AT THE LONDON 2012 OLYMPIC GAMES",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 20,
@@ -2553,7 +2801,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 241,
         "COVER": "ZELDA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "THE LEGEND OF ZELDA: SKYWARD SWORD"
     },
     {
         "YEAR EDIT": 21,
@@ -2564,6 +2813,7 @@ const inventory = [
         "COVER": "SUPER MARIO 3D LAND",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2575,6 +2825,7 @@ const inventory = [
         "COVER": "TEKKEN 3D PRIME EDITION",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2584,7 +2835,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 244,
         "COVER": "KID ICARUS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2594,8 +2846,9 @@ const inventory = [
         "OVERALL NUMBER": 245,
         "COVER": "BEBÉ MARIO - POKEPARK 2",
         "OWNED": "YES",
-        "POSTER": "MISSING: BETWEEN PAGES 72 AND 73",
-        "OBSERVATION": "-"
+        "POSTER": "MISSING: CHILEAN VERSION",
+        "POSTER THEME": "MARIO KART 7 / POKEPARK 2",
+        "OBSERVATION": "FROM CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2604,7 +2857,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 246,
         "COVER": "EPIC MICKEY 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2615,6 +2869,7 @@ const inventory = [
         "COVER": "MARIO TENNIS OPEN",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "PORTADA DAÑADA EN ESQUINA SUPERIOR DERECHA. CONTRAPORTADA CON TROZO FALTANTE"
     },
     {
@@ -2626,6 +2881,7 @@ const inventory = [
         "COVER": "NEW SUPER MARIO BROS. U",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "MISSING PAGES: 20-21"
     },
     {
@@ -2637,6 +2893,7 @@ const inventory = [
         "COVER": "RAYMAN",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2646,7 +2903,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 250,
         "COVER": "METROID",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "METROID"
     },
     {
         "YEAR EDIT": 21,
@@ -2655,7 +2913,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 251,
         "COVER": "KIRBY 20TH ANNIVERSARY - CELEBREMOS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 21,
@@ -2666,6 +2925,7 @@ const inventory = [
         "COVER": "NINTENDO LAND - WII U",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2675,7 +2935,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 253,
         "COVER": "21 ANIVERSARIO - MARIO - YOSHI",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "NEW SUPER MARIO BROS. U / BATMAN ARKHAM CITY"
     },
     {
         "YEAR EDIT": 22,
@@ -2684,7 +2945,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 254,
         "COVER": "NINJA GAIDEN 3",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 22,
@@ -2695,6 +2957,7 @@ const inventory = [
         "COVER": "LUIGI'S MANSION",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -2704,7 +2967,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 256,
         "COVER": "CASTLEVANIA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "CASTLEVANIA: LORD OF SHADOW / LUIGI'S MANSION DARK MOON"
     },
     {
         "YEAR EDIT": 22,
@@ -2713,7 +2977,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 257,
         "COVER": "INJUSTICE",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 22,
@@ -2722,7 +2987,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 258,
         "COVER": "DONKEY KONG",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 22,
@@ -2731,7 +2997,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 259,
         "COVER": "ANIMAL CROSSING",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "CALENDARIOS DE ANIMAL CROSSING (JUN 2013 - MAY 2014)"
     },
     {
         "YEAR EDIT": 22,
@@ -2740,7 +3007,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 260,
         "COVER": "DISNEY INFINITY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 22,
@@ -2749,7 +3017,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 261,
         "COVER": "SUPER SMASH BROS.",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 22,
@@ -2758,7 +3027,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 262,
         "COVER": "PIKMIN 3",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 22,
@@ -2767,7 +3037,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 263,
         "COVER": "ZELDA WINDWAKER HD",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 22,
@@ -2776,7 +3047,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 264,
         "COVER": "SONIC LOST WORLD",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "SUPER SMASH BROS. / NEW SUPER LUIGI U"
     },
     {
         "YEAR EDIT": 22,
@@ -2785,7 +3057,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 265,
         "COVER": "SUPER MARIO 3D WORLD",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "SUPER MARIO 3D WORLD / THE LEGEND OF ZELDA: A LINK BETWEEN WORLDS"
     },
     {
         "YEAR EDIT": 23,
@@ -2794,7 +3067,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 266,
         "COVER": "MARIO PARTY ISLAND TOUR",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 23,
@@ -2803,7 +3077,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 267,
         "COVER": "ZELDA - PAREJAS LEGENDARIAS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 23,
@@ -2812,7 +3087,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 268,
         "COVER": "DONKEY KONG COUNTRY TROPICAL FREEZE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "DONKEY KONG COUNTRY TROPICAL FREEZE / MARIO PARTY ISLAND TOUR"
     },
     {
         "YEAR EDIT": 23,
@@ -2821,7 +3097,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 269,
         "COVER": "YOSHI'S NEW ISLAND - BEBÉ MARIO",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 23,
@@ -2830,7 +3107,8 @@ const inventory = [
         "YEAR NUMBER": "SPECIAL",
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "EL MUNDO DE SUPER MARIO - SPECIAL",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "?"
     },
     {
         "YEAR EDIT": 23,
@@ -2839,7 +3117,8 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 270,
         "COVER": "MARIO KART 8",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 23,
@@ -2848,7 +3127,8 @@ const inventory = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 271,
         "COVER": "KIRBY TRIPLE DELUXE",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "MARIO KART 8 / YOSHI'S NEW ISLAND"
     },
     {
         "YEAR EDIT": 23,
@@ -2857,7 +3137,8 @@ const inventory = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 272,
         "COVER": "SUPER SMASH BROS. FOR NINTENDO 3DS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 23,
@@ -2866,7 +3147,8 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 273,
         "COVER": "DISNEY INFINITY 2.0 - SPIDER MAN",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 23,
@@ -2875,7 +3157,8 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 274,
         "COVER": "ZELDA - HYRULE WARRIORS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "MARIO GOLF WORLD TOUR"
     },
     {
         "YEAR EDIT": 23,
@@ -2884,7 +3167,8 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 275,
         "COVER": "BAYONETTA 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 23,
@@ -2893,7 +3177,8 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 276,
         "COVER": "EL MUNDO DE BOWSER - SPECIAL",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "MARIO PARTY 10 / MARIO & LUIGI BOWSER'S INSIDE STORY"
     },
     {
         "YEAR EDIT": 23,
@@ -2902,7 +3187,8 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 277,
         "COVER": "SUPER SMASH BROS. FOR WII U",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "BAYONETTA 2 / SUPER SMASH BROS. FOR WII U"
     },
     {
         "YEAR EDIT": 24,
@@ -2911,7 +3197,8 @@ const inventory = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 278,
         "COVER": "LA JUNGLA DE DONKEY KONG - SPECIAL",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 24,
@@ -2920,7 +3207,8 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 279,
         "COVER": "ZELDA MAJORA'S MASK",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "THE LEGEND OF ZELDA: MAJORA'S MASK 3D"
     },
     {
         "YEAR EDIT": 24,
@@ -2929,7 +3217,8 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 280,
         "COVER": "MARIO PARTY 10",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "MARIO PARTY 10"
     },
     {
         "YEAR EDIT": 24,
@@ -2938,7 +3227,8 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 281,
         "COVER": "SUPER MARIO MAKER",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "SUPER MARIO MAKER / SPLATOON"
     }
 ];
 

@@ -6,7 +6,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 1,
         "COVER": "SUPER MARIO WORLD",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -15,7 +16,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 2,
         "COVER": "SUPER MARIO BROS. 3",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 1,
@@ -24,7 +26,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 3,
         "COVER": "BART - LOS SIMPSONS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -33,7 +36,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 4,
         "COVER": "F-ZERO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "DOUBLE DRAGON III"
     },
     {
         "YEAR EDIT": 2,
@@ -42,7 +46,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 5,
         "COVER": "SUPER MARIO BROS. - BOWSER",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Extra: Cubitips SUPER MARIO BROS. 3"
     },
     {
         "YEAR EDIT": 2,
@@ -51,7 +56,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 6,
         "COVER": "THE FLINSTONES - PICAPIEDRAS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "Extra: Cubitips BATMAN RETURN OF THE JOKER"
     },
     {
         "YEAR EDIT": 2,
@@ -60,7 +66,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 7,
         "COVER": "STREET FIGHTER II",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "STREET FIGHTER II / Extra: Cubitips SUPER MARIO WORLD"
     },
     {
         "YEAR EDIT": 2,
@@ -69,7 +76,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 8,
         "COVER": "MARIO PAINT",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "FELIX THE CAT / AXELAY"
     },
     {
         "YEAR EDIT": 2,
@@ -80,6 +88,7 @@ const inventory_caribbean = [
         "COVER": "DEATH VALLEY RALLY - COYOTE - CORRECAMINOS",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
+        "POSTER THEME": "CONTRA / SUPER MARIO KART",
         "OBSERVATION": "-"
     },
     {
@@ -89,7 +98,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 10,
         "COVER": "STARFOX",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "TMNT TURTLES IN TIME"
     },
     {
         "YEAR EDIT": 2,
@@ -98,7 +108,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 11,
         "COVER": "BATMAN",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "ADVENTURE ISLAND 3"
     },
     {
         "YEAR EDIT": 2,
@@ -107,7 +118,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 12,
         "COVER": "TINY TOONS",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "BATMAN RETURNS / CONTRA III"
     },
     {
         "YEAR EDIT": 2,
@@ -116,7 +128,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 13,
         "COVER": "PRINCE OF PERSIA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -125,7 +138,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 14,
         "COVER": "MORTAL KOMBAT",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "CYBERNATOR"
     },
     {
         "YEAR EDIT": 2,
@@ -136,6 +150,7 @@ const inventory_caribbean = [
         "COVER": "STREET FIGHTER II TURBO",
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 25-32",
+        "POSTER THEME": "CALENDARIO 1994 / STARFOX",
         "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA"
     },
     {
@@ -145,7 +160,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 16,
         "COVER": "BATTLETOADS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "RUN SABER"
     },
     {
         "YEAR EDIT": 3,
@@ -154,7 +170,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 17,
         "COVER": "FINAL FIGHT 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -163,7 +180,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 18,
         "COVER": "MEGAMAN X",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -172,7 +190,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 19,
         "COVER": "METROID",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "MEGAMAN X"
     },
     {
         "YEAR EDIT": 3,
@@ -183,6 +202,7 @@ const inventory_caribbean = [
         "COVER": "NBA JAM",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -194,6 +214,7 @@ const inventory_caribbean = [
         "COVER": "JURASSIC PARK",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -203,7 +224,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 22,
         "COVER": "MEGA MAN SOCCER",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -212,7 +234,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 23,
         "COVER": "STUNT RACE FX",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "STREET FIGHTER II TURBO / KING OF FIGHTERS"
     },
     {
         "YEAR EDIT": 3,
@@ -221,7 +244,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 24,
         "COVER": "SUPER METROID",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "SPEEDY GONZALES LOS GATOS BANDIDOS / SUPER METROID"
     },
     {
         "YEAR EDIT": 3,
@@ -230,7 +254,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 25,
         "COVER": "ALIEN VS. PREDATOR - STUNT RACE FX - ITCHY & SCRATCHY",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "ALIEN VS. PREDATOR - STUNT RACE FX - ITCHY & SCRATCHY"
     },
     {
         "YEAR EDIT": 3,
@@ -239,7 +264,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 26,
         "COVER": "SUPER BOMBERMAN 2 - SUPER ADVENTURE ISLAND 2 - DONKEY KONG COUNTRY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "SUPER BOMBERMAN 2 - SUPER ADVENTURE ISLAND 2 - DONKEY KONG COUNTRY / LETHAL ENFORCERS"
     },
     {
         "YEAR EDIT": 3,
@@ -248,7 +274,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 27,
         "COVER": "DONKEY KONG COUNTRY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "DONKEY KONG COUNTRY / DARKSTALKERS"
     },
     {
         "YEAR EDIT": 4,
@@ -257,7 +284,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 28,
         "COVER": "MORTAL KOMBAT II",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "CALENDARIO 1995"
     },
     {
         "YEAR EDIT": 4,
@@ -266,7 +294,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 29,
         "COVER": "DONKEY KONG COUNTRY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "MORTAL KOMBAT II / MAXIMUM CARNAGE"
     },
     {
         "YEAR EDIT": 4,
@@ -275,7 +304,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 30,
         "COVER": "KILLER INSTINCT",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "AERO THE ACRO-BAT 2 / X-MEN MUTAN APOCALYPSE"
     },
     {
         "YEAR EDIT": 4,
@@ -284,7 +314,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 31,
         "COVER": "FATAL FURY - CRESTA AMARILLA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "FATAL FURY"
     },
     {
         "YEAR EDIT": 4,
@@ -293,7 +324,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 32,
         "COVER": "SPIDER MAN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "FX FIGHTER / SPIDER-MAN"
     },
     {
         "YEAR EDIT": 4,
@@ -302,7 +334,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 33,
         "COVER": "MEGAMAN X2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -311,7 +344,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 34,
         "COVER": "CLAYFIGHTER 2",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -320,7 +354,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 35,
         "COVER": "KILLER INSTINCT",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -331,6 +366,7 @@ const inventory_caribbean = [
         "COVER": "POWER RANGERS",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -340,7 +376,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 37,
         "COVER": "VIRTUAL BOY",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -349,7 +386,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 38,
         "COVER": "YOSHI'S ISLAND - BEBÉ MARIO",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -358,7 +396,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 39,
         "COVER": "MORTAL KOMBAT 3",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -367,7 +406,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 40,
         "COVER": "DIDDY KONG'S QUEST - DONKEY KONG COUNTRY 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -376,7 +416,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 41,
         "COVER": "MARIO - NINTENDO 64 - ULTRA 64",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -385,7 +426,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 42,
         "COVER": "SUPER MARIO RPG",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -396,6 +438,7 @@ const inventory_caribbean = [
         "COVER": "DRAGON BALL",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -407,6 +450,7 @@ const inventory_caribbean = [
         "COVER": "KILLER INSTINCT 2",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -416,7 +460,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 45,
         "COVER": "TOY STORY",
-        "OWNED": "YES"
+        "OWNED": "YES",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -425,7 +470,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 46,
         "COVER": "STREET FIGHTER ZERO 2",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -434,7 +480,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 47,
         "COVER": "SUPER MARIO 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -443,7 +490,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 48,
         "COVER": "KEN GRIIFEY JR'S WINNING RUN",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -452,7 +500,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 49,
         "COVER": "NINTENDO 64 - PILOTWINGS 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -462,7 +511,8 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 50,
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
         "OWNED": "NO",
-        "POSTER": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -473,6 +523,7 @@ const inventory_caribbean = [
         "COVER": "MORTAL KOMBAT TRILOGY",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -482,7 +533,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 52,
         "COVER": "KILLER INSTINCT GOLD",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -491,7 +543,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 53,
         "COVER": "MARIO KART 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -501,7 +554,8 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 54,
         "COVER": "TUROK",
         "OWNED": "NO",
-        "POSTER": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -512,6 +566,7 @@ const inventory_caribbean = [
         "COVER": "THE KING OF FIGHTERS 95",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
+        "POSTER THEME": "PILOTWINGS 64 / ULTIMATE MK3 - MK TRILOGY",
         "OBSERVATION": "-"
     },
     {
@@ -521,7 +576,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 56,
         "COVER": "MARIO - LUIGI - PEACH - BOWSER",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -532,6 +588,7 @@ const inventory_caribbean = [
         "COVER": "BLAST CORPS",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
+        "POSTER THEME": "STREET FIGHTER ALPHA 2 / KIRBY STAR STACKER",
         "OBSERVATION": "-"
     },
     {
@@ -543,6 +600,7 @@ const inventory_caribbean = [
         "COVER": "STARFOX 64",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "PÁGINA CENTRAL SUELTA"
     },
     {
@@ -554,6 +612,7 @@ const inventory_caribbean = [
         "COVER": "CLAYFIGHTER 63 1/3",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -565,6 +624,7 @@ const inventory_caribbean = [
         "COVER": "BANJO - KAZOOIE",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -576,6 +636,7 @@ const inventory_caribbean = [
         "COVER": "GOLDENEYE 007",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA"
     },
     {
@@ -587,6 +648,7 @@ const inventory_caribbean = [
         "COVER": "SAN FRANCISCO RUSH EXTREME RACING",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -598,6 +660,7 @@ const inventory_caribbean = [
         "COVER": "DIDDY KONG RACING",
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 29-36",
+        "POSTER THEME": "GOLDENEYE 007 / MARIO KART 64",
         "OBSERVATION": "CONTRAPORTADA PRESENTA TROZO TRIANGULAR CORTADO"
     },
     {
@@ -607,7 +670,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 64,
         "COVER": "BOMBERMAN 64",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -616,7 +680,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 65,
         "COVER": "ZELDA OCARINE",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -627,6 +692,7 @@ const inventory_caribbean = [
         "COVER": "YOSHI'S STORY",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -638,6 +704,7 @@ const inventory_caribbean = [
         "COVER": "NINJA GOEMON",
         "OWNED": "YES-POOR",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "MISSING PAGES: 40-41"
     },
     {
@@ -647,7 +714,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 68,
         "COVER": "1080 SNOWBOARDING",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -658,6 +726,7 @@ const inventory_caribbean = [
         "COVER": "WORLD CUP 98",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -667,7 +736,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 70,
         "COVER": "BANJO - KAZOOIE",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -676,7 +746,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 71,
         "COVER": "MORTAL KOMBAT 4",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -687,6 +758,7 @@ const inventory_caribbean = [
         "COVER": "F-1 WORLD GRAND PRIX",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -696,7 +768,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 73,
         "COVER": "POKEMON STAR PIKACHU - CRUIS'N WORLD",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -705,7 +778,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 74,
         "COVER": "POKEMON - ASH - PIKACHU",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 7,
@@ -716,6 +790,7 @@ const inventory_caribbean = [
         "COVER": "ZELDA OCARINA",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
+        "POSTER THEME": "THE LEGEND OF ZELDA: OCARINA OF TIME",
         "OBSERVATION": "-"
     },
     {
@@ -727,6 +802,7 @@ const inventory_caribbean = [
         "COVER": "TUROK 2",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
+        "POSTER THEME": "YOSHI'S STORY",
         "OBSERVATION": "-"
     },
     {
@@ -736,7 +812,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 77,
         "COVER": "CASTLEVANIA",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "DEADLY ARTS / POKEMON"
     },
     {
         "YEAR EDIT": 8,
@@ -747,6 +824,7 @@ const inventory_caribbean = [
         "COVER": "MARIO PARTY",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -758,6 +836,7 @@ const inventory_caribbean = [
         "COVER": "NBA IN THE ZONE 99",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -767,7 +846,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 80,
         "COVER": "SUPER SMASH BROTHERS",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "-"
     },
     {
         "YEAR EDIT": 8,
@@ -778,6 +858,7 @@ const inventory_caribbean = [
         "COVER": "RAYMAN 2",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     },
     {
@@ -789,6 +870,7 @@ const inventory_caribbean = [
         "COVER": "STAR WARS RACER",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
+        "POSTER THEME": "STAR WARS RACER",
         "OBSERVATION": "-"
     },
     {
@@ -800,6 +882,7 @@ const inventory_caribbean = [
         "COVER": "SHADOW MAN",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
+        "POSTER THEME": "SHADOW MAN",
         "OBSERVATION": "-"
     },
     {
@@ -809,7 +892,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 84,
         "COVER": "POKEMON SNAP",
-        "OWNED": "NO"
+        "OWNED": "NO",
+        "POSTER THEME": "POKEMON SNAP"
     },
     {
         "YEAR EDIT": 8,
@@ -820,6 +904,7 @@ const inventory_caribbean = [
         "COVER": "JETFORCE GEMINI",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-"
     }
 ];
