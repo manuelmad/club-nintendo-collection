@@ -21,7 +21,7 @@ function missingMagazines(inventory, img_ext, inventory2) {
                 p.innerHTML = `${magazine.MONTH} - ${magazine['YEAR DATE']}`;
             }
             
-
+            const p6 = document.createElement('p');
             // Not necessary
             const p2 = document.createElement('p');
             if(magazine.OWNED == 'YES') {
@@ -35,6 +35,7 @@ function missingMagazines(inventory, img_ext, inventory2) {
                 } else {
                     p2.innerHTML = 'Pending';
                 }
+                p6.innerHTML = `<b>Poster</b>: Pending`;
             }
             
             p2.style.fontWeight = 'bold';
@@ -58,6 +59,7 @@ function missingMagazines(inventory, img_ext, inventory2) {
             div.appendChild(p3);
             div.appendChild(p4);
             div.appendChild(p);
+            div.appendChild(p6);
             div.appendChild(p2);
             covers_container.appendChild(div);
         }

@@ -91,7 +91,7 @@ function createEditionsList(inventory, inventory2) {
                         } else {
                             p2.innerHTML = 'Pending';
                         }
-                        //p2.innerHTML = 'Pending';
+                        p6.innerHTML = `<b>Poster</b>: Pending`;
                     }
                     
                     p2.style.fontWeight = 'bold';

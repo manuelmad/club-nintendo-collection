@@ -1,4 +1,5 @@
 import inventory from './database.js';
+import inventory_caribbean from '../caribbean_collection/src/database_caribbean.js';
 
 import missingMagazines from '../functions/missingMagazines.js';
 import searchedMagazines from '../functions/searchedMagazines.js';
@@ -90,6 +91,7 @@ first_li.addEventListener('click', ()=> {
                 p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
             } else if(magazine.OWNED == 'NO') {
                 p2.innerHTML = 'Pending';
+                p6.innerHTML = `<b>Poster</b>: Pending`;
             }
 
             p2.style.fontWeight = 'bold';
@@ -191,6 +193,7 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                     p6.innerHTML = `<b>Poster</b>: ${magazine['POSTER']}`;
                 } else if(magazine.OWNED == 'NO') {
                     p2.innerHTML = 'Pending';
+                    p6.innerHTML = `<b>Poster</b>: Pending`;
                 }
                 //p2.innerHTML = `${magazine.OWNED == 'YES' ? 'Owned' : 'Pending'}`;
                 p2.style.fontWeight = 'bold';
@@ -247,7 +250,7 @@ const missing_magazines_btn = document.getElementById('missing_magazines_btn');
 missing_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
     let ext = 'jpg';
-    missingMagazines(inventory, ext);
+    missingMagazines(inventory, ext, inventory_caribbean);
 });
 
 // Function to show only poor condition magazines
