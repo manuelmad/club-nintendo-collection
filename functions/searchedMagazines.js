@@ -49,6 +49,23 @@ function searchedMagazines(inventory, img_ext) {
             const p5 = document.createElement('p');
             const p6 = document.createElement('p');
 
+            const poster_theme = magazine['POSTER THEME'];
+            const poster_theme_p = document.createElement('p');
+            poster_theme_p.style.display = 'none';
+            if(poster_theme !== '?') {
+                poster_theme_p.innerHTML = `<b>Poster theme</b>: ${poster_theme}.`;
+            } else {
+                poster_theme_p.innerHTML = `<b>Poster theme</b>: Unknown.`;
+            }
+
+            p6.addEventListener('click', ()=> {
+                if(poster_theme_p.style.display == 'none') {
+                    poster_theme_p.style.display = 'block';
+                } else if(poster_theme_p.style.display == 'block') {
+                    poster_theme_p.style.display = 'none';
+                }
+            });
+
             const p2 = document.createElement('p');
             if(magazine.OWNED == 'YES') {
                 p2.innerHTML = 'Owned';
@@ -92,6 +109,7 @@ function searchedMagazines(inventory, img_ext) {
             div.appendChild(p4);
             div.appendChild(p);
             div.appendChild(p6);
+            div.appendChild(poster_theme_p);
             div.appendChild(p2);
             if(p5.innerHTML !== '') {
                 div.appendChild(p5);
