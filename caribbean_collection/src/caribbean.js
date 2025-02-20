@@ -28,7 +28,7 @@ const missing_magazines_btn = document.getElementById('missing_magazines_btn');
 missing_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
     let ext = 'png';
-    missingMagazines(inventory_caribbean, ext);
+    missingMagazines(inventory_caribbean, ext, inventory_chilean);
 });
 
 // Function to show only poor condition magazines

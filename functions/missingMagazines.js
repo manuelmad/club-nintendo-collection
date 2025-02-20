@@ -1,4 +1,4 @@
-function missingMagazines(inventory, img_ext) {
+function missingMagazines(inventory, img_ext, inventory2) {
 
     covers_container.innerHTML = '';
 
@@ -29,7 +29,12 @@ function missingMagazines(inventory, img_ext) {
             } else if(magazine.OWNED == 'YES-POOR') {
                 p2.innerHTML = 'Owned (poor)';
             } else if(magazine.OWNED == 'NO') {
-                p2.innerHTML = 'Pending';
+                const test = inventory2.find(mag => mag["OVERALL NUMBER"] == magazine["OVERALL NUMBER"] && (mag.OWNED == 'YES' || mag.OWNED == 'YES-POOR'));
+                if(test && test["OVERALL NUMBER"]<85) {
+                    p2.innerHTML = 'Pending (see other)';
+                } else {
+                    p2.innerHTML = 'Pending';
+                }
             }
             
             p2.style.fontWeight = 'bold';
