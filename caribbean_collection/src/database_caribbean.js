@@ -36,7 +36,8 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 4,
         "COVER": "F-ZERO",
-        "OWNED": "NO",
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 23-26",
         "POSTER THEME": "DOUBLE DRAGON III"
     },
     {
@@ -46,8 +47,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 5,
         "COVER": "SUPER MARIO BROS. - BOWSER",
-        "OWNED": "NO",
-        "POSTER THEME": "Extra: Cubitips SUPER MARIO BROS. 3"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS"
     },
     {
         "YEAR EDIT": 2,
