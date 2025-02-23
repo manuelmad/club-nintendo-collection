@@ -218,7 +218,7 @@ ul li:active {
 }
 
 #covers_container div {
-    width: 13rem;
+    width: 14.5rem;
     min-height: 28rem;
     text-align: center;
     align-content: top;
@@ -229,13 +229,13 @@ ul li:active {
 }
 
 #covers_container div img {
-    width: 10rem;
-    height: 13.3rem;
+    width: 12.5rem;
+    height: 16.625rem;
     border-radius: 0.5rem;
 }
 
 #covers_container div p {
-    width: 10rem;
+    width: 100%;
     font-size: var(--sm);
     text-align: start;
 }
