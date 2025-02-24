@@ -69,8 +69,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 7,
         "COVER": "STREET FIGHTER II",
-        "OWNED": "YES",
-        "POSTER THEME": "STREET FIGHTER II / Extra: Cubitips SUPER MARIO WORLD"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 23-26",
+        "POSTER THEME": "STREET FIGHTER II / Extra: Cubitips SUPER MARIO WORLD",
+        "OBSERVATION": "FALTA CONTRAPORTADA"
     },
     {
         "YEAR EDIT": 2,
@@ -102,7 +104,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 10,
         "COVER": "STARFOX",
         "OWNED": "YES",
-        "POSTER THEME": "TMNT TURTLES IN TIME"
+        "POSTER": "MISSING: PAGES 31-34",
+        "POSTER THEME": "TMNT TURTLES IN TIME",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -112,7 +116,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 11,
         "COVER": "BATMAN",
         "OWNED": "YES",
-        "POSTER THEME": "ADVENTURE ISLAND 3"
+        "POSTER": "INCLUDED",
+        "POSTER THEME": "ADVENTURE ISLAND 3",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 2,
@@ -121,8 +127,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 12,
         "COVER": "TINY TOONS",
-        "OWNED": "YES",
-        "POSTER THEME": "BATMAN RETURNS / CONTRA III"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 27-30",
+        "POSTER THEME": "BATMAN RETURNS / CONTRA III",
+        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS"
     },
     {
         "YEAR EDIT": 2,
@@ -228,7 +236,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 22,
         "COVER": "MEGA MAN SOCCER",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -238,7 +248,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 23,
         "COVER": "STUNT RACE FX",
         "OWNED": "YES",
-        "POSTER THEME": "STREET FIGHTER II TURBO / KING OF FIGHTERS"
+        "POSTER": "MISSING: PAGES 27-30",
+        "POSTER THEME": "STREET FIGHTER II TURBO / KING OF DRAGONS",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -258,7 +270,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 25,
         "COVER": "ALIEN VS. PREDATOR - STUNT RACE FX - ITCHY & SCRATCHY",
         "OWNED": "YES",
-        "POSTER THEME": "ALIEN VS. PREDATOR - STUNT RACE FX - ITCHY & SCRATCHY"
+        "POSTER": "MISSING: PAGES 27-34",
+        "POSTER THEME": "ALIEN VS. PREDATOR - STUNT RACE FX - ITCHY & SCRATCHY",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 3,
@@ -308,7 +322,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 30,
         "COVER": "KILLER INSTINCT",
         "OWNED": "YES",
-        "POSTER THEME": "AERO THE ACRO-BAT 2 / X-MEN MUTAN APOCALYPSE"
+        "POSTER": "MISSING: PAGES 27-34",
+        "POSTER THEME": "AERO THE ACRO-BAT 2 / X-MEN MUTAN APOCALYPSE",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -348,7 +364,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 34,
         "COVER": "CLAYFIGHTER 2",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 4,
@@ -420,7 +438,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 41,
         "COVER": "MARIO - NINTENDO 64 - ULTRA 64",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 5,
@@ -429,8 +449,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 42,
         "COVER": "SUPER MARIO RPG",
-        "OWNED": "YES",
-        "POSTER THEME": "-"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "LOMO PEGADO CON CINTA"
     },
     {
         "YEAR EDIT": 5,
@@ -463,8 +485,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 45,
         "COVER": "TOY STORY",
-        "OWNED": "YES",
-        "POSTER THEME": "-"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "LOMO UN POCO DAÑADO"
     },
     {
         "YEAR EDIT": 5,
