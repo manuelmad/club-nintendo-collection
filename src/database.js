@@ -1057,7 +1057,7 @@ const inventory = [
         "OVERALL NUMBER": 100,
         "COVER": "POKEMON STADIUM",
         "OWNED": "NO",
-        "POSTER THEME": "700 PORTADAS / ARTE SOBRES"
+        "POSTER THEME": "100 PORTADAS / ARTE SOBRES"
     },
     {
         "YEAR EDIT": 9,
@@ -1138,8 +1138,10 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 107,
         "COVER": "POKEMON",
-        "OWNED": "YES",
-        "POSTER THEME": "-"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "PÁGINAS 37-38, 67-68 RECORTADAS"
     },
     {
         "YEAR EDIT": 9,
@@ -1196,7 +1198,9 @@ const inventory = [
         "OVERALL NUMBER": 112,
         "COVER": "POKEMON STADIUM 2",
         "OWNED": "YES",
-        "POSTER THEME": "PAPER MARIO / ARTE SOBRES"
+        "POSTER": "MISSING: PAGES 41-48",
+        "POSTER THEME": "PAPER MARIO / ARTE SOBRES",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1206,7 +1210,9 @@ const inventory = [
         "OVERALL NUMBER": 113,
         "COVER": "KIRBY",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 10,
@@ -1380,7 +1386,9 @@ const inventory = [
         "OVERALL NUMBER": 126,
         "COVER": "RESIDENT EVIL",
         "OWNED": "YES",
-        "POSTER THEME": "SONIC ADVENTURE 2 BATTLE / ARTE SOBRES"
+        "POSTER": "INCLUDED",
+        "POSTER THEME": "SONIC ADVENTURE 2 BATTLE / ARTE SOBRES",
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 11,
