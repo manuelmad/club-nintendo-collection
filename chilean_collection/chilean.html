@@ -11,14 +11,15 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../styles/index.css">
-    <link rel="stylesheet" href="../components/menu.css">
+    <link rel="stylesheet" href="../components/menu/menu.css">
+    <link rel="stylesheet" href="../components/ScrollButton/scrollButton.css">
     <link href="../styles/tablets.css" media="screen and (min-width: 700px)" type="text/css" rel="stylesheet" />
 </head>
 <body>
     <main>
         <h1>PHYSICAL CHILEAN EDITIONS CLUB NINTENDO MAGAZINE</h1>
         <section id="editions_menu">
-            <!-- This is the container of my component -->
+            <!-- This is the container of my menu component -->
         </section>
         <section>
             <div class="flag-container">
@@ -73,8 +74,12 @@
                 <p class="covers-comment">* From November 1999 (Year 8) Chilean edition has the same cover as <a href="../index.html">Mexican original edition</a> and they won't be listed here.</p>
             </article>
         </section>
+        <section id="scroll_btn_container">
+            <!-- This is the container of my scroll button component -->
+        </section>
     </main>
-    <script src="../components/menu.js"></script>
+    <script src="../components/menu/menu.js"></script>
+    <script src="../components/ScrollButton/ScrollButton.js"></script>
     <script type="module" src="./src/chilean.js"></script>
 </body>
 </html>

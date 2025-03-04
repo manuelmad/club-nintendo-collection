@@ -1,0 +1,16 @@
+#scroll_btn_container {
+    text-align: end;
+    padding: 0.5rem;
+    position: sticky;
+    bottom: 5rem;
+    margin-right: 2rem;
+}
+
+#scroll_btn_container button {
+    width: 4rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    background-color: var(--medium-blue);
+    color: var(--white);
+    font-weight: bold;
+}
