@@ -717,7 +717,7 @@ const inventory_chilean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 70,
         "COVER": "BANJO - KAZOOIE",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -727,7 +727,7 @@ const inventory_chilean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 71,
         "COVER": "MORTAL KOMBAT 4",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -747,7 +747,7 @@ const inventory_chilean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 73,
         "COVER": "POKEMON STAR PIKACHU - CRUIS'N WORLD",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -757,7 +757,7 @@ const inventory_chilean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 74,
         "COVER": "POKEMON - ASH - PIKACHU",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -787,7 +787,7 @@ const inventory_chilean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 77,
         "COVER": "CASTLEVANIA",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "DEADLY ARTS / POKEMON"
     },
     {
@@ -857,7 +857,7 @@ const inventory_chilean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 84,
         "COVER": "POKEMON SNAP",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "POKEMON SNAP"
     },
     {
