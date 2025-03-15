@@ -2703,7 +2703,7 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 231,
         "COVER": "CONDUIT 2",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -2799,7 +2799,7 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 240,
         "COVER": "MARIO & SONIC AT THE LONDON 2012 OLYMPIC GAMES",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -2921,7 +2921,7 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 251,
         "COVER": "KIRBY 20TH ANNIVERSARY - CELEBREMOS",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
