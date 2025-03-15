@@ -3025,7 +3025,7 @@ const inventory = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 261,
         "COVER": "SUPER SMASH BROS.",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -3055,7 +3055,7 @@ const inventory = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 264,
         "COVER": "SONIC LOST WORLD",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "SUPER SMASH BROS. / NEW SUPER LUIGI U"
     },
     {
@@ -3065,7 +3065,7 @@ const inventory = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 265,
         "COVER": "SUPER MARIO 3D WORLD",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "SUPER MARIO 3D WORLD / THE LEGEND OF ZELDA: A LINK BETWEEN WORLDS"
     },
     {
