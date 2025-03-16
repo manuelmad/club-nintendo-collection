@@ -3235,7 +3235,8 @@ const inventory = [
         "OVERALL NUMBER": 267,
         "COVER": "ZELDA - PAREJAS LEGENDARIAS",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
