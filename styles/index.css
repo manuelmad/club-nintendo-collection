@@ -234,6 +234,13 @@ ul li:active {
     border-radius: 0.5rem;
 }
 
+#covers_container div p img {
+    width: 2rem;
+    height: 1.5rem;
+    border-radius: 0;
+    margin-left: 0.5rem;
+}
+
 #covers_container div p {
     width: 100%;
     font-size: var(--sm);

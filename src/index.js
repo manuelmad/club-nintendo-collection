@@ -120,7 +120,24 @@ first_li.addEventListener('click', ()=> {
             }
 
             const p3 = document.createElement('p');
-            p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
+            if(magazine.OWNED == 'YES' || magazine.OWNED == 'YES-POOR') {
+                const flag_img = document.createElement('img');
+                if(magazine.COUNTRY == 'VENEZUELA') {
+                    flag_img.src= `../flags/ve.svg`;
+                } else if(magazine.COUNTRY == 'CHILE') {
+                    flag_img.src= `../flags/cl.svg`;
+                } else if(magazine.COUNTRY == 'COLOMBIA') {
+                    flag_img.src= `../flags/co.svg`;
+                } else if(magazine.COUNTRY == 'MEXICO') {
+                    flag_img.src= `../flags/mx.svg`;
+                } else if(magazine.COUNTRY == 'ARGENTINA') {
+                    flag_img.src= `../flags/ar.svg`;
+                }
+                p3.innerHTML = `# ${magazine['OVERALL NUMBER']} ${flag_img}`;
+            } else {
+                p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
+            }
+            //p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
             p3.style.fontWeight = 'bold';
 
             const p4 = document.createElement('p');
@@ -241,7 +258,25 @@ for(let i=1; i<=year_editions.length - 1; i++) {
                 }
 
                 const p3 = document.createElement('p');
-                p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
+                if(magazine.OWNED == 'YES' || magazine.OWNED == 'YES-POOR') {
+                    const flag_img = document.createElement('img');
+                    if(magazine.COUNTRY == 'VENEZUELA') {
+                        flag_img.src= `../flags/ve.svg`;
+                    } else if(magazine.COUNTRY == 'CHILE') {
+                        flag_img.src= `../flags/cl.svg`;
+                    } else if(magazine.COUNTRY == 'COLOMBIA') {
+                        flag_img.src= `../flags/co.svg`;
+                    } else if(magazine.COUNTRY == 'MEXICO') {
+                        flag_img.src= `../flags/mx.svg`;
+                    } else if(magazine.COUNTRY == 'ARGENTINA') {
+                        flag_img.src= `../flags/ar.svg`;
+                    }
+                    p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
+                    p3.appendChild(flag_img);
+                } else {
+                    p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
+                }
+                //p3.innerHTML = `# ${magazine['OVERALL NUMBER']}`;
                 p3.style.fontWeight = 'bold';
 
                 const p4 = document.createElement('p');
