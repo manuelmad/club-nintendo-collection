@@ -38,7 +38,8 @@ const inventory_caribbean = [
         "COVER": "F-ZERO",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 23-26",
-        "POSTER THEME": "DOUBLE DRAGON III"
+        "POSTER THEME": "DOUBLE DRAGON III",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 2,
@@ -50,7 +51,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS"
+        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 2,
@@ -72,7 +74,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 23-26",
         "POSTER THEME": "STREET FIGHTER II / Extra: Cubitips SUPER MARIO WORLD",
-        "OBSERVATION": "FALTA CONTRAPORTADA"
+        "OBSERVATION": "FALTA CONTRAPORTADA",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 2,
@@ -94,7 +97,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
         "POSTER THEME": "CONTRA / SUPER MARIO KART",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 2,
@@ -106,7 +110,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
         "POSTER THEME": "TMNT TURTLES IN TIME",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 2,
@@ -118,7 +123,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "ADVENTURE ISLAND 3",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 2,
@@ -130,7 +136,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 27-30",
         "POSTER THEME": "BATMAN RETURNS / CONTRA III",
-        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS"
+        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 2,
@@ -162,7 +169,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 25-32",
         "POSTER THEME": "CALENDARIO 1994 / STARFOX",
-        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA"
+        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 3,
@@ -214,7 +222,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 3,
@@ -226,7 +235,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
@@ -238,7 +248,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 3,
@@ -250,7 +261,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 27-30",
         "POSTER THEME": "STREET FIGHTER II TURBO / KING OF DRAGONS",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 3,
@@ -272,7 +284,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 27-34",
         "POSTER THEME": "ALIEN VS. PREDATOR - STUNT RACE FX - ITCHY & SCRATCHY",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 3,
@@ -324,7 +337,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 27-34",
         "POSTER THEME": "AERO THE ACRO-BAT 2 / X-MEN MUTAN APOCALYPSE",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 4,
@@ -366,7 +380,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 4,
@@ -388,7 +403,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 4,
@@ -440,7 +456,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 5,
@@ -452,7 +469,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO PEGADO CON CINTA"
+        "OBSERVATION": "LOMO PEGADO CON CINTA",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 5,
@@ -464,7 +482,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
@@ -476,7 +495,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
@@ -488,7 +508,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO UN POCO DAÑADO"
+        "OBSERVATION": "LOMO UN POCO DAÑADO",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 5,
@@ -551,7 +572,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -594,7 +616,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "PILOTWINGS 64 / ULTIMATE MK3 - MK TRILOGY",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -616,7 +639,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "STREET FIGHTER ALPHA 2 / KIRBY STAR STACKER",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -628,7 +652,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINA CENTRAL SUELTA"
+        "OBSERVATION": "PÁGINA CENTRAL SUELTA",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -640,7 +665,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -652,7 +678,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -664,7 +691,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA"
+        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -676,7 +704,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -688,7 +717,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "GOLDENEYE 007 / MARIO KART 64",
-        "OBSERVATION": "CONTRAPORTADA PRESENTA TROZO TRIANGULAR CORTADO"
+        "OBSERVATION": "CONTRAPORTADA PRESENTA TROZO TRIANGULAR CORTADO",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 7,
@@ -720,7 +750,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 7,
@@ -732,7 +763,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "MISSING PAGES: 40-41"
+        "OBSERVATION": "MISSING PAGES: 40-41",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 7,
@@ -754,7 +786,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 7,
@@ -786,7 +819,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 7,
@@ -818,7 +852,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
         "POSTER THEME": "THE LEGEND OF ZELDA: OCARINA OF TIME",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 8,
@@ -830,7 +865,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "YOSHI'S STORY",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 8,
@@ -852,7 +888,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 8,
@@ -864,7 +901,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 8,
@@ -886,7 +924,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 8,
@@ -898,7 +937,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
         "POSTER THEME": "STAR WARS RACER",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 8,
@@ -910,7 +950,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "SHADOW MAN",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 8,
@@ -932,7 +973,8 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     }
 ];
 

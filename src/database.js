@@ -769,7 +769,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "SAN FRANCISO RUSH / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "MEXICO"
     },
     {
         "YEAR EDIT": 7,
@@ -1001,7 +1002,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "INCLUDED",
         "POSTER THEME": "RE-VOLT",
-        "OBSERVATION": "DAÑO EN EL LOMO - ALGUNAS PÁGINAS SUELTAS - PÁG. 87 RECORTADA"
+        "OBSERVATION": "DAÑO EN EL LOMO - ALGUNAS PÁGINAS SUELTAS - PÁG. 87 RECORTADA",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 8,
@@ -1013,7 +1015,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁG. 7 RECORTADA"
+        "OBSERVATION": "PÁG. 7 RECORTADA",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 8,
@@ -1035,7 +1038,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "DONKEY KONG 64 / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1047,7 +1051,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1069,7 +1074,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINA 68 RECORTADA"
+        "OBSERVATION": "PÁGINA 68 RECORTADA",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1081,7 +1087,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "INCLUDED",
         "POSTER THEME": "POKEMON STADIUM (CALENDARIO MAYO-JUNIO) / ARTE SOBRES",
-        "OBSERVATION": "PÁGINAS RECORTADAS: 21, 40, 53-54, 55-56, 57-58, 59-60, 79-80, 81-82. MISSING PAGES: 62-69"
+        "OBSERVATION": "PÁGINAS RECORTADAS: 21, 40, 53-54, 55-56, 57-58, 59-60, 79-80, 81-82. MISSING PAGES: 62-69",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1093,7 +1100,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1105,7 +1113,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "PERFECT DARK / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1117,7 +1126,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1129,7 +1139,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "BATMAN BEYOND / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1141,7 +1152,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINAS 37-38, 67-68 RECORTADAS"
+        "OBSERVATION": "PÁGINAS 37-38, 67-68 RECORTADAS",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1153,7 +1165,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "THE LEGEND OF ZELDA: MAJORA'S MASK / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1164,7 +1177,8 @@ const inventory = [
         "COVER": "BANJO-TOOIE",
         "OWNED": "YES",
         "POSTER": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1176,7 +1190,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "TUROK 3 / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1188,7 +1203,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINAS RECORTADAS: 63-64"
+        "OBSERVATION": "PÁGINAS RECORTADAS: 63-64",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1200,7 +1216,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "PAPER MARIO / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1212,7 +1229,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1234,7 +1252,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "CONKER'S BAD FUR DAY / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1246,7 +1265,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1258,7 +1278,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "THE LEGEND OF ZELDA: ORACLE OF AGES-SEASONS / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1270,7 +1291,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1282,7 +1304,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "SUPER STREET FIGHTER II / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1294,7 +1317,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1306,7 +1330,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "GAMECUBE / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 10,
@@ -1318,7 +1343,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 11,
@@ -1330,7 +1356,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "ETERNAL DARKNESS / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1342,7 +1369,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1354,7 +1382,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "MEGAMAN BATTLER NETWORK 2 / ARTE SOBRES",
-        "OBSERVATION": "PÁGINAS RECORTADAS: 9-10, 95-96"
+        "OBSERVATION": "PÁGINAS RECORTADAS: 9-10, 95-96",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1366,7 +1395,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINA 94 MEDIO SUELTA"
+        "OBSERVATION": "PÁGINA 94 MEDIO SUELTA",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1388,7 +1418,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "SONIC ADVENTURE 2 BATTLE / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1400,7 +1431,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1412,7 +1444,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1424,7 +1457,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1436,7 +1470,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "MEGAMAN BATTLER NETWORK 2 / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1448,7 +1483,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "DAÑO EN EL LOMO - PORTADA UN POCO SUELTA"
+        "OBSERVATION": "DAÑO EN EL LOMO - PORTADA UN POCO SUELTA",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1460,7 +1496,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "MARIO PARY 4 / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
@@ -1472,7 +1509,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1484,7 +1522,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1496,7 +1535,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1508,7 +1548,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "KIRBY NIGHTMARE IN DREAM LAND / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1520,7 +1561,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1532,7 +1574,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "THE LEGEND OF ZELDA: THE WIND WAKER / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1544,7 +1587,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1556,7 +1600,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1568,7 +1613,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1580,7 +1626,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "SOUL CALIBUR II / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1592,7 +1639,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "VIEWTIFUL JOE / P.N.03",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1616,7 +1664,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "FINAL FANTASY TACTICS ADVANCE / MARIO KART DOUBLE DASH",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 12,
@@ -1628,7 +1677,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1640,7 +1690,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "FIRE EMBLEM / SOUL OF MANA",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1652,7 +1703,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1664,7 +1716,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "FINAL FANTASY CRYSTAL CHRONICLES / METAL GEAR SOLID THE TWIN SNAKES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1676,7 +1729,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1688,7 +1742,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "THE LORD OF THE RINGS: THE RETURN OF THE KING",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1700,7 +1755,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1712,7 +1768,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1724,7 +1781,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1736,7 +1794,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "KIRBY & THE AMAZING MIRROR / SRS",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1748,7 +1807,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1772,7 +1832,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 33-48",
         "POSTER THEME": "PRINCE OF PERSIA WARRIOR WITHIN",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 13,
@@ -1784,7 +1845,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1796,7 +1858,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 73-88",
         "POSTER THEME": "RESIDENT EVIL 4",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1808,7 +1871,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1820,7 +1884,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "SPLINTER CELL / THE LEGEND OF ZELDA: THE MINISH CAP",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1832,7 +1897,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1844,7 +1910,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "POKEMON EMERALD VERSION / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1856,7 +1923,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1868,7 +1936,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1880,7 +1949,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "GEIST / YOSHI TOPSY-TURVY",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1892,7 +1962,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "MEGAMAN BATTLER NETWORK 5 / ARTE SOBRES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1904,7 +1975,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1916,7 +1988,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "RAINBOW SIX / CASTLEVANIA: DAWN OF SORROW",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 14,
@@ -1928,7 +2001,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 73-88",
         "POSTER THEME": "MARIO STRIKERS",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -1940,7 +2014,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -1952,7 +2027,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "X-MEN LEGENDS II / PRINCE OF PERSIA THE TWO THRONES",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -1964,7 +2040,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "METROID PRIME HUNTERS / CHIBI-ROBO",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -1976,7 +2053,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2010,7 +2088,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "MARIO Y LUIGI",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2022,7 +2101,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2034,7 +2114,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2046,7 +2127,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "SUPER MONKEY BALL ADVENTURE / CASTLEVANIA PORTRAIT OF RUIN",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2058,7 +2140,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2070,7 +2153,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2082,7 +2166,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "THE LEGEND OF ZELDA TWILIGHT PRINCESS",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 15,
@@ -2094,7 +2179,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 57-64",
         "POSTER THEME": "REDSTEEL / MARVEL ULTIMATE ALLIANCE",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2106,7 +2192,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2118,7 +2205,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "DIDDY KONG RAACING DS / THE LEGEND OF ZELDA TWILIGHT PRINCESS",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2130,7 +2218,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2142,7 +2231,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "PRINCE OF PERSIA RIVAL SWORDS / LUNAR KNIGHTS",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2165,7 +2255,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "TMNT / SPIDER-MAN 3 THE GAME",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2177,7 +2268,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2189,7 +2281,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2201,7 +2294,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2213,7 +2307,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2225,7 +2320,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2237,7 +2333,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 16,
@@ -2249,7 +2346,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2261,7 +2359,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2273,7 +2372,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2285,7 +2385,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2297,7 +2398,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2320,7 +2422,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2332,7 +2435,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2344,7 +2448,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2356,7 +2461,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2368,7 +2474,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM COVER TO PAGE 20 WITH A LITTLE DETAIL IN THE LOWER LEFT CORNER"
+        "OBSERVATION": "FROM COVER TO PAGE 20 WITH A LITTLE DETAIL IN THE LOWER LEFT CORNER",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2380,7 +2487,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2392,7 +2500,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 17,
@@ -2404,7 +2513,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2416,7 +2526,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2428,7 +2539,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2440,7 +2552,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2452,7 +2565,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2464,7 +2578,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2476,7 +2591,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2488,7 +2604,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2500,7 +2617,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2512,7 +2630,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2524,7 +2643,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2536,7 +2656,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 18,
@@ -2548,7 +2669,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 19,
@@ -2560,7 +2682,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 19,
@@ -2572,7 +2695,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 19,
@@ -2614,7 +2738,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 19,
@@ -2626,7 +2751,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 19,
@@ -2638,7 +2764,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 19,
@@ -2650,7 +2777,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 19,
@@ -2682,7 +2810,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: CHILEAN VERSION",
         "POSTER THEME": "METROID OTHER M / DONKEY KONG COUNTRY RETURN",
-        "OBSERVATION": "DAÑO EN EL LOMO - FROM CHILE"
+        "OBSERVATION": "DAÑO EN EL LOMO - FROM CHILE",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2694,7 +2823,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE"
+        "OBSERVATION": "FROM CHILE",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2704,7 +2834,8 @@ const inventory = [
         "OVERALL NUMBER": 231,
         "COVER": "CONDUIT 2",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2726,7 +2857,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE"
+        "OBSERVATION": "FROM CHILE",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2768,7 +2900,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE"
+        "OBSERVATION": "FROM CHILE",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2790,7 +2923,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE"
+        "OBSERVATION": "FROM CHILE",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2800,7 +2934,8 @@ const inventory = [
         "OVERALL NUMBER": 240,
         "COVER": "MARIO & SONIC AT THE LONDON 2012 OLYMPIC GAMES",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -2822,7 +2957,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2834,7 +2970,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2856,7 +2993,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "MISSING: CHILEAN VERSION",
         "POSTER THEME": "MARIO KART 7 / POKEPARK 2",
-        "OBSERVATION": "FROM CHILE"
+        "OBSERVATION": "FROM CHILE",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2878,7 +3016,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PORTADA DAÑADA EN ESQUINA SUPERIOR DERECHA. CONTRAPORTADA CON TROZO FALTANTE"
+        "OBSERVATION": "PORTADA DAÑADA EN ESQUINA SUPERIOR DERECHA. CONTRAPORTADA CON TROZO FALTANTE",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2890,7 +3029,8 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "MISSING PAGES: 20-21"
+        "OBSERVATION": "MISSING PAGES: 20-21",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2902,7 +3042,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2922,7 +3063,8 @@ const inventory = [
         "OVERALL NUMBER": 251,
         "COVER": "KIRBY 20TH ANNIVERSARY - CELEBREMOS",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2934,7 +3076,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 21,
@@ -2966,7 +3109,8 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-"
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3026,7 +3170,8 @@ const inventory = [
         "OVERALL NUMBER": 261,
         "COVER": "SUPER SMASH BROS.",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3036,7 +3181,8 @@ const inventory = [
         "OVERALL NUMBER": 262,
         "COVER": "PIKMIN 3",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3046,7 +3192,8 @@ const inventory = [
         "OVERALL NUMBER": 263,
         "COVER": "ZELDA WINDWAKER HD",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3056,7 +3203,8 @@ const inventory = [
         "OVERALL NUMBER": 264,
         "COVER": "SONIC LOST WORLD",
         "OWNED": "YES",
-        "POSTER THEME": "SUPER SMASH BROS. / NEW SUPER LUIGI U"
+        "POSTER THEME": "SUPER SMASH BROS. / NEW SUPER LUIGI U",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3066,7 +3214,8 @@ const inventory = [
         "OVERALL NUMBER": 265,
         "COVER": "SUPER MARIO 3D WORLD",
         "OWNED": "YES",
-        "POSTER THEME": "SUPER MARIO 3D WORLD / THE LEGEND OF ZELDA: A LINK BETWEEN WORLDS"
+        "POSTER THEME": "SUPER MARIO 3D WORLD / THE LEGEND OF ZELDA: A LINK BETWEEN WORLDS",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3096,7 +3245,8 @@ const inventory = [
         "OVERALL NUMBER": 268,
         "COVER": "DONKEY KONG COUNTRY TROPICAL FREEZE",
         "OWNED": "YES",
-        "POSTER THEME": "DONKEY KONG COUNTRY TROPICAL FREEZE / MARIO PARTY ISLAND TOUR"
+        "POSTER THEME": "DONKEY KONG COUNTRY TROPICAL FREEZE / MARIO PARTY ISLAND TOUR",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3106,7 +3256,8 @@ const inventory = [
         "OVERALL NUMBER": 269,
         "COVER": "YOSHI'S NEW ISLAND - BEBÉ MARIO",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3116,7 +3267,8 @@ const inventory = [
         "OVERALL NUMBER": "SPECIAL",
         "COVER": "EL MUNDO DE SUPER MARIO - SPECIAL",
         "OWNED": "YES",
-        "POSTER THEME": "?"
+        "POSTER THEME": "?",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3126,7 +3278,8 @@ const inventory = [
         "OVERALL NUMBER": 270,
         "COVER": "MARIO KART 8",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3136,7 +3289,8 @@ const inventory = [
         "OVERALL NUMBER": 271,
         "COVER": "KIRBY TRIPLE DELUXE",
         "OWNED": "YES",
-        "POSTER THEME": "MARIO KART 8 / YOSHI'S NEW ISLAND"
+        "POSTER THEME": "MARIO KART 8 / YOSHI'S NEW ISLAND",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3146,7 +3300,8 @@ const inventory = [
         "OVERALL NUMBER": 272,
         "COVER": "SUPER SMASH BROS. FOR NINTENDO 3DS",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3156,7 +3311,8 @@ const inventory = [
         "OVERALL NUMBER": 273,
         "COVER": "DISNEY INFINITY 2.0 - SPIDER MAN",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3166,7 +3322,8 @@ const inventory = [
         "OVERALL NUMBER": 274,
         "COVER": "ZELDA - HYRULE WARRIORS",
         "OWNED": "YES",
-        "POSTER THEME": "MARIO GOLF WORLD TOUR"
+        "POSTER THEME": "MARIO GOLF WORLD TOUR",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3176,7 +3333,8 @@ const inventory = [
         "OVERALL NUMBER": 275,
         "COVER": "BAYONETTA 2",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3186,7 +3344,8 @@ const inventory = [
         "OVERALL NUMBER": 276,
         "COVER": "EL MUNDO DE BOWSER - SPECIAL",
         "OWNED": "YES",
-        "POSTER THEME": "MARIO PARTY 10 / MARIO & LUIGI BOWSER'S INSIDE STORY"
+        "POSTER THEME": "MARIO PARTY 10 / MARIO & LUIGI BOWSER'S INSIDE STORY",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3196,7 +3355,8 @@ const inventory = [
         "OVERALL NUMBER": 277,
         "COVER": "SUPER SMASH BROS. FOR WII U",
         "OWNED": "YES",
-        "POSTER THEME": "BAYONETTA 2 / SUPER SMASH BROS. FOR WII U"
+        "POSTER THEME": "BAYONETTA 2 / SUPER SMASH BROS. FOR WII U",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3206,7 +3366,8 @@ const inventory = [
         "OVERALL NUMBER": 278,
         "COVER": "LA JUNGLA DE DONKEY KONG - SPECIAL",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3216,7 +3377,8 @@ const inventory = [
         "OVERALL NUMBER": 279,
         "COVER": "ZELDA MAJORA'S MASK",
         "OWNED": "YES",
-        "POSTER THEME": "THE LEGEND OF ZELDA: MAJORA'S MASK 3D"
+        "POSTER THEME": "THE LEGEND OF ZELDA: MAJORA'S MASK 3D",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3226,7 +3388,8 @@ const inventory = [
         "OVERALL NUMBER": 280,
         "COVER": "MARIO PARTY 10",
         "OWNED": "YES",
-        "POSTER THEME": "MARIO PARTY 10"
+        "POSTER THEME": "MARIO PARTY 10",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3236,7 +3399,8 @@ const inventory = [
         "OVERALL NUMBER": 281,
         "COVER": "SUPER MARIO MAKER",
         "OWNED": "YES",
-        "POSTER THEME": "SUPER MARIO MAKER / SPLATOON"
+        "POSTER THEME": "SUPER MARIO MAKER / SPLATOON",
+        "COUNTRY": "CHILE"
     }
 ];
 

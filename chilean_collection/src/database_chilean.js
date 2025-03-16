@@ -238,7 +238,8 @@ const inventory_chilean = [
         "COVER": "SUPER METROID",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
-        "POSTER THEME": "SPEEDY GONZALES LOS GATOS BANDIDOS / SUPER METROID"
+        "POSTER THEME": "SPEEDY GONZALES LOS GATOS BANDIDOS / SUPER METROID",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 3,
@@ -260,7 +261,8 @@ const inventory_chilean = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "SUPER BOMBERMAN 2 - SUPER ADVENTURE ISLAND 2 - DONKEY KONG COUNTRY / LETHAL ENFORCERS",
-        "OBSERVATION": "FROM ARGENTINA - PÁGINA CENTRAL SUELTA"
+        "OBSERVATION": "PÁGINA CENTRAL SUELTA",
+        "COUNTRY": "ARGENTINA"
     },
     {
         "YEAR EDIT": 3,
@@ -272,7 +274,7 @@ const inventory_chilean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
         "POSTER THEME": "DONKEY KONG COUNTRY / DARKSTALKERS",
-        "OBSERVATION": "FROM ARGENTINA"
+        "COUNTRY": "ARGENTINA"
     },
     {
         "YEAR EDIT": 3,
@@ -284,7 +286,7 @@ const inventory_chilean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "CALENDARIO 1995",
-        "OBSERVATION": "FROM ARGENTINA"
+        "COUNTRY": "ARGENTINA"
     },
     {
         "YEAR EDIT": 4,
@@ -296,7 +298,7 @@ const inventory_chilean = [
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-37",
         "POSTER THEME": "MORTAL KOMBAT II / MAXIMUM CARNAGE",
-        "OBSERVATION": "FROM ARGENTINA"
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 4,
@@ -317,7 +319,8 @@ const inventory_chilean = [
         "COVER": "FATAL FURY - CRESTA AMARILLA",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 31-34",
-        "POSTER THEME": "FATAL FURY"
+        "POSTER THEME": "FATAL FURY",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 4,
@@ -328,7 +331,8 @@ const inventory_chilean = [
         "COVER": "SPIDER MAN",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 29-36",
-        "POSTER THEME": "FX FIGHTER / SPIDER-MAN"
+        "POSTER THEME": "FX FIGHTER / SPIDER-MAN",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 4,
@@ -359,7 +363,8 @@ const inventory_chilean = [
         "COVER": "KILLER INSTINCT",
         "OWNED": "YES",
         "POSTER": "-",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 4,
@@ -380,7 +385,8 @@ const inventory_chilean = [
         "COVER": "VIRTUAL BOY",
         "OWNED": "YES",
         "POSTER": "-",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 4,
@@ -392,7 +398,8 @@ const inventory_chilean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINA CENTRAL SUELTA"
+        "OBSERVATION": "PÁGINA CENTRAL SUELTA",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 4,
@@ -503,7 +510,8 @@ const inventory_chilean = [
         "COVER": "NINTENDO 64 - PILOTWINGS 64",
         "OWNED": "YES",
         "POSTER": "-",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 5,
@@ -514,7 +522,8 @@ const inventory_chilean = [
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
         "OWNED": "YES",
         "POSTER": "-",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 5,
@@ -555,7 +564,8 @@ const inventory_chilean = [
         "COVER": "TUROK",
         "OWNED": "YES",
         "POSTER": "-",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 6,
@@ -576,7 +586,8 @@ const inventory_chilean = [
         "COVER": "MARIO - LUIGI - PEACH - BOWSER",
         "OWNED": "YES",
         "POSTER": "-",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 6,
@@ -698,7 +709,8 @@ const inventory_chilean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINAS 1-2 FALTA PEDAZO"
+        "OBSERVATION": "PÁGINAS 1-2 FALTA PEDAZO",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 7,
@@ -718,7 +730,8 @@ const inventory_chilean = [
         "OVERALL NUMBER": 70,
         "COVER": "BANJO - KAZOOIE",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 7,
@@ -728,7 +741,8 @@ const inventory_chilean = [
         "OVERALL NUMBER": 71,
         "COVER": "MORTAL KOMBAT 4",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 7,
@@ -748,7 +762,8 @@ const inventory_chilean = [
         "OVERALL NUMBER": 73,
         "COVER": "POKEMON STAR PIKACHU - CRUIS'N WORLD",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 7,
@@ -758,7 +773,8 @@ const inventory_chilean = [
         "OVERALL NUMBER": 74,
         "COVER": "POKEMON - ASH - PIKACHU",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 7,
@@ -788,7 +804,8 @@ const inventory_chilean = [
         "OVERALL NUMBER": 77,
         "COVER": "CASTLEVANIA",
         "OWNED": "YES",
-        "POSTER THEME": "DEADLY ARTS / POKEMON"
+        "POSTER THEME": "DEADLY ARTS / POKEMON",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 8,
@@ -858,7 +875,8 @@ const inventory_chilean = [
         "OVERALL NUMBER": 84,
         "COVER": "POKEMON SNAP",
         "OWNED": "YES",
-        "POSTER THEME": "POKEMON SNAP"
+        "POSTER THEME": "POKEMON SNAP",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 8,
