@@ -84,8 +84,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 8,
         "COVER": "MARIO PAINT",
-        "OWNED": "NO",
-        "POSTER THEME": "FELIX THE CAT / AXELAY"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 31-33",
+        "POSTER THEME": "FELIX THE CAT / AXELAY",
+        "OBSERVATION": "PORTADA Y CONTRAPORTADA PEGADAS CON CINTA",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 2,
@@ -146,8 +149,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 13,
         "COVER": "PRINCE OF PERSIA",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "FALTA CONTRAPORTADA",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 2,
@@ -156,8 +162,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 14,
         "COVER": "MORTAL KOMBAT",
-        "OWNED": "NO",
-        "POSTER THEME": "CYBERNATOR"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 25-32",
+        "POSTER THEME": "CYBERNATOR",
+        "OBSERVATION": "LOMO UN POCO DAÑADO. CURIOSIDAD: DESDE LA PÁGINA 17 HASTA LA 24 SON DE NINTENDO POWER",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 2,
@@ -179,8 +188,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 16,
         "COVER": "BATTLETOADS",
-        "OWNED": "NO",
-        "POSTER THEME": "RUN SABER"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 25-32",
+        "POSTER THEME": "RUN SABER",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
