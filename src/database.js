@@ -1061,8 +1061,11 @@ const inventory = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 100,
         "COVER": "POKEMON STADIUM",
-        "OWNED": "NO",
-        "POSTER THEME": "100 PORTADAS / ARTE SOBRES"
+        "OWNED": "YES",
+        "POSTER": "INCLUDED",
+        "POSTER THEME": "100 PORTADAS / ARTE SOBRES",
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 9,
@@ -1071,10 +1074,10 @@ const inventory = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 101,
         "COVER": "POKEMON TRADING CARD GAME",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINA 68 RECORTADA",
+        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -1149,10 +1152,10 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 107,
         "COVER": "POKEMON",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINAS 37-38, 67-68 RECORTADAS",
+        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -1200,10 +1203,10 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 111,
         "COVER": "MEGA MAN 64",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINAS RECORTADAS: 63-64",
+        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -2471,10 +2474,10 @@ const inventory = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 202,
         "COVER": "E3 - WARIO",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM COVER TO PAGE 20 WITH A LITTLE DETAIL IN THE LOWER LEFT CORNER",
+        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
