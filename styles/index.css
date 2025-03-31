@@ -194,7 +194,7 @@ ul li:active {
     cursor: pointer;
 }
 
-#search_input {
+#search_input, #search_poster_input {
     width: 100%;
     height: 5rem;
     border-radius: 0.5rem;

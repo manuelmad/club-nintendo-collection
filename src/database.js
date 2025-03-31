@@ -1180,6 +1180,7 @@ const inventory = [
         "COVER": "BANJO-TOOIE",
         "OWNED": "YES",
         "POSTER": "-",
+        "POSTER THEME": "-",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
@@ -1384,7 +1385,7 @@ const inventory = [
         "COVER": "SUPER MARIO WORLD - YOSHI - SUPER MARIO ADVANCE 2",
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 41-48",
-        "POSTER THEME": "MEGAMAN BATTLER NETWORK 2 / ARTE SOBRES",
+        "POSTER THEME": "MEGAMAN BATTLE NETWORK 2 / ARTE SOBRES",
         "OBSERVATION": "PÁGINAS RECORTADAS: 9-10, 95-96",
         "COUNTRY": "VENEZUELA"
     },
@@ -1472,7 +1473,7 @@ const inventory = [
         "COVER": "STARFOX ADVENTURES",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
-        "POSTER THEME": "MEGAMAN BATTLER NETWORK 2 / ARTE SOBRES",
+        "POSTER THEME": "MEGAMAN BATTLE NETWORK 2 / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
@@ -1964,7 +1965,7 @@ const inventory = [
         "COVER": "MARIO SUPERSTAR BASEBALL",
         "OWNED": "YES",
         "POSTER": "INCLUDED",
-        "POSTER THEME": "MEGAMAN BATTLER NETWORK 5 / ARTE SOBRES",
+        "POSTER THEME": "MEGAMAN BATTLE NETWORK 5 / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },

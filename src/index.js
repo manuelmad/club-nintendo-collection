@@ -5,6 +5,7 @@ import missingMagazines from '../functions/missingMagazines.js';
 import searchedMagazines from '../functions/searchedMagazines.js';
 import poorConditionMagazines from '../functions/poorConditionMagazines.js';
 import posterNeededMagazines from '../functions/posterNeededMagazines.js';
+import searchByPoster from '../functions/searchByPoster.js';
 
 // Defining quantity of active years
 let year_editions = [];
@@ -315,7 +316,7 @@ search_input.addEventListener('input', (e)=> {
 
 // show the total count
 const total_count = document.getElementById('total_count');
-total_count.innerHTML =  `Total count: ${total_owned_magazines}/ ${total_magazines} magazines.`;
+total_count.innerHTML =  `Total count: ${total_owned_magazines} / ${total_magazines} magazines.`;
 
 // Function to show only missing magazines
 const missing_magazines_btn = document.getElementById('missing_magazines_btn');
@@ -339,4 +340,14 @@ poster_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
     let ext = 'jpg';
     posterNeededMagazines(inventory, ext);
+});
+
+// Accessing search input
+const search_poster_input = document.getElementById("search_poster_input");
+
+// Make a search everytime something is written in the search input
+search_poster_input.addEventListener('input', (e)=> {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    let ext = 'jpg';
+    searchByPoster(inventory, ext);
 });
