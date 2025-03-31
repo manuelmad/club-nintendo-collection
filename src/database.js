@@ -1334,7 +1334,7 @@ const inventory = [
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "GAMECUBE / ARTE SOBRES",
         "OBSERVATION": "-",
-        "COUNTRY": "CHILE"
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 10,
@@ -1347,7 +1347,7 @@ const inventory = [
         "POSTER": "-",
         "POSTER THEME": "-",
         "OBSERVATION": "-",
-        "COUNTRY": "CHILE"
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 11,
