@@ -62,7 +62,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 6,
         "COVER": "THE FLINSTONES - PICAPIEDRAS",
         "OWNED": "NO",
-        "POSTER THEME": "Extra: Cubitips BATMAN RETURN OF THE JOKER"
+        "POSTER THEME": "EXTRA: CUBITIPS BATMAN RETURN OF THE JOKER"
     },
     {
         "YEAR EDIT": 2,
@@ -73,7 +73,7 @@ const inventory_caribbean = [
         "COVER": "STREET FIGHTER II",
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 23-26",
-        "POSTER THEME": "STREET FIGHTER II / Extra: Cubitips SUPER MARIO WORLD",
+        "POSTER THEME": "STREET FIGHTER II / EXTRA: CUBITIPS SUPER MARIO WORLD",
         "OBSERVATION": "FALTA CONTRAPORTADA",
         "COUNTRY": "COLOMBIA"
     },
@@ -85,7 +85,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 8,
         "COVER": "MARIO PAINT",
         "OWNED": "YES-POOR",
-        "POSTER": "MISSING: PAGES 31-33",
+        "POSTER": "MISSING: PAGES 31-34",
         "POSTER THEME": "FELIX THE CAT / AXELAY",
         "OBSERVATION": "PORTADA Y CONTRAPORTADA PEGADAS CON CINTA",
         "COUNTRY": "VENEZUELA"

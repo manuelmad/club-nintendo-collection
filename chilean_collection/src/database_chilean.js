@@ -47,7 +47,7 @@ const inventory_chilean = [
         "OVERALL NUMBER": 5,
         "COVER": "TINY TOONS",
         "OWNED": "NO",
-        "POSTER THEME": "Extra: Cubitips SUPER MARIO BROS. 3"
+        "POSTER THEME": "EXTRA: CUBITIPS SUPER MARIO BROS. 3"
     },
     {
         "YEAR EDIT": 2,
@@ -57,7 +57,7 @@ const inventory_chilean = [
         "OVERALL NUMBER": 6,
         "COVER": "THE FLINSTONES - PICAPIEDRAS",
         "OWNED": "NO",
-        "POSTER THEME": "Extra: Cubitips BATMAN RETURN OF THE JOKER"
+        "POSTER THEME": "EXTRA: CUBITIPS BATMAN RETURN OF THE JOKER"
     },
     {
         "YEAR EDIT": 2,
@@ -67,7 +67,7 @@ const inventory_chilean = [
         "OVERALL NUMBER": 7,
         "COVER": "STREET FIGHTER II",
         "OWNED": "NO",
-        "POSTER THEME": "STREET FIGHTER II / Extra: Cubitips SUPER MARIO WORLD"
+        "POSTER THEME": "STREET FIGHTER II / EXTRA: CUBITIPS SUPER MARIO WORLD"
     },
     {
         "YEAR EDIT": 2,

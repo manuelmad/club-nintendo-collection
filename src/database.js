@@ -187,7 +187,7 @@ const inventory = [
         "OVERALL NUMBER": 18,
         "COVER": "BUBSY",
         "OWNED": "NO",
-        "POSTER THEME": "Kid Dracula / Batman Returns / Star Fox / Publicidad Juegos"
+        "POSTER THEME": "KID DRACULA / BATMAN RETURNS / STAR FOX / PUBLICIDAD JUEGOS"
     },
     {
         "YEAR EDIT": 2,
@@ -207,7 +207,7 @@ const inventory = [
         "OVERALL NUMBER": 20,
         "COVER": "STREET FIGHTER II TURBO",
         "OWNED": "NO",
-        "POSTER THEME": "Calendario Street Fighter II  (Julio - Agosto) / Arte en Sobres"
+        "POSTER THEME": "CALENDARIO STREET FIGHTER II  (JULIO - AGOSTO) / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 2,
@@ -227,7 +227,7 @@ const inventory = [
         "OVERALL NUMBER": 21,
         "COVER": "SUPER MARIO ALL STARS",
         "OWNED": "NO",
-        "POSTER THEME": "Raging Figther / Arte en Sobres"
+        "POSTER THEME": "RAGING FIGTHER / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 2,
@@ -237,7 +237,7 @@ const inventory = [
         "OVERALL NUMBER": 22,
         "COVER": "MORTAL KOMBAT",
         "OWNED": "NO",
-        "POSTER THEME": "Calendario Street Fighter II (Setiembre – Octubre) / Arte en sobres"
+        "POSTER THEME": "CALENDARIO STREET FIGHTER II (SETIEMBRE – OCTUBRE) / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 2,
@@ -247,7 +247,7 @@ const inventory = [
         "OVERALL NUMBER": 23,
         "COVER": "JURASSIC PARK",
         "OWNED": "NO",
-        "POSTER THEME": "Zombies Ate My Neighbors / Arte en Sobres"
+        "POSTER THEME": "ZOMBIES ATE MY NEIGHBORS / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 2,
@@ -257,7 +257,7 @@ const inventory = [
         "OVERALL NUMBER": 24,
         "COVER": "TEENAGE MUTANT NINJA TURTLES",
         "OWNED": "NO",
-        "POSTER THEME": "Calendario Street Fighter II (Noviembre – Diciembre)  / Arte en Sobres"
+        "POSTER THEME": "CALENDARIO STREET FIGHTER II (NOVIEMBRE – DICIEMBRE)  / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 2,
@@ -267,7 +267,7 @@ const inventory = [
         "OVERALL NUMBER": 25,
         "COVER": "JULIO CESAR CHAVEZ",
         "OWNED": "NO",
-        "POSTER THEME": "Volante del evento de presentación del videojuego de Chávez"
+        "POSTER THEME": "VOLANTE DEL EVENTO DE PRESENTACIÓN DEL VIDEOJUEGO DE CHÁVEZ"
     },
     {
         "YEAR EDIT": 3,
@@ -287,7 +287,7 @@ const inventory = [
         "OVERALL NUMBER": 27,
         "COVER": "SUPER METROID",
         "OWNED": "NO",
-        "POSTER THEME": "Megaman X / Arte en Sobres"
+        "POSTER THEME": "MEGAMAN X / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -297,7 +297,7 @@ const inventory = [
         "OVERALL NUMBER": 28,
         "COVER": "NBA JAM",
         "OWNED": "NO",
-        "POSTER THEME": "Lethal Enforces / Arte en Sobres"
+        "POSTER THEME": "LETHAL ENFORCES / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -307,7 +307,7 @@ const inventory = [
         "OVERALL NUMBER": 29,
         "COVER": "STREET FIGHTER II TURBO",
         "OWNED": "NO",
-        "POSTER THEME": "Lista de Juegos de SNES / Arte en sobres"
+        "POSTER THEME": "LISTA DE JUEGOS DE SNES / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -317,7 +317,7 @@ const inventory = [
         "OVERALL NUMBER": 30,
         "COVER": "DONKEY KONG",
         "OWNED": "NO",
-        "POSTER THEME": "King of Dragons / Arte en Sobres"
+        "POSTER THEME": "KING OF DRAGONS / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -327,7 +327,7 @@ const inventory = [
         "OVERALL NUMBER": 31,
         "COVER": "STUNT RACE FX",
         "OWNED": "NO",
-        "POSTER THEME": "SSF II Turbo / Arte sobre sobres"
+        "POSTER THEME": "SSF II TURBO / ARTE SOBRE SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -337,7 +337,7 @@ const inventory = [
         "OVERALL NUMBER": 32,
         "COVER": "SUPER STREET FIGHTER II",
         "OWNED": "NO",
-        "POSTER THEME": "Speedy Gonzales / Arte en sobres"
+        "POSTER THEME": "SPEEDY GONZALES / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -347,7 +347,7 @@ const inventory = [
         "OVERALL NUMBER": 33,
         "COVER": "BEAUTY AND THE BEAST",
         "OWNED": "NO",
-        "POSTER THEME": "Aero the Acro-bat / Arte en sobres"
+        "POSTER THEME": "AERO THE ACRO-BAT / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -357,7 +357,7 @@ const inventory = [
         "OVERALL NUMBER": 34,
         "COVER": "MORTAL KOMBAT II",
         "OWNED": "NO",
-        "POSTER THEME": "Darkstalkers / Arte en sobres"
+        "POSTER THEME": "DARKSTALKERS / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -377,7 +377,7 @@ const inventory = [
         "OVERALL NUMBER": 36,
         "COVER": "DONKEY KONG COUNTRY",
         "OWNED": "NO",
-        "POSTER THEME": "Sparkster / Arte en Sobres"
+        "POSTER THEME": "SPARKSTER / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 3,
@@ -387,7 +387,7 @@ const inventory = [
         "OVERALL NUMBER": 37,
         "COVER": "SAMURAI SHODOWN",
         "OWNED": "NO",
-        "POSTER THEME": "Maximum Carnage / Arte en Sobres"
+        "POSTER THEME": "MAXIMUM CARNAGE / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 4,
@@ -397,7 +397,7 @@ const inventory = [
         "OVERALL NUMBER": 38,
         "COVER": "MEGA MAN X",
         "OWNED": "NO",
-        "POSTER THEME": "Zero The Kamikaze Squirrel + Aero the Acro-bat / Arte en  Sobres"
+        "POSTER THEME": "ZERO THE KAMIKAZE SQUIRREL + AERO THE ACRO-BAT / ARTE EN  SOBRES"
     },
     {
         "YEAR EDIT": 4,
@@ -407,7 +407,7 @@ const inventory = [
         "OVERALL NUMBER": 39,
         "COVER": "KILLER INSTINCT",
         "OWNED": "NO",
-        "POSTER THEME": "X-Men Mutant Apocalypse / Arte en sobres"
+        "POSTER THEME": "X-MEN MUTANT APOCALYPSE / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 4,
@@ -417,7 +417,7 @@ const inventory = [
         "OVERALL NUMBER": 40,
         "COVER": "KIRBY",
         "OWNED": "NO",
-        "POSTER THEME": "FX Fighter / Arte Sobre Sobres"
+        "POSTER THEME": "FX FIGHTER / ARTE SOBRE SOBRES"
     },
     {
         "YEAR EDIT": 4,
@@ -617,7 +617,7 @@ const inventory = [
         "OVERALL NUMBER": 60,
         "COVER": "MORTAL KOMBAT TRILOGY",
         "OWNED": "NO",
-        "POSTER THEME": "Super Mario 64 / Arte en Sobres"
+        "POSTER THEME": "SUPER MARIO 64 / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 5,
@@ -627,7 +627,7 @@ const inventory = [
         "OVERALL NUMBER": 61,
         "COVER": "KILLER INSTINCT GOLD",
         "OWNED": "NO",
-        "POSTER THEME": "Street Fighter Alpha 2 / Arte en sobres"
+        "POSTER THEME": "STREET FIGHTER ALPHA 2 / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -637,7 +637,7 @@ const inventory = [
         "OVERALL NUMBER": 62,
         "COVER": "MARIO KART 64",
         "OWNED": "NO",
-        "POSTER THEME": "Mortal Kombat Trilogy / Arte en Sobres"
+        "POSTER THEME": "MORTAL KOMBAT TRILOGY / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -647,7 +647,7 @@ const inventory = [
         "OVERALL NUMBER": 63,
         "COVER": "TUROK",
         "OWNED": "NO",
-        "POSTER THEME": "Mario Kart 64 / Arte en sobres"
+        "POSTER THEME": "MARIO KART 64 / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -657,7 +657,7 @@ const inventory = [
         "OVERALL NUMBER": 64,
         "COVER": "THE KING OF FIGHTERS 95",
         "OWNED": "NO",
-        "POSTER THEME": "Pilotwings 64 / Arte en sobres"
+        "POSTER THEME": "PILOTWINGS 64 / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -687,7 +687,7 @@ const inventory = [
         "OVERALL NUMBER": 66,
         "COVER": "BLAST CORPS",
         "OWNED": "NO",
-        "POSTER THEME": "Kirby’s Star Stacker / Arte en sobres"
+        "POSTER THEME": "KIRBY’S STAR STACKER / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -727,7 +727,7 @@ const inventory = [
         "OVERALL NUMBER": 70,
         "COVER": "GOLDENEYE 007",
         "OWNED": "NO",
-        "POSTER THEME": "Mortal Kombat Mytholgies / Arte en sobres"
+        "POSTER THEME": "MORTAL KOMBAT MYTHOLGIES / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -737,7 +737,7 @@ const inventory = [
         "OVERALL NUMBER": 71,
         "COVER": "RUSH EXTREME RACING",
         "OWNED": "NO",
-        "POSTER THEME": "Goldeneye 007 / Arte en sobres"
+        "POSTER THEME": "GOLDENEYE 007 / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -790,7 +790,7 @@ const inventory = [
         "OVERALL NUMBER": 76,
         "COVER": "NINJA GOEMON",
         "OWNED": "NO",
-        "POSTER THEME": "Yoshi’s Story / Arte en sobres"
+        "POSTER THEME": "YOSHI’S STORY / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 7,
@@ -840,7 +840,7 @@ const inventory = [
         "OVERALL NUMBER": 80,
         "COVER": "F-ZERO X",
         "OWNED": "NO",
-        "POSTER THEME": "Banjo Kazooie / Arte en Sobres"
+        "POSTER THEME": "BANJO KAZOOIE / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 7,
@@ -860,7 +860,7 @@ const inventory = [
         "OVERALL NUMBER": 82,
         "COVER": "NFL QUARTERBACK CLUB 99",
         "OWNED": "NO",
-        "POSTER THEME": "Deadly Arts / Arte en sobres"
+        "POSTER THEME": "DEADLY ARTS / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 7,
@@ -880,7 +880,7 @@ const inventory = [
         "OVERALL NUMBER": 84,
         "COVER": "TUROK 2",
         "OWNED": "NO",
-        "POSTER THEME": "50 Pokémon / Arte en sobres"
+        "POSTER THEME": "50 POKÉMON / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 7,
@@ -890,7 +890,7 @@ const inventory = [
         "OVERALL NUMBER": 85,
         "COVER": "ZELDA",
         "OWNED": "NO",
-        "POSTER THEME": "Yoshi’s Story (x2) "
+        "POSTER THEME": "YOSHI’S STORY (X2) "
     },
     {
         "YEAR EDIT": 8,
@@ -900,7 +900,7 @@ const inventory = [
         "OVERALL NUMBER": 86,
         "COVER": "CASTLEVANIA",
         "OWNED": "NO",
-        "POSTER THEME": "Calendario TLOZ / Arte en sobres"
+        "POSTER THEME": "CALENDARIO TLOZ / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 8,
@@ -920,7 +920,7 @@ const inventory = [
         "OVERALL NUMBER": 88,
         "COVER": "NBA JAM 99",
         "OWNED": "NO",
-        "POSTER THEME": "Mario Party  / Arte en sobres"
+        "POSTER THEME": "MARIO PARTY  / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 8,
@@ -940,7 +940,7 @@ const inventory = [
         "OVERALL NUMBER": 90,
         "COVER": "RAYMAN 2",
         "OWNED": "NO",
-        "POSTER THEME": "Calendario Super Smash Bros. / Arte en sobres"
+        "POSTER THEME": "CALENDARIO SUPER SMASH BROS. / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 8,
@@ -960,7 +960,7 @@ const inventory = [
         "OVERALL NUMBER": 92,
         "COVER": "SHADOW MAN",
         "OWNED": "NO",
-        "POSTER THEME": "Superman / Arte en sobres"
+        "POSTER THEME": "SUPERMAN / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 8,
@@ -980,7 +980,7 @@ const inventory = [
         "OVERALL NUMBER": 94,
         "COVER": "HYBRID HEAVEN",
         "OWNED": "NO",
-        "POSTER THEME": "Harrier 2001 / Arte en sobres"
+        "POSTER THEME": "HARRIER 2001 / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 8,
