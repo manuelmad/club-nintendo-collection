@@ -342,7 +342,7 @@ poster_magazines_btn.addEventListener('click', (e) => {
     posterNeededMagazines(inventory, ext);
 });
 
-// Accessing search input
+// Accessing search by poster input
 const search_poster_input = document.getElementById("search_poster_input");
 
 // Make a search everytime something is written in the search input

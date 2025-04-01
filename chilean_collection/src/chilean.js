@@ -4,6 +4,7 @@ import searchedMagazines from "../../functions/searchedMagazines.js";
 import createEditionsList from "../../functions/createEditionsList.js";
 import poorConditionMagazines from "../../functions/poorConditionMagazines.js";
 import posterNeededMagazines from "../../functions/posterNeededMagazines.js";
+import searchByPoster from "../../functions/searchByPoster.js";
 
 import inventory_caribbean from "../../caribbean_collection/src/database_caribbean.js";
 
@@ -46,4 +47,14 @@ poster_magazines_btn.addEventListener('click', (e) => {
     e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
     let ext = 'png';
     posterNeededMagazines(inventory_chilean, ext);
+});
+
+// Accessing search by poster input
+const search_poster_input = document.getElementById("search_poster_input");
+
+// Make a search everytime something is written in the search input
+search_poster_input.addEventListener('input', (e)=> {
+    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
+    let ext = 'png';
+    searchByPoster(inventory_caribbean, ext);
 });
