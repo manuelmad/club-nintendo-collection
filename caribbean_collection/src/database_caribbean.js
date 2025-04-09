@@ -124,7 +124,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 11,
         "COVER": "BATMAN",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 27-30",
         "POSTER THEME": "ADVENTURE ISLAND 3",
         "OBSERVATION": "-",
         "COUNTRY": "COLOMBIA"
@@ -200,8 +200,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 17,
         "COVER": "FINAL FIGHT 2",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "PORTADA UN POCO SUELTA Y ESQUINA ROTA.",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
@@ -210,8 +213,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 18,
         "COVER": "MEGAMAN X",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
@@ -220,8 +225,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 19,
         "COVER": "METROID",
-        "OWNED": "NO",
-        "POSTER THEME": "MEGAMAN X"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 25-32",
+        "POSTER THEME": "MEGAMAN X",
+        "OBSERVATION": "PORTADA CASI SUELTA Y REPARADA CON CINTA.",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
@@ -959,7 +967,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 83,
         "COVER": "SHADOW MAN",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 31-34",
         "POSTER THEME": "SHADOW MAN",
         "OBSERVATION": "-",
         "COUNTRY": "COLOMBIA"

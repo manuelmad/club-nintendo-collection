@@ -1087,10 +1087,10 @@ const inventory = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 102,
         "COVER": "PERFECT DARK",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "INCLUDED",
         "POSTER THEME": "POKEMON STADIUM (CALENDARIO MAYO-JUNIO) / ARTE SOBRES",
-        "OBSERVATION": "PÁGINAS RECORTADAS: 21, 40, 53-54, 55-56, 57-58, 59-60, 79-80, 81-82. MISSING PAGES: 62-69",
+        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -1487,7 +1487,7 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "DAÑO EN EL LOMO - PORTADA UN POCO SUELTA",
+        "OBSERVATION": "CONTRAPORTADA UN POCO ROTA",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -1912,7 +1912,7 @@ const inventory = [
         "OVERALL NUMBER": 162,
         "COVER": "STAR WARS EPISODE III",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "POKEMON EMERALD VERSION / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2042,7 +2042,7 @@ const inventory = [
         "OVERALL NUMBER": 172,
         "COVER": "METROID PRIME HUNTERS",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "METROID PRIME HUNTERS / CHIBI-ROBO",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2090,7 +2090,7 @@ const inventory = [
         "OVERALL NUMBER": 174,
         "COVER": "NEW SUPER MARIO BROS.",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "MARIO Y LUIGI",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2181,7 +2181,7 @@ const inventory = [
         "OVERALL NUMBER": 181,
         "COVER": "XV AÑOS",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 57-64",
+        "POSTER": "INCLUDED: PAGES 57-64",
         "POSTER THEME": "REDSTEEL / MARVEL ULTIMATE ALLIANCE",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2207,8 +2207,8 @@ const inventory = [
         "OVERALL NUMBER": 183,
         "COVER": "DIDDY KONG RACING DS",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
-        "POSTER THEME": "DIDDY KONG RAACING DS / THE LEGEND OF ZELDA TWILIGHT PRINCESS",
+        "POSTER": "INCLUDED: PAGES 57-64",
+        "POSTER THEME": "DIDDY KONG RACING DS / THE LEGEND OF ZELDA TWILIGHT PRINCESS",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
@@ -2233,7 +2233,7 @@ const inventory = [
         "OVERALL NUMBER": 185,
         "COVER": "TMNT - TEENAGE MUTANT NINJA TURTLES",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 57-64",
         "POSTER THEME": "PRINCE OF PERSIA RIVAL SWORDS / LUNAR KNIGHTS",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2257,7 +2257,7 @@ const inventory = [
         "OVERALL NUMBER": 186,
         "COVER": "SPIDER MAN 3",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 57-64",
         "POSTER THEME": "TMNT / SPIDER-MAN 3 THE GAME",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
