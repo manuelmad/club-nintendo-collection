@@ -1420,7 +1420,7 @@ const inventory = [
         "OVERALL NUMBER": 126,
         "COVER": "RESIDENT EVIL",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "SONIC ADVENTURE 2 BATTLE / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1964,7 +1964,7 @@ const inventory = [
         "OVERALL NUMBER": 166,
         "COVER": "MARIO SUPERSTAR BASEBALL",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "MEGAMAN BATTLE NETWORK 5 / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2168,7 +2168,7 @@ const inventory = [
         "OVERALL NUMBER": 180,
         "COVER": "ZELDA",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 73-88",
         "POSTER THEME": "THE LEGEND OF ZELDA TWILIGHT PRINCESS",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2814,7 +2814,7 @@ const inventory = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: CHILEAN VERSION",
         "POSTER THEME": "METROID OTHER M / DONKEY KONG COUNTRY RETURN",
-        "OBSERVATION": "DAÑO EN EL LOMO - FROM CHILE",
+        "OBSERVATION": "DAÑO EN EL LOMO",
         "COUNTRY": "CHILE"
     },
     {
@@ -2827,7 +2827,6 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE",
         "COUNTRY": "CHILE"
     },
     {
@@ -2861,7 +2860,6 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE",
         "COUNTRY": "CHILE"
     },
     {
@@ -2904,7 +2902,6 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE",
         "COUNTRY": "CHILE"
     },
     {
@@ -2927,7 +2924,6 @@ const inventory = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "FROM CHILE",
         "COUNTRY": "CHILE"
     },
     {

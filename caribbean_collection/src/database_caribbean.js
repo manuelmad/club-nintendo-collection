@@ -203,7 +203,7 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PORTADA UN POCO SUELTA Y ESQUINA ROTA.",
+        "OBSERVATION": "PORTADA UN POCO SUELTA Y ESQUINA ROTA",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -228,7 +228,7 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 25-32",
         "POSTER THEME": "MEGAMAN X",
-        "OBSERVATION": "PORTADA CASI SUELTA Y REPARADA CON CINTA.",
+        "OBSERVATION": "PORTADA CASI SUELTA Y REPARADA CON CINTA",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -547,7 +547,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 8,
         "OVERALL NUMBER": 47,
         "COVER": "SUPER MARIO 64",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -557,7 +557,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 48,
         "COVER": "KEN GRIIFEY JR'S WINNING RUN",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -601,7 +601,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 52,
         "COVER": "KILLER INSTINCT GOLD",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -746,7 +746,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 64,
         "COVER": "BOMBERMAN 64",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -756,7 +756,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 65,
         "COVER": "ZELDA OCARINE",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
@@ -930,7 +930,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 80,
         "COVER": "SUPER SMASH BROTHERS",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
