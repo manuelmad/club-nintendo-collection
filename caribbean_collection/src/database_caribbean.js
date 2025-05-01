@@ -452,8 +452,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 39,
         "COVER": "MORTAL KOMBAT 3",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
