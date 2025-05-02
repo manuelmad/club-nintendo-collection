@@ -455,7 +455,6 @@ const inventory_caribbean = [
         "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -710,11 +709,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 61,
         "COVER": "GOLDENEYE 007",
-        "OWNED": "YES-POOR",
+        "OWNED": "NO",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 6,
@@ -782,11 +780,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 67,
         "COVER": "NINJA GOEMON",
-        "OWNED": "YES-POOR",
+        "OWNED": "NO",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "MISSING PAGES: 40-41",
-        "COUNTRY": "VENEZUELA"
+        "OBSERVATION": "-"
     },
     {
         "YEAR EDIT": 7,

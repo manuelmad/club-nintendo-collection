@@ -636,8 +636,11 @@ const inventory_chilean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 61,
         "COVER": "GOLDENEYE 007",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 6,
@@ -696,8 +699,11 @@ const inventory_chilean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 67,
         "COVER": "NINJA GOEMON",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 7,
@@ -730,7 +736,9 @@ const inventory_chilean = [
         "OVERALL NUMBER": 70,
         "COVER": "BANJO - KAZOOIE",
         "OWNED": "YES",
+        "POSTER": "-",
         "POSTER THEME": "-",
+        "OBSERVATION": "-",
         "COUNTRY": "CHILE"
     },
     {
@@ -741,7 +749,9 @@ const inventory_chilean = [
         "OVERALL NUMBER": 71,
         "COVER": "MORTAL KOMBAT 4",
         "OWNED": "YES",
+        "POSTER": "-",
         "POSTER THEME": "-",
+        "OBSERVATION": "-",
         "COUNTRY": "CHILE"
     },
     {
@@ -762,7 +772,9 @@ const inventory_chilean = [
         "OVERALL NUMBER": 73,
         "COVER": "POKEMON STAR PIKACHU - CRUIS'N WORLD",
         "OWNED": "YES",
+        "POSTER": "-",
         "POSTER THEME": "-",
+        "OBSERVATION": "-",
         "COUNTRY": "CHILE"
     },
     {
@@ -773,7 +785,9 @@ const inventory_chilean = [
         "OVERALL NUMBER": 74,
         "COVER": "POKEMON - ASH - PIKACHU",
         "OWNED": "YES",
+        "POSTER": "-",
         "POSTER THEME": "-",
+        "OBSERVATION": "-",
         "COUNTRY": "CHILE"
     },
     {
@@ -804,6 +818,7 @@ const inventory_chilean = [
         "OVERALL NUMBER": 77,
         "COVER": "CASTLEVANIA",
         "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "DEADLY ARTS / POKEMON",
         "COUNTRY": "CHILE"
     },
@@ -875,7 +890,9 @@ const inventory_chilean = [
         "OVERALL NUMBER": 84,
         "COVER": "POKEMON SNAP",
         "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 29-36",
         "POSTER THEME": "POKEMON SNAP",
+        "OBSERVATION": "-",
         "COUNTRY": "CHILE"
     },
     {
@@ -905,8 +922,11 @@ const inventory_chilean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 87,
         "COVER": "STARCRAFT 64",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "INCLUDED: PAGES 41-48",
+        "POSTER THEME": "RE-VOLT",
+        "OBSERVATION": "-",
+        "COUNTRY": "CHILE"
     }
 ];
 

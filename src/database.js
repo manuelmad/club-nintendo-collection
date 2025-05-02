@@ -1,4 +1,4 @@
-const inventory = [
+const inventory =[
     {
         "YEAR EDIT": 1,
         "YEAR DATE": 1991,
@@ -2836,8 +2836,9 @@ const inventory = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 231,
         "COVER": "CONDUIT 2",
-        "OWNED": "YES",
+        "OWNED": "YES-POOR",
         "POSTER THEME": "-",
+        "OBSERVATION": "PEQUEÑO HUECO EN LA PORTADA. PÁG 83-84 UN POCO ROTA",
         "COUNTRY": "CHILE"
     },
     {
@@ -2934,7 +2935,9 @@ const inventory = [
         "OVERALL NUMBER": 240,
         "COVER": "MARIO & SONIC AT THE LONDON 2012 OLYMPIC GAMES",
         "OWNED": "YES",
+        "POSTER": "-",
         "POSTER THEME": "-",
+        "OBSERVATION": "-",
         "COUNTRY": "CHILE"
     },
     {
@@ -3062,8 +3065,9 @@ const inventory = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 251,
         "COVER": "KIRBY 20TH ANNIVERSARY - CELEBREMOS",
-        "OWNED": "YES",
+        "OWNED": "YES-POOR",
         "POSTER THEME": "-",
+        "OBSERVATION": "PORTADA Y PÁG 1-2 ARRUGADAS. PÁG 1-2 FALTA PEDAZO",
         "COUNTRY": "CHILE"
     },
     {
