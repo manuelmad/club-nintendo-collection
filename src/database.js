@@ -2837,6 +2837,7 @@ const inventory =[
         "OVERALL NUMBER": 231,
         "COVER": "CONDUIT 2",
         "OWNED": "YES-POOR",
+        "POSTER": "-",
         "POSTER THEME": "-",
         "OBSERVATION": "PEQUEÑO HUECO EN LA PORTADA. PÁG 83-84 UN POCO ROTA",
         "COUNTRY": "CHILE"
@@ -3066,6 +3067,7 @@ const inventory =[
         "OVERALL NUMBER": 251,
         "COVER": "KIRBY 20TH ANNIVERSARY - CELEBREMOS",
         "OWNED": "YES-POOR",
+        "POSTER": "-",
         "POSTER THEME": "-",
         "OBSERVATION": "PORTADA Y PÁG 1-2 ARRUGADAS. PÁG 1-2 FALTA PEDAZO",
         "COUNTRY": "CHILE"
