@@ -550,7 +550,10 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 47,
         "COVER": "SUPER MARIO 64",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 5,
@@ -559,8 +562,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 48,
         "COVER": "KEN GRIIFEY JR'S WINNING RUN",
-        "OWNED": "YES",
-        "POSTER THEME": "-"
+        "OWNED": "YES-POOR",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "LOMO UN POCO DAÑADO",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 5,
@@ -604,7 +610,10 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 52,
         "COVER": "KILLER INSTINCT GOLD",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 6,
@@ -748,7 +757,10 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 64,
         "COVER": "BOMBERMAN 64",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 7,
@@ -758,7 +770,10 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 65,
         "COVER": "ZELDA OCARINE",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 7,
@@ -931,7 +946,10 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 80,
         "COVER": "SUPER SMASH BROTHERS",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "COLOMBIA"
     },
     {
         "YEAR EDIT": 8,
