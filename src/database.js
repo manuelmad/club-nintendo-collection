@@ -1000,7 +1000,7 @@ const inventory =[
         "OVERALL NUMBER": 96,
         "COVER": "STARCRAFT 64",
         "OWNED": "YES-POOR",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "RE-VOLT",
         "OBSERVATION": "DAÑO EN EL LOMO - ALGUNAS PÁGINAS SUELTAS - PÁG. 87 RECORTADA",
         "COUNTRY": "VENEZUELA"
@@ -1062,7 +1062,7 @@ const inventory =[
         "OVERALL NUMBER": 100,
         "COVER": "POKEMON STADIUM",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "100 PORTADAS / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1088,7 +1088,7 @@ const inventory =[
         "OVERALL NUMBER": 102,
         "COVER": "PERFECT DARK",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "POKEMON STADIUM (CALENDARIO MAYO-JUNIO) / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1254,7 +1254,7 @@ const inventory =[
         "OVERALL NUMBER": 114,
         "COVER": "MARIO PARTY 3",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "CONKER'S BAD FUR DAY / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1472,7 +1472,7 @@ const inventory =[
         "OVERALL NUMBER": 130,
         "COVER": "STARFOX ADVENTURES",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "MEGAMAN BATTLE NETWORK 2 / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1576,7 +1576,7 @@ const inventory =[
         "OVERALL NUMBER": 138,
         "COVER": "WARIO WORLD",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "THE LEGEND OF ZELDA: THE WIND WAKER / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1628,7 +1628,7 @@ const inventory =[
         "OVERALL NUMBER": 142,
         "COVER": "VIEWTIFUL JOE",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "SOUL CALIBUR II / ARTE SOBRES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1641,7 +1641,7 @@ const inventory =[
         "OVERALL NUMBER": 143,
         "COVER": "STAR WARS",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "VIEWTIFUL JOE / P.N.03",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1666,7 +1666,7 @@ const inventory =[
         "OVERALL NUMBER": 144,
         "COVER": "MARIO KART DOUBLE DASH",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "FINAL FANTASY TACTICS ADVANCE / MARIO KART DOUBLE DASH",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1744,7 +1744,7 @@ const inventory =[
         "OVERALL NUMBER": 150,
         "COVER": "HARRY POTTER AZKABAN",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "THE LORD OF THE RINGS: THE RETURN OF THE KING",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -1796,7 +1796,7 @@ const inventory =[
         "OVERALL NUMBER": 154,
         "COVER": "SRS - STREET RACING SYNDICATE",
         "OWNED": "YES",
-        "POSTER": "INCLUDED",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "KIRBY & THE AMAZING MIRROR / SRS",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"

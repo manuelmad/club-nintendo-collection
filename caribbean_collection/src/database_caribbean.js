@@ -1,7 +1,7 @@
 const inventory_caribbean = [
     {
         "YEAR EDIT": 1,
-        "YEAR DATE": 1991,
+        "YEAR DATE": 1992,
         "MONTH": "OCTOBER",
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 1,
@@ -31,7 +31,7 @@ const inventory_caribbean = [
     },
     {
         "YEAR EDIT": 2,
-        "YEAR DATE": 1992,
+        "YEAR DATE": 1993,
         "MONTH": "JANUARY",
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 4,

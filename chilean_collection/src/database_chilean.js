@@ -1,7 +1,7 @@
 const inventory_chilean = [
     {
         "YEAR EDIT": 1,
-        "YEAR DATE": 1991,
+        "YEAR DATE": 1992,
         "MONTH": "SEPTEMBER",
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 1,
