@@ -3379,9 +3379,19 @@ const inventory =[
     {
         "YEAR EDIT": 24,
         "YEAR DATE": 2015,
-        "MONTH": "MARCH",
+        "MONTH": "FEBRUARY",
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 279,
+        "COVER": "EL MUNDO DE SUPER MARIO - SPECIAL",
+        "OWNED": "YES",
+        "POSTER THEME": "-"
+    },
+    {
+        "YEAR EDIT": 24,
+        "YEAR DATE": 2015,
+        "MONTH": "APRIL",
+        "YEAR NUMBER": 4,
+        "OVERALL NUMBER": 280,
         "COVER": "ZELDA MAJORA'S MASK",
         "OWNED": "YES",
         "POSTER THEME": "THE LEGEND OF ZELDA: MAJORA'S MASK 3D",
@@ -3391,8 +3401,18 @@ const inventory =[
         "YEAR EDIT": 24,
         "YEAR DATE": 2015,
         "MONTH": "MAY",
-        "YEAR NUMBER": 3,
-        "OVERALL NUMBER": 280,
+        "YEAR NUMBER": 5,
+        "OVERALL NUMBER": 281,
+        "COVER": "MARIO VS. DONKEY KONG TIPPING STARS",
+        "OWNED": "YES",
+        "POSTER THEME": "-"
+    },
+    {
+        "YEAR EDIT": 24,
+        "YEAR DATE": 2015,
+        "MONTH": "JUNE",
+        "YEAR NUMBER": 6,
+        "OVERALL NUMBER": 282,
         "COVER": "MARIO PARTY 10",
         "OWNED": "YES",
         "POSTER THEME": "MARIO PARTY 10",
@@ -3402,12 +3422,62 @@ const inventory =[
         "YEAR EDIT": 24,
         "YEAR DATE": 2015,
         "MONTH": "JULY",
-        "YEAR NUMBER": 4,
-        "OVERALL NUMBER": 281,
+        "YEAR NUMBER": 7,
+        "OVERALL NUMBER": 283,
+        "COVER": "SPLATOON",
+        "OWNED": "YES",
+        "POSTER THEME": "SPLATOON / CODE NAME: S.T.E.AM"
+    },
+    {
+        "YEAR EDIT": 24,
+        "YEAR DATE": 2015,
+        "MONTH": "AUGUST",
+        "YEAR NUMBER": 8,
+        "OVERALL NUMBER": 284,
         "COVER": "SUPER MARIO MAKER",
         "OWNED": "YES",
         "POSTER THEME": "SUPER MARIO MAKER / SPLATOON",
         "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 24,
+        "YEAR DATE": 2015,
+        "MONTH": "SEPTEMBER",
+        "YEAR NUMBER": 9,
+        "OVERALL NUMBER": 285,
+        "COVER": "YOSHI'S WOOLY WORLD",
+        "OWNED": "YES",
+        "POSTER THEME": "-"
+    },
+    {
+        "YEAR EDIT": 24,
+        "YEAR DATE": 2015,
+        "MONTH": "OCTOBER",
+        "YEAR NUMBER": 10,
+        "OVERALL NUMBER": 286,
+        "COVER": "ZELDA TRIFORCE HEROES",
+        "OWNED": "YES",
+        "POSTER THEME": "THE LEGEND OF ZLEDA TRIFORCE HEORES / ANIMAL CROSSING HAPPY HOME DESIGNER"
+    },
+    {
+        "YEAR EDIT": 24,
+        "YEAR DATE": 2015,
+        "MONTH": "NOVEMBER",
+        "YEAR NUMBER": 11,
+        "OVERALL NUMBER": 287,
+        "COVER": "MARIO TENNIS ULTRA SMASH",
+        "OWNED": "YES",
+        "POSTER THEME": "MARIO TENNIS ULTRA SMASH / FATAL FRAME MAIDEN OF BLACK WATER"
+    },
+    {
+        "YEAR EDIT": 24,
+        "YEAR DATE": 2015,
+        "MONTH": "DECEMBER",
+        "YEAR NUMBER": 12,
+        "OVERALL NUMBER": 288,
+        "COVER": "MARIO DORADO FONDO ROJO EDICIÓN ANIVERSARIO",
+        "OWNED": "YES",
+        "POSTER THEME": "AMIIBO / AMIIBO SUPER SMASH BROS. 3DS Y WII U"
     }
 ];
 
