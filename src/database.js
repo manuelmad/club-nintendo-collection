@@ -3384,7 +3384,8 @@ const inventory =[
         "OVERALL NUMBER": 279,
         "COVER": "EL MUNDO DE SUPER MARIO - SPECIAL",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3405,7 +3406,8 @@ const inventory =[
         "OVERALL NUMBER": 281,
         "COVER": "MARIO VS. DONKEY KONG TIPPING STARS",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3426,7 +3428,8 @@ const inventory =[
         "OVERALL NUMBER": 283,
         "COVER": "SPLATOON",
         "OWNED": "YES",
-        "POSTER THEME": "SPLATOON / CODE NAME: S.T.E.AM"
+        "POSTER THEME": "SPLATOON / CODE NAME: S.T.E.AM",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3447,7 +3450,8 @@ const inventory =[
         "OVERALL NUMBER": 285,
         "COVER": "YOSHI'S WOOLY WORLD",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3457,7 +3461,8 @@ const inventory =[
         "OVERALL NUMBER": 286,
         "COVER": "ZELDA TRIFORCE HEROES",
         "OWNED": "YES",
-        "POSTER THEME": "THE LEGEND OF ZLEDA TRIFORCE HEORES / ANIMAL CROSSING HAPPY HOME DESIGNER"
+        "POSTER THEME": "THE LEGEND OF ZLEDA TRIFORCE HEORES / ANIMAL CROSSING HAPPY HOME DESIGNER",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3467,7 +3472,8 @@ const inventory =[
         "OVERALL NUMBER": 287,
         "COVER": "MARIO TENNIS ULTRA SMASH",
         "OWNED": "YES",
-        "POSTER THEME": "MARIO TENNIS ULTRA SMASH / FATAL FRAME MAIDEN OF BLACK WATER"
+        "POSTER THEME": "MARIO TENNIS ULTRA SMASH / FATAL FRAME MAIDEN OF BLACK WATER",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 24,
@@ -3477,7 +3483,8 @@ const inventory =[
         "OVERALL NUMBER": 288,
         "COVER": "MARIO DORADO FONDO ROJO EDICIÓN ANIVERSARIO",
         "OWNED": "YES",
-        "POSTER THEME": "AMIIBO / AMIIBO SUPER SMASH BROS. 3DS Y WII U"
+        "POSTER THEME": "AMIIBO / AMIIBO SUPER SMASH BROS. 3DS Y WII U",
+        "COUNTRY": "CHILE"
     }
 ];
 
