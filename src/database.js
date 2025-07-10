@@ -3485,6 +3485,138 @@ const inventory =[
         "OWNED": "YES",
         "POSTER THEME": "AMIIBO / AMIIBO SUPER SMASH BROS. 3DS Y WII U",
         "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "JANUARY",
+        "YEAR NUMBER": 1,
+        "OVERALL NUMBER": 289,
+        "COVER": "MARIO & LUIGI PAPER JAM",
+        "OWNED": "YES",
+        "POSTER THEME": "SUPER SMASH BROS / MIGHTY Nº 9",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "FEBRUARY",
+        "YEAR NUMBER": 2,
+        "OVERALL NUMBER": 290,
+        "COVER": "SUPER SMASH BROS. FOR NINTENDO 3DS / FOR WII U - BAYONETTA",
+        "OWNED": "YES",
+        "POSTER THEME": "SUPER SMASH BROS / MIGHTY Nº 9",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "MARCH",
+        "YEAR NUMBER": 3,
+        "OVERALL NUMBER": 291,
+        "COVER": "HYRULE WARRIORS LEGENDS",
+        "OWNED": "YES",
+        "POSTER THEME": "HYRULE WARRIORS LEGENDS / SUPER SMASH BROS. 3DS WIIU",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "APRIL",
+        "YEAR NUMBER": 4,
+        "OVERALL NUMBER": 292,
+        "COVER": "METROID PRIME FEDERATION FORCE",
+        "OWNED": "YES",
+        "POSTER THEME": "METORID FEDERATION FORCE / THE LEGEND PF ZELDA THE TWILIGHT PRINCESS HD",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "MAY",
+        "YEAR NUMBER": 5,
+        "OVERALL NUMBER": 293,
+        "COVER": "STAR FOX ZERO",
+        "OWNED": "YES",
+        "POSTER THEME": "STAR FOX ZERO / BRAVELY SECOND END LAYER",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "JUNE",
+        "YEAR NUMBER": 6,
+        "OVERALL NUMBER": 294,
+        "COVER": "KIRBY PLANET ROBOBOT",
+        "OWNED": "YES",
+        "POSTER THEME": "KIRBY PLANET ROBOBOT / STAR FOX ZERO",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "JULY",
+        "YEAR NUMBER": 7,
+        "OVERALL NUMBER": 295,
+        "COVER": "THE LEGEND OF ZELDA BREATH OF THE WILD",
+        "OWNED": "YES",
+        "POSTER THEME": "THE LEGEND OF ZELDA BREATH OF THE WILD / TOKYO MIRAGE SESSIONS #FE",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "AUGUST",
+        "YEAR NUMBER": 8,
+        "OVERALL NUMBER": 296,
+        "COVER": "METROID 30 AÑOS",
+        "OWNED": "YES",
+        "POSTER THEME": " METROID PRIME 2: ECHOES / METROID PRIME 3: CORRUPTION",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "SEPTEMBER",
+        "YEAR NUMBER": 9,
+        "OVERALL NUMBER": 297,
+        "COVER": "YO-KAI WATCH 2 BONY SPIRITS",
+        "OWNED": "NO",
+        "POSTER THEME": "YO-KAI WATCH 2 / MONSTER HUNTER GENERATIONS",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "OCTOBER",
+        "YEAR NUMBER": 10,
+        "OVERALL NUMBER": 298,
+        "COVER": "POKEMON GO",
+        "OWNED": "NO",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "NOVEMBER",
+        "YEAR NUMBER": 11,
+        "OVERALL NUMBER": 299,
+        "COVER": "NES CLASSIC EDITION",
+        "OWNED": "NO",
+        "POSTER THEME": "MARIO PARTY STAR RUSH / POKEMON SUN - MOON",
+        "COUNTRY": "CHILE"
+    },
+    {
+        "YEAR EDIT": 25,
+        "YEAR DATE": 2016,
+        "MONTH": "DECEMBER",
+        "YEAR NUMBER": 12,
+        "OVERALL NUMBER": 300,
+        "COVER": "SUPER MARIO MAKER FOR NINTENDO 3DS",
+        "OWNED": "NO",
+        "POSTER THEME": "SUPER MARIO MAKER 3DS / POKEMON SUN - MOON",
+        "COUNTRY": "CHILE"
     }
 ];
 

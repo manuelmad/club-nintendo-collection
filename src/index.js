@@ -10,14 +10,14 @@ import searchByPoster from '../functions/searchByPoster.js';
 // Defining quantity of active years
 let year_editions = [];
 
-for(let i = 1; i<=24; i++) {
+for(let i = 1; i<=25; i++) {
     year_editions.push(i);
 }
 
 // Defining years active
 let year_dates = [];
 
-for(let i = 1991; i<=2015; i++) {
+for(let i = 1991; i<=2016; i++) {
     year_dates.push(i);
 }
 
