@@ -136,11 +136,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 12,
         "COVER": "TINY TOONS",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "MISSING: PAGES 27-30",
         "POSTER THEME": "BATMAN RETURNS / CONTRA III",
-        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 2,
@@ -464,8 +464,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 40,
         "COVER": "DIDDY KONG'S QUEST - DONKEY KONG COUNTRY 2",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
@@ -487,11 +490,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 42,
         "COVER": "SUPER MARIO RPG",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO PEGADO CON CINTA",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
