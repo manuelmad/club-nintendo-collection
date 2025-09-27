@@ -51,7 +51,7 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS",
+        "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS. PÁGINAS RAYADAS: 17, 19, 46.",
         "COUNTRY": "VENEZUELA"
     },
     {

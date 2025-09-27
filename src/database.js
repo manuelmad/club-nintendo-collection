@@ -3033,7 +3033,7 @@ const inventory =[
         "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "MISSING PAGES: 20-21",
+        "OBSERVATION": "MISSING PAGES: 19-20",
         "COUNTRY": "CHILE"
     },
     {
