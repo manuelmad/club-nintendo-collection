@@ -85,7 +85,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 8,
         "COVER": "MARIO PAINT",
         "OWNED": "YES-POOR",
-        "POSTER": "MISSING: PAGES 31-34",
+        "POSTER": "MISSING: PAGES 32-35",
         "POSTER THEME": "FELIX THE CAT / AXELAY",
         "OBSERVATION": "PORTADA Y CONTRAPORTADA PEGADAS CON CINTA",
         "COUNTRY": "VENEZUELA"
