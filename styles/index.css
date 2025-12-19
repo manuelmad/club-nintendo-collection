@@ -157,41 +157,16 @@ ul li:active {
     font-size: var(--lg);
 }
 
-.btn-p {
-    text-align: center;
+select {
+    width: 100%;
+    height: 5rem;
+    padding: 0.5rem;
+    font-size: var(--md);
     margin-top: 1rem;
 }
 
-#missing_magazines_btn {
-    width: 100%;
-    height: 5rem;
-    border-radius: 0.5rem;
-    padding: 0.5rem;
-    font-size: var(--md);
-    background-color: var(--dark-red);
-    color: var(--white);
-    cursor: pointer;
-}
-
-#poor_magazines_btn {
-    width: 100%;
-    height: 5rem;
-    border-radius: 0.5rem;
-    padding: 0.5rem;
-    font-size: var(--md);
-    background-color: var(--dark-orange);
-    color: var(--white);
-    cursor: pointer;
-}
-
-#poster_magazines_btn {
-    width: 100%;
-    height: 5rem;
-    border-radius: 0.5rem;
-    padding: 0.5rem;
-    font-size: var(--md);
-    background-color: var(--light-blue);
-    cursor: pointer;
+.poster {
+    display: none;
 }
 
 #search_input, #search_poster_input {

@@ -304,6 +304,33 @@ for(let i=1; i<=year_editions.length - 1; i++) {
 
 years_container.appendChild(ul);
 
+
+// Accessing select value and adding event
+const filter_select = document.getElementById('filter_select');
+filter_select.addEventListener('change', ()=> {
+    if(filter_select.value === 'Portada') {
+        document.querySelector('.cover').style.display = 'block';
+        document.querySelector('.poster').style.display = 'none';
+    } else if(filter_select.value === 'Faltantes') {
+        document.querySelector('.cover').style.display = 'none';
+        document.querySelector('.poster').style.display = 'none';
+        let ext = 'jpg';
+        missingMagazines(inventory, ext, inventory_caribbean);
+    } else if(filter_select.value === 'Malas condiciones') {
+        document.querySelector('.cover').style.display = 'none';
+        document.querySelector('.poster').style.display = 'none';
+        let ext = 'jpg';
+        poorConditionMagazines(inventory, ext);
+    } else if(filter_select.value === 'Posters faltantes') {
+        document.querySelector('.cover').style.display = 'none';
+        document.querySelector('.poster').style.display = 'none';
+        let ext = 'jpg';
+        posterNeededMagazines(inventory, ext);
+    } else if(filter_select.value === 'Poster') {
+        document.querySelector('.cover').style.display = 'none';
+        document.querySelector('.poster').style.display = 'block';
+    }
+});
 // Accessing search input
 const search_input = document.getElementById("search_input");
 
@@ -317,30 +344,6 @@ search_input.addEventListener('input', (e)=> {
 // show the total count
 const total_count = document.getElementById('total_count');
 total_count.innerHTML =  `Total count: ${total_owned_magazines} / ${total_magazines} magazines.`;
-
-// Function to show only missing magazines
-const missing_magazines_btn = document.getElementById('missing_magazines_btn');
-missing_magazines_btn.addEventListener('click', (e) => {
-    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
-    let ext = 'jpg';
-    missingMagazines(inventory, ext, inventory_caribbean);
-});
-
-// Function to show only poor condition magazines
-const poor_magazines_btn = document.getElementById('poor_magazines_btn');
-poor_magazines_btn.addEventListener('click', (e) => {
-    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
-    let ext = 'jpg';
-    poorConditionMagazines(inventory, ext);
-});
-
-// Function to show only poster needed magazines
-const poster_magazines_btn = document.getElementById('poster_magazines_btn');
-poster_magazines_btn.addEventListener('click', (e) => {
-    e.preventDefault; // I had to add this line because the fucntion was called by default as soon as the page is loadad
-    let ext = 'jpg';
-    posterNeededMagazines(inventory, ext);
-});
 
 // Accessing search by poster input
 const search_poster_input = document.getElementById("search_poster_input");

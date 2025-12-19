@@ -38,30 +38,22 @@
             </article>
             <article class="filter-container">
                 <div>
-                    <p>Write a keyword to filter:</p>
+                    <p>Filter by:</p>
+                    <select name="" id="filter_select">
+                        <option value="Portada">Keyword Cover</option>
+                        <option value="Faltantes">Missing Mags</option>
+                        <option value="Malas condiciones">Poor Conditions Mags</option>
+                        <option value="Posters faltantes">Missing Posters</option>
+                        <option value="Poster">Keyword Poster</option>
+                    </select>
+                </div>
+                <div class="cover">
+                    <p>Write a cover keyword to filter:</p>
                     <p>
                         <input type="text" id="search_input" name="">
                     </p>
                 </div>
-                <div class="btn-container">
-                    <p>Click the button to see only the missing ones:</p>
-                    <p class="btn-p">
-                        <button id="missing_magazines_btn">Show missing magazines</button>
-                    </p>
-                </div>
-                <div class="btn-container">
-                    <p>Click this button to see only the poor condition ones:</p>
-                    <p class="btn-p">
-                        <button id="poor_magazines_btn">Show poor condition magazines</button>
-                    </p>
-                </div>
-                <div class="btn-container">
-                    <p>Click this button to see only the ones with poster needed:</p>
-                    <p class="btn-p">
-                        <button id="poster_magazines_btn">Show poster needed magazines</button>
-                    </p>
-                </div>
-                <div class="btn-container">
+                <div class="btn-container poster">
                     <p>Write a keyword related to the poster to filter:</p>
                     <p>
                         <input type="text" id="search_poster_input" name="">
