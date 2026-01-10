@@ -903,7 +903,8 @@ const inventory_chilean = [
         "OVERALL NUMBER": 85,
         "COVER": "HYBRID HEAVEN",
         "OWNED": "YES",
-        "POSTER THEME": "HYBRID HEAVEN"
+        "POSTER THEME": "HYBRID HEAVEN",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 8,
