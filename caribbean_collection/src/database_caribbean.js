@@ -446,6 +446,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 38,
         "COVER": "YOSHI'S ISLAND - BEBÉ MARIO",
         "OWNED": "YES",
+        "POSTER": "-",
         "POSTER THEME": "-",
         "COUNTRY": "VENEZUELA"
     },
