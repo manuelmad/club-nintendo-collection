@@ -313,8 +313,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 26,
         "COVER": "SUPER BOMBERMAN 2 - SUPER ADVENTURE ISLAND 2 - DONKEY KONG COUNTRY",
-        "OWNED": "NO",
-        "POSTER THEME": "SUPER BOMBERMAN 2 - SUPER ADVENTURE ISLAND 2 - DONKEY KONG COUNTRY / LETHAL ENFORCERS"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 27-34",
+        "POSTER THEME": "SUPER BOMBERMAN 2 - SUPER ADVENTURE ISLAND 2 - DONKEY KONG COUNTRY / LETHAL ENFORCERS",
+        "OBSERVATION": "LOMO Y BORDE SUPERIOR DE PORTADA UN POCO DAÑADOS",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
@@ -442,8 +445,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 38,
         "COVER": "YOSHI'S ISLAND - BEBÉ MARIO",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER THEME": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 4,
@@ -529,11 +533,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 45,
         "COVER": "TOY STORY",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO UN POCO DAÑADO",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
