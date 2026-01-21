@@ -542,7 +542,7 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 46,
         "COVER": "STREET FIGHTER ZERO 2",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "-"
     },
     {
