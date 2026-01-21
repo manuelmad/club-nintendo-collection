@@ -547,7 +547,9 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 46,
         "COVER": "STREET FIGHTER ZERO 2",
         "OWNED": "YES",
-        "POSTER THEME": "-"
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
