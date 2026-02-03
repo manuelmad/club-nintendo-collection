@@ -1383,10 +1383,10 @@ const inventory =[
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 124,
         "COVER": "SUPER MARIO WORLD - YOSHI - SUPER MARIO ADVANCE 2",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
         "POSTER THEME": "MEGAMAN BATTLE NETWORK 2 / ARTE SOBRES",
-        "OBSERVATION": "PÁGINAS RECORTADAS: 9-10, 95-96",
+        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
@@ -1484,10 +1484,10 @@ const inventory =[
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 131,
         "COVER": "MARIO PARTY 4",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "CONTRAPORTADA UN POCO ROTA",
+        "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },
     {
