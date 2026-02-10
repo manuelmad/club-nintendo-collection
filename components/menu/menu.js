@@ -36,7 +36,7 @@ if(window.location.pathname == '/' || window.location.pathname == '/index.html')
 
 const menu = `
     <div><a href="${link_to_caribbean}">Caribbean</a></div>
-    <div><a href="${link_to_mexican}">Mexican</a></div>
+    <div><a href="${link_to_mexican}">Overall</a></div>
     <div><a href="${link_to_chilean}">Chilean</a></div>
 `;
 
