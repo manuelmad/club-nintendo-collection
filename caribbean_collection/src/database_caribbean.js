@@ -336,8 +336,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 28,
         "COVER": "MORTAL KOMBAT II",
-        "OWNED": "NO",
-        "POSTER THEME": "CALENDARIO 1995"
+        "OWNED": "YES",
+        "POSTER": "MISSING: PAGES 27-34",
+        "POSTER THEME": "CALENDARIO 1995",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 4,
@@ -389,8 +391,9 @@ const inventory_caribbean = [
         "YEAR NUMBER": 6,
         "OVERALL NUMBER": 33,
         "COVER": "MEGAMAN X2",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER THEME": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 4,
@@ -486,7 +489,7 @@ const inventory_caribbean = [
         "POSTER": "-",
         "POSTER THEME": "-",
         "OBSERVATION": "-",
-        "COUNTRY": "COLOMBIA"
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
@@ -572,11 +575,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 48,
         "COVER": "KEN GRIIFEY JR'S WINNING RUN",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "LOMO UN POCO DAÑADO",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
@@ -585,8 +588,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 49,
         "COVER": "NINTENDO 64 - PILOTWINGS 64",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
@@ -595,9 +600,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 50,
         "COVER": "STAR WARS SHADOWS OF THE EMPIRE",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER": "-",
-        "POSTER THEME": "-"
+        "POSTER THEME": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 5,
@@ -689,11 +695,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 7,
         "OVERALL NUMBER": 58,
         "COVER": "STARFOX 64",
-        "OWNED": "YES-POOR",
+        "OWNED": "YES",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "PÁGINA CENTRAL SUELTA",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 6,
