@@ -3778,6 +3778,7 @@ const inventory =[
     COVER: "BAYONETTA 2",
     OWNED: "YES",
     "POSTER THEME": "BAYONETTA 2 - DRAGON QUEST BUILDERS",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 27,
