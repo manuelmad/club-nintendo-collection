@@ -2791,8 +2791,10 @@ const inventory =[
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 227,
         "COVER": "NBA JAM",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 19,
@@ -2801,8 +2803,10 @@ const inventory =[
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 228,
         "COVER": "PES 2011 - MESSI",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 19,
@@ -2849,8 +2853,10 @@ const inventory =[
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 232,
         "COVER": "KID ICARUS - NINTENDO 3DS",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 20,
@@ -3125,8 +3131,10 @@ const inventory =[
         "YEAR NUMBER": 3,
         "OVERALL NUMBER": 256,
         "COVER": "CASTLEVANIA",
-        "OWNED": "NO",
-        "POSTER THEME": "CASTLEVANIA: LORD OF SHADOW / LUIGI'S MANSION DARK MOON"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "CASTLEVANIA: LORD OF SHADOW / LUIGI'S MANSION DARK MOON",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3135,8 +3143,10 @@ const inventory =[
         "YEAR NUMBER": 4,
         "OVERALL NUMBER": 257,
         "COVER": "INJUSTICE",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3581,7 +3591,7 @@ const inventory =[
         "YEAR NUMBER": 9,
         "OVERALL NUMBER": 297,
         "COVER": "YO-KAI WATCH 2 BONY SPIRITS",
-        "OWNED": "NO",
+        "OWNED": "YES",
         "POSTER THEME": "YO-KAI WATCH 2 / MONSTER HUNTER GENERATIONS",
         "COUNTRY": "CHILE"
     },
@@ -3689,8 +3699,9 @@ const inventory =[
     "YEAR NUMBER": 7,
     "OVERALL NUMBER": 297,
     COVER: "SUPER MARIO ODYSSEY - E3 2017",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME": "SUPER MARIO ODYSSEY - ARMS",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 26,
@@ -3699,9 +3710,10 @@ const inventory =[
     "YEAR NUMBER": 8,
     "OVERALL NUMBER": 298,
     COVER: "MARIO + RABBIDS: KINGDOM BATTLE",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME":
       "MARIO + RABBIDS: KINGDOM BATTLE - THE LEGEND OF ZELDA BREATH OF THE WILD: THE MASTER TRIALS",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 26,
@@ -3731,9 +3743,10 @@ const inventory =[
     "YEAR NUMBER": 11,
     "OVERALL NUMBER": 301,
     COVER: "SUPER MARIO ODYSSEY",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME":
       "SUPER MARIO ODYSSEY (CALENDARIO NOV Y DIC) - MARIO PARTY THE TOP 100",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 26,
@@ -3763,7 +3776,7 @@ const inventory =[
     "YEAR NUMBER": 2,
     "OVERALL NUMBER": 304,
     COVER: "BAYONETTA 2",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME": "BAYONETTA 2 - DRAGON QUEST BUILDERS",
   },
   {
@@ -3783,8 +3796,9 @@ const inventory =[
     "YEAR NUMBER": 4,
     "OVERALL NUMBER": 306,
     COVER: "HYRULE WARRIORS: DEFINITIVE EDITION",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME": "HYRULE WARRIORS: DEFINITIVE EDITION",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 27,
@@ -3804,8 +3818,9 @@ const inventory =[
     "YEAR NUMBER": 6,
     "OVERALL NUMBER": 308,
     COVER: "MARIO TENNIS ACES",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME": "MARIO TENNIS ACES - CAPTAIN TOAD: TREASURE TRACKER",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 27,
@@ -3814,9 +3829,10 @@ const inventory =[
     "YEAR NUMBER": 7,
     "OVERALL NUMBER": 309,
     COVER: "SUPER SMASH BROS. ULTIMATE",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME":
       "SUPER SMASH BROS. ULTIMATE - CRASH BANDICOOT N. SANE TRILOGY",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 27,
@@ -3825,9 +3841,10 @@ const inventory =[
     "YEAR NUMBER": 8,
     "OVERALL NUMBER": 310,
     COVER: "STARLINK: BATTLE FOR ATLAS",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME":
       "SUPER SMASH BROS. ULTIMATE - MARIO + RABBIDS KINGDOM BATTLE: DONKEY KONG ADVENTURE",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 27,

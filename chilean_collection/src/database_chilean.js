@@ -913,8 +913,9 @@ const inventory_chilean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 86,
         "COVER": "JETFORCE GEMINI",
-        "OWNED": "NO",
-        "POSTER THEME": "JETFORCE GEMINI"
+        "OWNED": "YES",
+        "POSTER THEME": "JETFORCE GEMINI",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 8,
