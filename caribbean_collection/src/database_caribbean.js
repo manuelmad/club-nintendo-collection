@@ -178,8 +178,8 @@ const inventory_caribbean = [
         "OWNED": "YES-POOR",
         "POSTER": "MISSING: PAGES 25-32",
         "POSTER THEME": "CALENDARIO 1994 / STARFOX",
-        "OBSERVATION": "LOMO DAÑADO - PÁGINA CENTRAL SUELTA",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "PORTADA Y CONTRAPORTADA SUELTAS",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
@@ -238,11 +238,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 20,
         "COVER": "NBA JAM",
-        "OWNED": "YES",
+        "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "LOMO DAÑADO",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 3,
@@ -326,8 +326,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 27,
         "COVER": "DONKEY KONG COUNTRY",
-        "OWNED": "NO",
-        "POSTER THEME": "DONKEY KONG COUNTRY / DARKSTALKERS"
+        "OWNED": "YES-POOR",
+        "POSTER": "MISSING: PAGES 29-32",
+        "POSTER THEME": "DONKEY KONG COUNTRY / DARKSTALKERS",
+        "OBSERVATION": "PORTADA Y CONTRAPORTADA SUELTAS. BORDES DE ALGUNAS PÁGINAS DAÑADOS.",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 4,
@@ -438,8 +441,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 10,
         "OVERALL NUMBER": 37,
         "COVER": "VIRTUAL BOY",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 4,
@@ -746,11 +752,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 11,
         "OVERALL NUMBER": 62,
         "COVER": "SAN FRANCISCO RUSH EXTREME RACING",
-        "OWNED": "YES",
+        "OWNED": "YES-POOR",
         "POSTER": "-",
         "POSTER THEME": "-",
-        "OBSERVATION": "-",
-        "COUNTRY": "COLOMBIA"
+        "OBSERVATION": "PORTADA Y CONTRAPORTADA CON RASPONES",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 6,
@@ -823,8 +829,10 @@ const inventory_caribbean = [
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 68,
         "COVER": "1080 SNOWBOARDING",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES-POOR",
+        "POSTER THEME": "-",
+        "OBSERVATION": "PORTADA Y CONTRAPORTADA CON RASPONES",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 7,
@@ -1004,7 +1012,7 @@ const inventory_caribbean = [
         "POSTER": "INCLUDED: PAGES 31-34",
         "POSTER THEME": "SHADOW MAN",
         "OBSERVATION": "-",
-        "COUNTRY": "COLOMBIA"
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 8,

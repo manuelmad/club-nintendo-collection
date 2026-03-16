@@ -77,7 +77,7 @@ const inventory =[
         "OVERALL NUMBER": 8,
         "COVER": "STREET FIGHTER II",
         "OWNED": "NO",
-        "POSTER THEME": "-"
+        "POSTER THEME": "STREET FIGHTER II"
     },
     {
         "YEAR EDIT": 1,
