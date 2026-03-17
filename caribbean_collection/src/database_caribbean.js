@@ -831,6 +831,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 68,
         "COVER": "1080 SNOWBOARDING",
         "OWNED": "YES-POOR",
+        "POSTER": "-",
         "POSTER THEME": "-",
         "OBSERVATION": "PORTADA Y CONTRAPORTADA CON RASPONES",
         "COUNTRY": "VENEZUELA"
