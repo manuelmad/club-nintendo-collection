@@ -395,6 +395,7 @@ const inventory_caribbean = [
         "OVERALL NUMBER": 33,
         "COVER": "MEGAMAN X2",
         "OWNED": "YES",
+        "POSTER": "-",
         "POSTER THEME": "-",
         "COUNTRY": "VENEZUELA"
     },
