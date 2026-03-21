@@ -1693,7 +1693,7 @@ const inventory =[
         "COVER": "FINAL FANTASY",
         "OWNED": "YES",
         "POSTER": "MISSING: PAGES 41-48",
-        "POSTER THEME": "FIRE EMBLEM / SOUL OF MANA",
+        "POSTER THEME": "FIRE EMBLEM / SWORD OF MANA",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
     },

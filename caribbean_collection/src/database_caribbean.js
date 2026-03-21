@@ -50,7 +50,7 @@ const inventory_caribbean = [
         "COVER": "SUPER MARIO BROS. - BOWSER",
         "OWNED": "YES-POOR",
         "POSTER": "-",
-        "POSTER THEME": "-",
+        "POSTER THEME": "EXTRA: CUBITIPS SUPER MARIO BROS. 3",
         "OBSERVATION": "LOMO ROTO. PORTADA Y CONTRAPORTADA SUELTAS. PÁGINAS RAYADAS: 17, 19, 46.",
         "COUNTRY": "VENEZUELA"
     },
