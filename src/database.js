@@ -187,7 +187,7 @@ const inventory =[
         "OVERALL NUMBER": 18,
         "COVER": "BUBSY",
         "OWNED": "NO",
-        "POSTER THEME": "KID DRACULA / BATMAN RETURNS / STAR FOX / PUBLICIDAD JUEGOS"
+        "POSTER THEME": "KID DRACULA / BATMAN RETURNS / STARFOX / PUBLICIDAD JUEGOS"
     },
     {
         "YEAR EDIT": 2,
@@ -3515,7 +3515,7 @@ const inventory =[
         "OVERALL NUMBER": 290,
         "COVER": "SUPER SMASH BROS. FOR NINTENDO 3DS / FOR WII U - BAYONETTA",
         "OWNED": "YES",
-        "POSTER THEME": "SUPER SMASH BROS / MIGHTY Nº 9",
+        "POSTER THEME": "SUPER SMASH BROS 3DS Y WII U / MIGHTY Nº 9",
         "COUNTRY": "CHILE"
     },
     {
@@ -3546,9 +3546,9 @@ const inventory =[
         "MONTH": "MAY",
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 293,
-        "COVER": "STAR FOX ZERO",
+        "COVER": "STARFOX ZERO",
         "OWNED": "YES",
-        "POSTER THEME": "STAR FOX ZERO / BRAVELY SECOND END LAYER",
+        "POSTER THEME": "STARFOX ZERO / BRAVELY SECOND END LAYER",
         "COUNTRY": "CHILE"
     },
     {
@@ -3559,7 +3559,7 @@ const inventory =[
         "OVERALL NUMBER": 294,
         "COVER": "KIRBY PLANET ROBOBOT",
         "OWNED": "YES",
-        "POSTER THEME": "KIRBY PLANET ROBOBOT / STAR FOX ZERO",
+        "POSTER THEME": "KIRBY PLANET ROBOBOT / STARFOX ZERO",
         "COUNTRY": "CHILE"
     },
     {
