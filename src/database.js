@@ -3219,7 +3219,7 @@ const inventory =[
         "OVERALL NUMBER": 264,
         "COVER": "SONIC LOST WORLD",
         "OWNED": "YES",
-        "POSTER THEME": "SUPER SMASH BROS. / NEW SUPER LUIGI U",
+        "POSTER THEME": "-",
         "COUNTRY": "CHILE"
     },
     {
@@ -3339,7 +3339,7 @@ const inventory =[
         "OVERALL NUMBER": 274,
         "COVER": "ZELDA - HYRULE WARRIORS",
         "OWNED": "YES",
-        "POSTER THEME": "MARIO GOLF WORLD TOUR",
+        "POSTER THEME": "MARIO GOLF WORLD TOUR - HYRULE WARRIORS",
         "COUNTRY": "CHILE"
     },
     {
