@@ -97,7 +97,7 @@ const inventory =[
         "OVERALL NUMBER": 9,
         "COVER": "MEGA MAN 4",
         "OWNED": "NO",
-        "POSTER THEME": "-"
+        "POSTER THEME": "TMNT IV: TURTLES IN TIME"
     },
     {
         "YEAR EDIT": 1,
@@ -127,7 +127,7 @@ const inventory =[
         "OVERALL NUMBER": 12,
         "COVER": "COYOTE Y CORRECAMINOS",
         "OWNED": "NO",
-        "POSTER THEME": "-"
+        "POSTER THEME": "CONTRA / SUPER MARIO KART"
     },
     {
         "YEAR EDIT": 1,
@@ -157,7 +157,7 @@ const inventory =[
         "OVERALL NUMBER": 15,
         "COVER": "TINY TOONS",
         "OWNED": "NO",
-        "POSTER THEME": "-"
+        "POSTER THEME": "BATMAN RETURNS / CONTRA III"
     },
     {
         "YEAR EDIT": 2,
@@ -617,7 +617,7 @@ const inventory =[
         "OVERALL NUMBER": 60,
         "COVER": "MORTAL KOMBAT TRILOGY",
         "OWNED": "NO",
-        "POSTER THEME": "SUPER MARIO 64 / ARTE EN SOBRES"
+        "POSTER THEME": "SUPER MARIO 64"
     },
     {
         "YEAR EDIT": 5,
@@ -687,7 +687,7 @@ const inventory =[
         "OVERALL NUMBER": 66,
         "COVER": "BLAST CORPS",
         "OWNED": "NO",
-        "POSTER THEME": "KIRBY’S STAR STACKER / ARTE EN SOBRES"
+        "POSTER THEME": "KIRBY'S STAR STACKER / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 6,
@@ -820,7 +820,7 @@ const inventory =[
         "OVERALL NUMBER": 78,
         "COVER": "WORLD CUP 98",
         "OWNED": "NO",
-        "POSTER THEME": "-"
+        "POSTER THEME": "YOSHI'S STORY / ARTE EN SOBRES"
     },
     {
         "YEAR EDIT": 7,
@@ -3197,7 +3197,7 @@ const inventory =[
         "OVERALL NUMBER": 262,
         "COVER": "PIKMIN 3",
         "OWNED": "YES",
-        "POSTER THEME": "-",
+        "POSTER THEME": "SUPER SMASH BROS. (3DS - WII U) / NEW SUPER LUIGI U",
         "COUNTRY": "CHILE"
     },
     {
