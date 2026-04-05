@@ -13,4 +13,5 @@
     background-color: var(--medium-blue);
     color: var(--white);
     font-weight: bold;
+    cursor: pointer;
 }
