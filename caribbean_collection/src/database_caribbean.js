@@ -645,8 +645,11 @@ const inventory_caribbean = [
         "YEAR NUMBER": 2,
         "OVERALL NUMBER": 53,
         "COVER": "MARIO KART 64",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "OBSERVATION": "-",
+        "COUNTRY": "VENEZUELA"
     },
     {
         "YEAR EDIT": 6,
