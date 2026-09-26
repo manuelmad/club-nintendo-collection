@@ -1990,7 +1990,7 @@ const inventory =[
         "OVERALL NUMBER": 168,
         "COVER": "SUPER MARIO STRIKERS",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 41-48",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "RAINBOW SIX / CASTLEVANIA: DAWN OF SORROW",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
@@ -2029,7 +2029,7 @@ const inventory =[
         "OVERALL NUMBER": 171,
         "COVER": "SUPER PRINCESS PEACH",
         "OWNED": "YES",
-        "POSTER": "MISSING: PAGES 41-48",
+        "POSTER": "INCLUDED: PAGES 41-48",
         "POSTER THEME": "X-MEN LEGENDS II / PRINCE OF PERSIA THE TWO THRONES",
         "OBSERVATION": "-",
         "COUNTRY": "VENEZUELA"
