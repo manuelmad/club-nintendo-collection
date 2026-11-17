@@ -3098,8 +3098,9 @@ const inventory =[
         "YEAR NUMBER": 12,
         "OVERALL NUMBER": 253,
         "COVER": "21 ANIVERSARIO - MARIO - YOSHI",
-        "OWNED": "NO",
-        "POSTER THEME": "NEW SUPER MARIO BROS. U / BATMAN ARKHAM CITY"
+        "OWNED": "YES",
+        "POSTER THEME": "NEW SUPER MARIO BROS. U / BATMAN ARKHAM CITY",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3108,8 +3109,10 @@ const inventory =[
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 254,
         "COVER": "NINJA GAIDEN 3",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3155,8 +3158,10 @@ const inventory =[
         "YEAR NUMBER": 5,
         "OVERALL NUMBER": 258,
         "COVER": "DONKEY KONG",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 22,
@@ -3240,8 +3245,10 @@ const inventory =[
         "YEAR NUMBER": 1,
         "OVERALL NUMBER": 266,
         "COVER": "MARIO PARTY ISLAND TOUR",
-        "OWNED": "NO",
-        "POSTER THEME": "-"
+        "OWNED": "YES",
+        "POSTER": "-",
+        "POSTER THEME": "-",
+        "COUNTRY": "CHILE"
     },
     {
         "YEAR EDIT": 23,
@@ -3688,9 +3695,10 @@ const inventory =[
     "YEAR NUMBER": 6,
     "OVERALL NUMBER": 296,
     COVER: "SPLATOON 2",
-    OWNED: "NO",
+    OWNED: "YES",
     "POSTER THEME":
       "SPLATOON 2 - ULTRA STREET FIGHTER II THE FINAL CHALLENGERS",
+    "COUNTRY": "CHILE"
   },
   {
     "YEAR EDIT": 26,
