@@ -3110,7 +3110,6 @@ const inventory =[
         "OVERALL NUMBER": 254,
         "COVER": "NINJA GAIDEN 3",
         "OWNED": "YES",
-        "POSTER": "-",
         "POSTER THEME": "-",
         "COUNTRY": "CHILE"
     },
@@ -3135,7 +3134,6 @@ const inventory =[
         "OVERALL NUMBER": 256,
         "COVER": "CASTLEVANIA",
         "OWNED": "YES",
-        "POSTER": "-",
         "POSTER THEME": "CASTLEVANIA: LORD OF SHADOW / LUIGI'S MANSION DARK MOON",
         "COUNTRY": "CHILE"
     },
@@ -3147,7 +3145,6 @@ const inventory =[
         "OVERALL NUMBER": 257,
         "COVER": "INJUSTICE",
         "OWNED": "YES",
-        "POSTER": "-",
         "POSTER THEME": "-",
         "COUNTRY": "CHILE"
     },
@@ -3159,7 +3156,6 @@ const inventory =[
         "OVERALL NUMBER": 258,
         "COVER": "DONKEY KONG",
         "OWNED": "YES",
-        "POSTER": "-",
         "POSTER THEME": "-",
         "COUNTRY": "CHILE"
     },
@@ -3246,7 +3242,6 @@ const inventory =[
         "OVERALL NUMBER": 266,
         "COVER": "MARIO PARTY ISLAND TOUR",
         "OWNED": "YES",
-        "POSTER": "-",
         "POSTER THEME": "-",
         "COUNTRY": "CHILE"
     },
